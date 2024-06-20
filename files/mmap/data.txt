@@ -1,0 +1,7758 @@
+START: example
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+1i6v2q-,*M7!^:[Hc59TxswNhre}Rloc:{
+    "lat": 32.519585,
+    "lng": 35.015021
+}NJ*o,B;n%{Z
+'PaSL`Op)60~c"I1].MX[@\_=ik$xq/8(:4j5uTRt#3b-srwW+mv	
+dummy text #0
+dummy text #1
+END: example
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+43PCGDH(76f0bd1WI
+%2m5Q\wOisY?X_' ,`lZveUuRpK$y8at	]<:T-!joBM9)|Aloc:{
+    "lat": 32.519606,
+    "lng": 35.014954
+}^r`R$0J8nK|=/; +Nx,4~@[
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+RM`_lw-bBcIH^Un]q7XyJ=(~>?kNE0
+Vo%i\[QKg29/C)<+5"P, 8}usDFzL!$fO	p|tWjeAGv14#mloc:{
+    "lat": 32.519612,
+    "lng": 35.014871
+}A=omIJzX!?gx
+GD`R)[He#Yl5Z{9~	 wbu2Os%,Nc"&+KLF0BqnC@|^Wi:V}
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+0n3gHcN86([y't{5b-ho^+!mjloc:{
+    "lat": 32.519654,
+    "lng": 35.014824
+}Jqh]ucCGjT{%!	&a +EWL\?v*9}1MOb_4ZYs#yof[w0(~XDRQzk3@U;m'
+dummy text #0
+kIpV$_iBqSD#=7T}-MC
+9(Gvb4/rLEh[OPUcmy5%|6F	dHn]o^+<*Ktloc:{
+    "lat": 32.519689,
+    "lng": 35.014776
+}xc =[^VpSNW6y#;$/wnKZI{)aTJr!D
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+0vT,.%KcN>y8OPp]!6'_IG1i?Un$7Zh	&mz #9Qb<@^x(|rfRV\Lloc:{
+    "lat": 32.519691,
+    "lng": 35.014704
+}[R*Mcb<|o1UN]Zy6Vwz\^7)D_@ edhQL`p
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+)1WiHkZJ\B^e?{$Kv@.	lRhw(A6O9[N8Et&PD|YV# Lbgz]I2=MFf3~u'*
+>q4cG`Taloc:{
+    "lat": 32.519734,
+    "lng": 35.014657
+}BL8AYnDh93>lS
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+QJx4n [D{!iuUk`#35=|T}qE&FSm?X\B;cV:y.
+K0*j$Ws	M2we'7(N/@pfA<loc:{
+    "lat": 32.519719,
+    "lng": 35.014563
+}Q:F[PbryRm7.tnNKzD@'c+l
+dummy text #0
+dummy text #1
+ku]Zw4dp 2R/*bQne}7yE-j$,#_&>J|r;K5'0:<!N
+\^cSCI1zlxloc:{
+    "lat": 32.519694,
+    "lng": 35.014549
+}r~4Q5 'Xd>bUjPs%B3)RYhFI|2xD?T^l*oEOAm\a76eu[Wvp9(,&"0;_yV{:tf!LwkgZ	@}i]`S
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+=ntL'UEG!{a7x8Qq*loc:{
+    "lat": 32.519625,
+    "lng": 35.014515
+}q8`&K?XAO	^[J!%luSY1pLx>;@V'}c~GPU_sDv6o|*Q$5<aMfdw47bN)hWg{nk-z #T0/H9.\,E
+"tRFIB:j3+Ze(i
+dummy text #0
+dummy text #1
+{[~S@-5z)"'bw6+loc:{
+    "lat": 32.519599,
+    "lng": 35.014505
+}eb-[!gt,n:LUW'0daz?`sR~4oB3H1hx)fS.*I>uJ(qTZ<	QrE{jM
+dummy text #0
+.e[^x4A2}`;&zboMZ /UrTg%]WSyjEw+a1loc:{
+    "lat": 32.519514,
+    "lng": 35.014481
+}MGXgI	Q/b4Ue8F`}v 1
+@5{$E*,
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+0sx\7$(qTJuEH[Z	ti5QK'=/+a;y}n`Fez4*3,mvrSP^CO8>do2p:%{Y&~Vb1]_I6.loc:{
+    "lat": 32.519486,
+    "lng": 35.014472
+}aBIpuPM`E Qmz;c|9VGi=Xb4l7'&!2	Fg_#d~{\rKe3}UWt56v%fD1xHYZk+Ro@)[]y
+8h-(w>nqACN,/0:"?Lj*$S<
+dummy text #0
+dummy text #1
+ 3RZ|5Q6DkIx2XeWlY?#zuBop,(On&loc:{
+    "lat": 32.519405,
+    "lng": 35.014439
+}'S7_T
+);aI	^w9fBF-,}U@CoW`nH3Kq?A]xe%*DZ 1{k#XY~mgGb[h5dl
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+AV^0"8B7% T6.|K);jnEloc:{
+    "lat": 32.519379,
+    "lng": 35.014432
+}.kr|lFT6 Hb`%2:j+d?U<KO01XwYWNSBf@y(A\REL!3u	Mv9G;{/)x
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+OEqiLY%">t(5&bjyzp4	K+71:/uoloc:{
+    "lat": 32.519309,
+    "lng": 35.014414
+}krtW;\!w@[%l]/S'H-G^&eV9gxZ
+nicvD*YF~h2N_}B	Tz{aUj|Q17IX3pA)$u.E<0"dCfKsmJ4,
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+:6g]J_fed+<UWloc:{
+    "lat": 32.519287,
+    "lng": 35.0144
+}]IEaX9L
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+b"n3Ko#I(a1.uec% 5:zEQ/&Xq7l$4}NL|6x!P>0@s;CR`Uloc:{
+    "lat": 32.519211,
+    "lng": 35.014372
+}U9p 1}
+g
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+5I{["t)
+'8ma#-Xpv?$&1Y 4UCx:^dzglVTZ<jfbe%3	y6s2DE~/.}*7kWrL|QK9(nO>loc:{
+    "lat": 32.519187,
+    "lng": 35.014365
+}:>46,[_I"AL#Fx	)+v'\%{`&pU~mqj ?35dcJar1S
+dummy text #0
+.CdeAzHloc:{
+    "lat": 32.519106,
+    "lng": 35.014337
+}E*L`n%/!?R_Uu,9\pIowfOD
+dummy text #0
+_[sz`>9&Ju3DG/ ~+]I(CdZhH#Ob7\j,WM
+8X<f"E?AVSloc:{
+    "lat": 32.519084,
+    "lng": 35.014331
+}W	u,FCl}Uq&eT
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+C`FXMQ0W>UafGR"|y_Pekn;tr
+2p	m(xo?:ZVK9<\q@b^c'5*zL!ASd#w]J[,sloc:{
+    "lat": 32.519009,
+    "lng": 35.014303
+}"XUwK+#<Q%:buZ*k|
+_B4}.~jeo53sW@R Vz
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+oN5FIk,UWHu\>QaP:z/VY48|[(6fAR_M )%=$&vhi.Z
+	e+2L0TctmG?3g9{JnC7X^<Ej"KDdbS';q@y}loc:{
+    "lat": 32.518989,
+    "lng": 35.014306
+}Pdt7uH SC^RqI>bw9k%/(#	4
+5-eOE![V:*n.g1y&'ilf}K8Qz@)Fp6Gr~0`;
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+50-k\,.QA:CIU'Y/zHV&]e#s	!dE2Kloc:{
+    "lat": 32.518916,
+    "lng": 35.01434
+}l2w=eN!>P&
+(QK3GjLb?n}^I~7#_CBS<W5gc/ UYm1vx{A8R6$JZu|`];DrT.,\@FfE0+h	t:)i
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+Q{)Z@\5*hS	|YO's3n/_U80q2R IL!XmM-,<j%i]C`K}NFEwAloc:{
+    "lat": 32.517636,
+    "lng": 35.013531
+}LbO,Co{u4@}|G:qM$7^Hm-Zn?J.=#t+%~]v"I[YFW1ATpaz6ed3*XRyh5x9;NDEVSQ!_Uk'(&P	j
+/`B\lsfcr)80<
+dummy text #0
+dummy text #1
+A!O@Eodc
+U(+*SnyzvT\1:W9D2}BuY&NIm)J	^kqlR6#=Qloc:{
+    "lat": 32.517589,
+    "lng": 35.013606
+}QUKAhN
+dummy text #0
+dummy text #1
+?Jzi;a7}'|SY\_Kwfhg(=X 3@cBRHO#v.)L{+N,]0<pVe[q/Po^Wk"j8QsFm`~C-9U!>&ur:	5Mt$lyn4AE%x
+D1Ib*Tloc:{
+    "lat": 32.517574,
+    "lng": 35.01363
+}r/VEx<2DX75 qc
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+bdKQt"1`\_BP,jNl=[Lz%/Tg+?V(fyAUO'~HEx-9C@SaoFrm$u3v7whG82|}^Mi!Y<.R>loc:{
+    "lat": 32.517529,
+    "lng": 35.013705
+}d19PqB|Em^_j[oKNr{ICuRn}l#/z6i
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+Q*GiMU2	 -gF`N9(P.@v"rJ)xA,Ed4bDYlCu0OZR_T\8e^H}tk|>jKp;#~]?VX1:BLoW'3+Sc7y=hmz%w/[{<f!an&Iloc:{
+    "lat": 32.517512,
+    "lng": 35.01373
+}8c4Q"g)_zLUwWn3!5t	+-]r>qA9=7dRos#lb%`Cj{~xhZ6|y D?Oa0/ifX*([:&Y2}
+dummy text #0
+:!w<Gp|Z	$;e%I{z#Uo^bE"Ck@~?gu,M3S(=yQ+iHAVl-aq7.R5x]8t42JP>X\D)B_Ls[r6'KNhmn}d&0`
+F*vf WTloc:{
+    "lat": 32.517459,
+    "lng": 35.013809
+}|*p#<ufD]Wd8{)!@ Ii?Zk3n$GvUbwYq^CHKcL/lxPN&"Vy
+dummy text #0
+dummy text #1
+dummy text #2
+/,9k:SX0G.z2 oJEIb<[m6q\ur~V?MjDiyvC"Hatp|{hloc:{
+    "lat": 32.517442,
+    "lng": 35.013834
+}xT/Y}3z{A4c0UMOaXo9\;gR,jburW_<ILE
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+M|L\+7#w4,ksiS}6/*RC.['WKBq10Ho{&~jNh3puZOY_%t]29^XJUlfPzADV >mxT"(?@gyQe$Ea!=
+rIv-)	:cdnbF85Gloc:{
+    "lat": 32.517389,
+    "lng": 35.013903
+}]b/"S2[~Vm
+MGFJ&qyRQ0;$Y%:Esxj<Bd
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dJW^wMbHixhrO"s}X[P#_4;@n1S?FYzKg$:	)2tvf '=%<7u~/Tl9mEy\q&+,!3B{`*aZ>R5k6AU-oloc:{
+    "lat": 32.517373,
+    "lng": 35.013925
+}5>sx=6S0
+#"v)
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+87;%aEw)-3~JkP]jT2*s'Mpx<gu4$rWG5b^Dn\t	y`SQo.,9}"0=#qK!6L|mCf?ZH1
+&XIBYUO @hV/zv[{loc:{
+    "lat": 32.517323,
+    "lng": 35.013991
+}G=UxJ8_,yQV&/szT"2`[:dBmDpj+
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+y'_h0!
+23K9;d=qnviloc:{
+    "lat": 32.517306,
+    "lng": 35.014012
+}l^0P#R;q!bC*orU|y~"eaN=uLE2+,sfkK:)6vdH.FwJ-{h	3B`$x8Z
+OGX7n/Tj%Mt &]p4_'\IV5<z1(9}cSYWAQm?[
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+;C}4BGfV5L6<^
+PI	zZ/!(iud-8.0sR$O1=XJ3@%HAx_?j9k>Y*DQ+&#T,"og'trNm{KEM\p]lloc:{
+    "lat": 32.517254,
+    "lng": 35.014075
+}OV:S4Ds_%;[iG&WL{h`q6l.zv	mJok@xb!|UaArt/
+
+dummy text #0
+dummy text #1
+B;`*Dr_Q	>39y\G$oniw}z"18-(H#hvXqm7^S6J{j0'5ZWbtTL%[f 4kC.+ApNloc:{
+    "lat": 32.517236,
+    "lng": 35.014095
+}|:E7v6(>/iQ,tgPaD}w4;zp2B-N0!_o9*s\<#{Ff
+c5.mY~b T[
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+|Nl[&;k(	K0^+ /qT3:EwJf%
+4<S)8C,gRn9MzLa"uxb#2X_loc:{
+    "lat": 32.517183,
+    "lng": 35.014148
+}|o} #?`:BV!&,8U[0i
+RNg7564CvYSm;~{.tEJ\_
+dummy text #0
+#6	$MY.! HqEIX{<(un:Cr3|V1fhDj`eFlsWR%kL_g[]K4,v'*8}9o?+~Tw\=Byloc:{
+    "lat": 32.517164,
+    "lng": 35.014167
+}jO:xk9=	>`}]za7MI@v&AN(KuURT\m%Hp0;Y^+dJf
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+a[Dp~QHj]GR\f.`@,;V8|/JP&>i*yM9<kloc:{
+    "lat": 32.517111,
+    "lng": 35.014235
+}cv0b3.kUClsQ\AJ;fxR~_*K}pt#^
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+(c^lK_@o5e-8xQ6NO'ryuP0i]Az#7loc:{
+    "lat": 32.517095,
+    "lng": 35.014257
+}q}(7/OjrTDPuR8]
+dummy text #0
+dummy text #1
+dummy text #2
+E
+m}UQ"YdLW827<ltp!JReDo{fOg>3-VK%xvb~)Z6Ar[By`*Mc'90+$/sk.zC &#aIh\iu=wX_H;5n1loc:{
+    "lat": 32.517044,
+    "lng": 35.014332
+}z5an{jPJ,|X%G*vH`'+	-9]FW>k(fZ8tO6 Y1"@B!y<\$SKM/IprQL:g[CA0D4;q_wT=xuo
+ei7U)
+dummy text #0
+3<[-	1Q]bylhfKaZ`;|YoR*loc:{
+    "lat": 32.517026,
+    "lng": 35.014357
+}L+zFvdPx8o<gV{C$%u@DJOX'*?/;_3	[pSq1mHaKc4t0i7hY]>5Qf=UE-#ryje,9
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+G?PIO*ho3j6Mk'>F_2@}l0~Qm!;7Azloc:{
+    "lat": 32.516972,
+    "lng": 35.014431
+}t+8UlaP74Rv\uT@[
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+)`[oJ+3m@RF,.}Z:<]TIC4z
+Hbhu7vrf;*S6L?{lUEaNp!Mq9%gQ0s\PtiyY$j Bc&	V/-=dAn~loc:{
+    "lat": 32.516954,
+    "lng": 35.014456
+}8Lu-^W})/k6Yv_3e=>n2,5[Q<S~G:	0@c& #
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+SP^yTAJq!l/v1aK6[5iQdfE}3:WX&FuxG8Unj\ r{eNs>	MkgC.hB|
+*42z`',#(+bo]m$wt)-=RH%"<7ZLIpY0?_Dc@~;loc:{
+    "lat": 32.516891,
+    "lng": 35.014519
+}S-!uwY)H94q@b6"ZVK3r
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+%+ od}7`	qYk{Ic<EjtH@y:~pZK/5ANWTxBQ]Mm.Cv=-,gloc:{
+    "lat": 32.516868,
+    "lng": 35.014522
+}_Z2+[@;QpAai'OVxN~B/}5XRL9r=#$
+*,8:1]wlCFv^
+dummy text #0
+dummy text #1
+yjHR9{u!7Ploc:{
+    "lat": 32.516818,
+    "lng": 35.01447
+}%/wT&AYzJ9DGdPk	x5u<V*?^v83}Q2|`S' EK$NZ)06"q4R;
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+3 \&O|wT}X"=gx]v^i#loc:{
+    "lat": 32.516803,
+    "lng": 35.014442
+}dYUp9X75&.H; elhF6\k4I~]RAcf-o[:Pa(}$0B,JDmu_^ZGx<!b1z/+	)"
+#{
+dummy text #0
+e`Ws4+zET<*	d1Y]-?bVq|5D9ghCR\!v8yS"H@_ Bk#aLG=;[^}AN2/{rO0'Q
+6xt3:.%JmjnF>Mo7(K,Iloc:{
+    "lat": 32.516752,
+    "lng": 35.01436
+}F?L=NQ|!pDM
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+nQ/zHZo{dJ?sOva&),=+<^g DXNt4.x
+\K58eE;Mb0m@[fY|7	VjCpFl*91#Auyir$qU"3~}TP:k(I'>loc:{
+    "lat": 32.516734,
+    "lng": 35.014335
+}[+JcFEOjw
+dummy text #0
+F2j)\'1/4"?wZ9R$T0!n]m
+zVd-7}b.a[i^exE(8H{O~5`uqSr L+Xl_:%W|&loc:{
+    "lat": 32.516677,
+    "lng": 35.014257
+}L@t%+/w\xl
+$y>ofRHsSvu8jEI#~m;W_F .*)ZXD}-rC4AP	QJk|G&?M!BN`c3(bOia:[Y'{^19d6g
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+AErM/G]pyYOLF6[w	I8{eVfSb"1'lloc:{
+    "lat": 32.516657,
+    "lng": 35.014233
+};YI47-
+_U$%+Wom`6LbixcM:.d~&\GJ5	}OflT]
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+8$VsiD3Ym }L4Xnj_E:d(AM~QZ]&5N{
+/,r-P^k=">CT6@GeSHlB#!F%+'ztcU[q<h.	v`loc:{
+    "lat": 32.516591,
+    "lng": 35.014176
+}hc)fzn{tjPlKQ"G-
+gsHE%8LTyU@dW3'bY5\pS|	0N!_a$,wiZO:4
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+`r<	}!L:loc:{
+    "lat": 32.516568,
+    "lng": 35.014162
+}1~P>	@<)9Xi'bF
+_V3N*AD?:{EZ4lHu "(x+
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+?jgFo&q;x~@M#.=3rENw4b+loc:{
+    "lat": 32.516506,
+    "lng": 35.014103
+}#dGIz*3xtCMg+4v@N.P|Yr8/Fe[W5Qo^)fHiB-aU0E%l:XO,>}yc	;q7<T=p19k!?$wDSn"(]Z~m'LAh
+dummy text #0
+{\b*qT#gt.<Je0hQw,/'68IDYcB7|yZV=:K4^v19O]R5$r-pFPmAHL([
+2ou?+d~SE@ akUn3)	};z_M`&!jClfi"sXx%Wloc:{
+    "lat": 32.516486,
+    "lng": 35.014084
+},aK)O+(C"mH
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+*F&>_C#K50
+Ojsq1yQ-Sg;bo/{Wdi2")nrvpfDz9	X'8hAZm,tPloc:{
+    "lat": 32.516421,
+    "lng": 35.014026
+}<3ElC}Jw]#Of9kI_+i?D7sAj=	gGY b%*/a&mt"'4dpST:ur{|V,0BR>yqM
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+
+KY.vG8L:O7E_l4^s|*eaDCX1}0+Sw~jloc:{
+    "lat": 32.5164,
+    "lng": 35.014006
+}F]mCh_nzB%U fD!Ma<u5jWK,ey4l	1O}+Qo"I=T9r$qg\7(GN?SE0
+)8V;^X~s6-
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+v?q0f
+<>} ~JT_$62p^7s:tUQ,-"=SoK)\1eYx4iFhL&gWBZ	V;@+|uGnmC.j/5cEykbMloc:{
+    "lat": 32.516338,
+    "lng": 35.013941
+}nY_?, o	u'9PI{r/ymzR4p})=dTiQD]qOB#\gVs>G%t@^8-3$W6H0~|+M7K1`2x
+Cfel[EJNcwvk:5b.;<L!*j"&ZSU(
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+]eY3|loc:{
+    "lat": 32.516318,
+    "lng": 35.01392
+}\N3fH-#XlpSyYm 7_>bIa0A$(Qg~J.Z%x,	"uD6=w}k;RLot@d&`C!v
+W1?nqKjr:P
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+bx[s]D}4J85Ik`qLKv6@e)9%ojf&wapAT"!\g :NlRMtuCF<.;'^GS|loc:{
+    "lat": 32.516253,
+    "lng": 35.013869
+}x	PNbri%#;\d2snLg7a}A`?lUW9 O6J*"
+&(F5wYI4:kh-0<_fvXjS>3eG.qTHz=/Cp|KE{MB'1[^
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+B	lmc|PaRKh {;F,nvx:#r7'To}I>\?N-<$VkGO+*S`]XuU@bseytqloc:{
+    "lat": 32.51623,
+    "lng": 35.013852
+}ng;d 
+dummy text #0
+dummy text #1
+dummy text #2
+	G3.g:dS
+0ew(X^6)cQijWM,q>/\KLobtrHNPmJ{E" Cnk5]fB[_}x19;%|Y*<VhuZloc:{
+    "lat": 32.516174,
+    "lng": 35.013795
+}ZV[d4
+Y21TGly,/ D$E+O8cI{ub3xfg:j	"]#SA?<R.;9Q}aC*Hps>7et@B
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+9:N|3gQ{2"IF.P1_zGa6Y*X%#,x0tLfU+-Tmko'KD`V) ~=H@i>r8&s/	vnp[<R;4
+}O5(WjbBZd]qAec\7Eh^Mlloc:{
+    "lat": 32.516156,
+    "lng": 35.013775
+}KOE0H/&eS<jt	"f4;.:\61 $
+5w!rL-d?mcY^N#shQZ[Pp%~{UMIJg+,C=n8b@2)vWiV>Fl'koaGXB}A(D
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+~$`@IwC aUtJ?AQSy!r(n^L3HY\d"ci>+]	*D|jW.91':20G
+XK&u%bgZv5so}<xBhFp;#8R=MTloc:{
+    "lat": 32.516108,
+    "lng": 35.01371
+}JOk~TP:5@&VN${#7D+RKfbuhcmX.)i,W/t0L\63?[}_nE1rp|%gC
+'Uzdl	
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+Z3]H0glW:)/X>h+rU.\qm
+s!CR?15&8loc:{
+    "lat": 32.516089,
+    "lng": 35.01369
+}V}Y&36ioh?`9xOd{	f^#"jq>Tw
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+B'"o~	ON#fM2p+I?_E0xXLn9bDmwi5c/Rloc:{
+    "lat": 32.516033,
+    "lng": 35.013633
+}+Q-eg'YI!hUE3B%$[TL^12<*NCrP5k,09
+\?V6asD@SodxG4J8~}X.c">f7z]Hp{vKminjqF y	A|=Zl)t#_
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+:9)o3uKT"'lloc:{
+    "lat": 32.516014,
+    "lng": 35.013615
+}te
+kx<D0 yv?np%bA;^J3`17QE
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+Cko2/]loc:{
+    "lat": 32.51596,
+    "lng": 35.013559
+}:bs>fx'J@.Be^5TOMX\8p09ER3gF+q}!)vcL46#rk*D],_<1~|;{V2G%QNU`PoCjK&=[wlzid	 "?WA7n
+
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+RV~uLNSW`T7lHpZ{Q*[&t6yYrz>s	^_+.a J}loc:{
+    "lat": 32.515943,
+    "lng": 35.01354
+}o*CVi\9d S3sD6Y<&4+kuHxInN{!
+-m['j1O;_lT(^:J@}Rr2eX$W/A%QZ	57U`Bw~#Pp8b>."M?hvE]LcygaFqK
+dummy text #0
+dummy text #1
+H?i5@Y`v;puk=}#e4*j9JnPs-[tF|]3)RN BD.^S<mQ>Lyo~AG'7Ox!,cZ&EX2"I{z(KhfWgloc:{
+    "lat": 32.515891,
+    "lng": 35.013482
+}yH>s6]fx$,jL/C5VhI<}-AQd*8P7Y!3`F|'u@M	zK:eNb+ZDR4imX?kOlt=
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+{3I4K8uloc:{
+    "lat": 32.515873,
+    "lng": 35.013463
+}st!NJ<=}VUEc(Y[~:R|u?O$Xrq+5m/g.P	Ho;SbFT_9
+dummy text #0
+dummy text #1
+T-SFMB4m:<0%c>`"Dv_U*;86a{3E
+]KPw(iY.,[bel#CV@sloc:{
+    "lat": 32.515826,
+    "lng": 35.013403
+}Lx]W{ZTpH$zf`7"X:k8,orE MJ@c;<|%~AdFUn0\uetSQKVlsy5Rb')BN
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+($+by[J&h#)u'I.7F`Bl:|w}cef nO;,D6dNH
+@<g23>loc:{
+    "lat": 32.515812,
+    "lng": 35.013382
+}Czg1dN^!v%AZh3 'tDW_mo	4KjPBY*R0~LfT>Jxrn-U6X7M\p8G:y
+F".,9;{(c`}]5QEq<Ii$&H+l
+dummy text #0
+oT}H8{R_$@%&SbfyNs7'I>K"x=V62^.;p,5td
+	Q4v1!<BCjqwz-\DF:#EG*9Aa]i?+/Xk) |m~e`YJnhLOPg3Wr(c[ZuMloc:{
+    "lat": 32.515761,
+    "lng": 35.013325
+}z"`ga1Vm#vk-QB\ZsReW6@I?K%+~Eh}&TUH2jx'Nq	u.D;(fwAGplr
+dummy text #0
+dummy text #1
+]t_Ys{/hP'=Vfux|%S~a3zj	L9,M;.I2iJgyZc
+8<>7O E!#@He$K?0R"w*ANU:6F(G}r`koC1)vTXD&WbBmlloc:{
+    "lat": 32.515743,
+    "lng": 35.013307
+};#XGCIb9[iM*<z=yDJ\Uepa!"f5H'$^`w
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+t[as<8g}CLlZcu,%i{TQ(6X1mGpHloc:{
+    "lat": 32.515693,
+    "lng": 35.013246
+}~TF|]"kj6`celHW&.PAr7n4?#
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+07TG9+f`Uude@RMAx l$FkB](!o2,;\Q.ZSrC*t#^mh|W~zP[3}Hc1i?y{Y_6=s/%"J5OgNXv:>jbIDloc:{
+    "lat": 32.515675,
+    "lng": 35.013226
+}{c:[fl.G9
+MO;5JE\2&(kR#-?Vz~7,!4`	r"t]}UYHLd8 quNX
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+ea3Xn_6PkiBE1<A%G![}U+q(,Qc-F^J."m:Oloc:{
+    "lat": 32.515622,
+    "lng": 35.013162
+}VXxZ5#l0*\<1|$+
+h
+dummy text #0
+dummy text #1
+dummy text #2
+u1ZS23<z(0-icx!]$DO#=m7P+?\V4q)"kWh/6rasLHbyj9p8{M'>|,.UnG%t}:v^Aw[I5;gRJXef_	CTEl*Nd~ Q@KBF&loc:{
+    "lat": 32.515605,
+    "lng": 35.013139
+}u\`s2 "dr?/ZLovQP[yj:p|xw{=UXg%!<Da0bl}ni1A	)T.5IcJeH9;
+-Yk3q
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+Yv<:pJ/5H1s,[kB\z*'%Zc>G"|OV~`j u2T6mloc:{
+    "lat": 32.51555,
+    "lng": 35.013074
+}6)_0o1+g]Rd	W:euG&Z7vbAOY\[z(/}!yh=
+{Tw%P,caXS> ;J?'|9pD5L~K4ls
+dummy text #0
+dummy text #1
+dummy text #2
+t-D%IOTA1loc:{
+    "lat": 32.515531,
+    "lng": 35.013055
+}p}lrY{;C[HzDR|4k I<cTNFbQ\y6/wZ~O*?=]at_xM9
+)^`:gjm71-@PB%'dnV
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+Vt+I2(`n!APYd#xuO?zHam_B:jR	cvil1F/'L[-G=KrE,6}408e@bQloc:{
+    "lat": 32.515471,
+    "lng": 35.012994
+}hMx[:Ei6r,`{tkY-DuW~
+NBlf4#UC_'I&2wOT*"z?J
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+o|grn%>fe^-4
+"Yc8jVloc:{
+    "lat": 32.515451,
+    "lng": 35.012974
+}68*j7XU+ABr5N_oq~C	J|V!
+dummy text #0
+dummy text #1
+x[fpC7:QhdGNS9n61%$Yw<2e8O^LP-gUJb|Va!B+(l"~?q.	s{AH})K`WXm=_I&Du@r4];vM5
+'F0Ec/\,loc:{
+    "lat": 32.515388,
+    "lng": 35.012912
+}SFOQPHYBDhpI+VjTxdcf0{U4J.n*(:@3e!K" ?CZ-q]5>uw_8|2tyoWX\&%9=k[<'i6^,z	LmGgv}7b~;`/
+dummy text #0
+$W;B \%^F{wsqUpn*VM8E5K`4'S.:}XGb>7
+	jePJt9clOoNH,rf?/+uzk|LxTloc:{
+    "lat": 32.515368,
+    "lng": 35.012891
+}gC3iO?	~BK#tWXmT+
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+bNQ2_\0UfY3crJ"]W,['XtDp -l;9`SeL/F!Mj}nou7y?@>C$+	E|{PgwhsBO.<(5v*zGH#)xloc:{
+    "lat": 32.515311,
+    "lng": 35.012826
+}%f`ZX0[d*;{IpH(jrM=<q}7a'9J8RC$sF-@w_h,BS1"645Tix\zmNl
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+`#5VFu[7D]?i'!Z0_pOB3L&~*f</}Mk-oUz2Xw"loc:{
+    "lat": 32.515291,
+    "lng": 35.012806
+}v?= MFlg%
+dummy text #0
+dummy text #1
+dummy text #2
+ye(;[}S.z_V6^	wEpRu0 &a%:IYQJqA@vd/4M`={~iTlOG9)cmnk*BsN|+PfW\5!Hgloc:{
+    "lat": 32.515226,
+    "lng": 35.01276
+};0\Az|.]6KchHUa$uQ_
+YbTts=w1
+dummy text #0
+dummy text #1
+dummy text #2
+	_i!L^/wYt&]O{-X5132IAPCr#()=lHcWqu,UTn.0;F>J9V%loc:{
+    "lat": 32.515203,
+    "lng": 35.012747
+}YgQ|
+,(z-eixuN8+`>9S_4$y.wI}q@"1/pt3EH#20bClV'!on=KTk6sdF^
+dummy text #0
+dummy text #1
+dummy text #2
+-gLB&R0$@dTGhy=t*3)4AvnSw|,r^ pQWu9l_fU8c#aM\m.sI:7i]"+EPz?ZH
+K6DF~Nbeloc:{
+    "lat": 32.515136,
+    "lng": 35.012709
+}AZ'$/&ao.46OIY!\5XU-^=n7B	 ,
+dummy text #0
+J}Stm%8Fk)<W.{X&d~YxTI\/AP2?yQ>q[gRV`s*D7Nwo#bp"'n 
+C]l:^G(	,ZziL$KheU@Oc19;M|_E3!0-64vuHf+Bj5loc:{
+    "lat": 32.515113,
+    "lng": 35.012694
+}TiF1pHx[QE`DR!@6"P0?]
+	V{M(%NWrafI<t2};3ygB7qGls^9J-
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+=cJ9$;u>OSa/
+n|r"otVsFbYM?gEk}-eWf1<q,hp2RIC#3Q^'T*8loc:{
+    "lat": 32.515052,
+    "lng": 35.012636
+}c0+CAs>vE}S#43&gN^L=dDl~U8M|J
+p)q6Z/_7wX!o?mhI*zu:"2{,%rafO91
+dummy text #0
+dummy text #1
+dummy text #2
+b_"hOPTl@9#~G`LQ[rVD!U?<jgdE/q]HAnXWiMzc7-u'o5YJ$CNxS3%:>8)p{ RB^w.e,	;Kloc:{
+    "lat": 32.515034,
+    "lng": 35.012617
+}:3w'Am}eTP)"i=I9	,[5hs|;o\.HJQp`LK#
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+]`BrZD.Jwv[u)R6io1a*s/CK:?L~z-W
+4A<3,q^EQY"|Unf	V>=2t F!y#_dp9S8cjkGmlM$%5(NehPH+;7&'xIX0bTloc:{
+    "lat": 32.514986,
+    "lng": 35.012537
+}Vfl*7ZuQys}	:`1ho3HzM
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+z"M#=(YscS?}	26/bi_E-g\aRQvw|GJIU^loc:{
+    "lat": 32.514964,
+    "lng": 35.012521
+}1>[vW5ABf
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+8ksbvloc:{
+    "lat": 32.514901,
+    "lng": 35.01246
+}3SXc~r5vE"W^6dFH}@tP,k'/&4RCl9#AYGh1T-B:87.mfwu{ ;neV
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+BRF VAeibd~(]MK<?gj@0svpc*4tyNk|GS}6q%Da5Wo-nloc:{
+    "lat": 32.514882,
+    "lng": 35.012438
+}xfOhAY[=>QrHo/}+{
+%LS6._0;2`l8enKM,<czUyPE\g 1^)'sTGu"i7X|R	V]bFI?~CDBtd$!j:J-pZ3#(vwNq*
+dummy text #0
+dummy text #1
+dummy text #2
+3dmOJ:|^'yu`ri$H"\#{41@
+PX!wp6?Z>S,loc:{
+    "lat": 32.514836,
+    "lng": 35.012371
+}3QA08;PT{[mFs&vl@^|"%jVzOL1!+ehqx	D~:fa)\6/rUoyZ*,Bb# 
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+_)[.|loDsQp'RXaNmn 9/CH%xqZE3GPJ\d5~khU-
+AS6LYW$rycK2FzT4!M*Ib0u]j1gloc:{
+    "lat": 32.514813,
+    "lng": 35.012367
+}8j],
+G\o	Zdl^Q@gVESC9U.'eH-zM~v?b`KD%=2$_+I6u>:J}P)WF3scT4OR&thfYXk;"|0{![NqAL a*/xmy(<Bp#w1
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+oQ(p'G?w$T28eM"sSaI6<	,j+Y;.E@r9 K&[d7CVuX_fh~)ZxyBlFH}PU\J=b>1D|4g{Act5:mL`*-^%zR0Ni!#vkn3loc:{
+    "lat": 32.514761,
+    "lng": 35.012418
+}%
+mrM&F159qhH`A? O}TY8	~wEg:*{x
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+Z|jI&_<2=g5(w$*:/O).'D~1loc:{
+    "lat": 32.514746,
+    "lng": 35.012445
+}DBl|KwhE>XG/5?J@4M
+yV<u(A}RTQ&)rZ_oPUtpSHgveC,imx#'29N;F8Ok[zfd7-	sYb!"0nqj
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+~oDpL"$=k@M'|b*)_zP0#4iBK2g[5%;OCd6Vy:}!Tqf3XWZ	FaxNlY&G.9
+loc:{
+    "lat": 32.514689,
+    "lng": 35.012516
+}~:JG8P4-beY'|19I g&jXo>F*h+	L)VE_`Nd57xyt(vq/A]^SZf\s[!K$WRm<aci{M2CQu"
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+\XSHMpY.ygz}wQWVvFf^cUKi~|loc:{
+    "lat": 32.514671,
+    "lng": 35.01254
+}LAXeynf_HPF?{g2;-7WcaUO)wQ
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+;DVr$EKb#kTc,a@ZWs/9IM[<*)iy:}ej0P_%'+{tq]2	po .~LOg|Az6^RYvS8l!1FUG4"loc:{
+    "lat": 32.514631,
+    "lng": 35.012615
+}Ph?|wT)K%95A^1J]bc[aDje\*<#vVy78C
+nIgsRr0,fq.M"UW4$
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+H8d@9b>t7Kcms3Pue.!r4%n);ENaW(jgvIo$#BS}Qih,	:2 ?+wTUloc:{
+    "lat": 32.514619,
+    "lng": 35.012636
+}/QU(<vrd.
+dummy text #0
+dummy text #1
+dummy text #2
+!(qk+|>rn-&<Kg:oOf*'$aLdvi".jH75J)wQ/9F
+lGIp4?NcA%1R{EX`6es~\},xm	loc:{
+    "lat": 32.514562,
+    "lng": 35.012717
+}3y9	s>%@?d\^!8RhtEZlocr$PIfV.'}-W)Hv5aKOG0B"uLkzm#
+dummy text #0
+dummy text #1
+dummy text #2
+bu	m@h06`j9olqPYJNvg3}_SFCpi7z=5y<sDWe>(L,wU]Hr; f4$aI\%x/T8)n:~K.Z{'Vt!O1+|cB&AMX-^?Q"loc:{
+    "lat": 32.514545,
+    "lng": 35.012741
+}^7%doU?sGLu|f/BM6Xx'DqtzWFEO}C0-!T8h{eP,`b.*@Kv_\rap<[I3l$
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+I8cGl|X
+A_rPC*f\dhgL7RJTz;~nt5	?m!N6W.x)0/p-2v(HFjy@b[e`MS"}4ai]Z3^s>&Kloc:{
+    "lat": 32.514507,
+    "lng": 35.012782
+}sZ!ClaN
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+#i3hgdloc:{
+    "lat": 32.514134,
+    "lng": 35.013324
+}HY`laAfDi@&SZju7t,FPxL1cOQ>{8(\g#	%w$~})+;'*?rU=X!"<ohB25d[
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+Dj"Ezq ?0w5<uLm[R=)H$a6_hr>2%:kloc:{
+    "lat": 32.514092,
+    "lng": 35.013393
+}|Xre$lA(3}D/M-Id,*vNtwm@j?Q9Vk4.agG]b%L
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+O{sr!./'m
+U#w>loc:{
+    "lat": 32.514077,
+    "lng": 35.013417
+}D7NF}TCicIV{>lM
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+I.H7_{qbw~1@&J]0LXCzT*loc:{
+    "lat": 32.514028,
+    "lng": 35.013493
+}59k*U= 8/`L"h)cAP0KHN1(v,zECS>_OQw%\$qX
+2p?Fxm!n#;D~J	GB@]ebto6lTs3YZf|W-
+dummy text #0
+B_>&Tdk1[Q2cyu#;miMo!V`IF%h(N\*q-?+pwG<Kr
+	L@^W:{,4Z0]x|O)DE6J R=loc:{
+    "lat": 32.514011,
+    "lng": 35.013514
+}EO+Nw/')86R^:$yG[t-},v7r5ko@g;fcZpFh Y<%PL&C|
+Q0
+dummy text #0
+dummy text #1
+Kt73dxCuloc:{
+    "lat": 32.513947,
+    "lng": 35.013472
+}>~g,`@U0"5iPCJLN|e;$<\[c#]lpzv_:?k2jO/Eu=%Bm)^'d
+HVhQ&FRYMAsq(yw6a+n1
+dummy text #0
+Gy,7~8C2{Mk^+nwme[t';&NTa:3#@$/O5A1Bl io%s]FX
+E|J\Yd4uH=_`6I-*rR!Vq.DP<cWQ)>p?0loc:{
+    "lat": 32.513928,
+    "lng": 35.013445
+}*jck#&vP%1<d:>OyZlD6JFtuH(^.p|G ,4UL
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+7sIiuNp|Ca,br[3J\j$6@XLG<Vzy{eKw&O8H"!-^Tgq#5hvnR)DltMQ2dE
+_9*oSA:Wmx=~f+c4Y?01	'(}PZFBUk;/`loc:{
+    "lat": 32.513882,
+    "lng": 35.013363
+}zL6M(YJV5&SxI7Kd-{@jnG9gr$tiD"*A'WkuZ .H_p^w}[a2;
+EPF	#
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+8/>tQ2'=w)4I}m gA*%b{]5[sroPqfv~`$Bc36GKlMY,xDuJyV!(EkH?e|#loc:{
+    "lat": 32.513869,
+    "lng": 35.013336
+}LHP7tQMN"eh`TUl8j5?69k{ '	(:\
+gn4uKS>w%O;yE*|qaDc!~zC}@&Ffbp[=,mB/s3i^-I1_2ZWxR+r]$A
+dummy text #0
+dummy text #1
+dummy text #2
+[7Q(`\IP'@M# qS.4X{6t$!>mH/j8kKfy	Bh1e%&9vbANpl,c-0x3_z5Oloc:{
+    "lat": 32.513823,
+    "lng": 35.01327
+}PgJ3Q"{/fxqRw1'lMOUth7E?[\*VmIaz5
+`eG&uX#sZ^K:p }]
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+KI~-UC,PW0i&8xA}"m/9o(l!F>j5NQedpZLn _u7{R2z:f	Ds=[4XY'hvMg<qcwOG]Hy
+|J\13+rT@a*t$);loc:{
+    "lat": 32.513807,
+    "lng": 35.013251
+}BQ	nHa/g0IcL9fJ=(zWO#)tF2l<+_D6X{5V%}MESCqP8m]^v!1rT\`?ZbR~7uUK43$;".-s|ejy'[opYik>
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+8UPltvF>M`a-S1N3Cs$z.%p04VyTrb_)='jA6IeJ	
+@?cBmloc:{
+    "lat": 32.513777,
+    "lng": 35.013178
+}7>t2'[Td|{j/bVREM1FiIJ\9`vD8=$hL
+Z"@ao}XW0]cmnf6^5!OgK3kGY~	;l#&-_rQ4%*A? .<wu:qBHpeC,zUN(
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+M4oPm!aqxK-N?bOdFXG1g"(yloc:{
+    "lat": 32.513769,
+    "lng": 35.013153
+}}[`ahE_rUoI'y]i*K0Z~nVD@SG-C(>m	T F89A;YP^%j$3QbOsgW?qel7+,/.Jd|Lut
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+Xjb2*:qa=tiNfUyG,?R]Ev0hngLHBIpk/Y$-\_>8
+F'Jc"	xs[@&Q<7O;+ST~)VP(!5eu#loc:{
+    "lat": 32.513739,
+    "lng": 35.013078
+}kVX0P^|x :O`R@+1IDm	ar4G-TU8;SEyB<\{2e7z
+>?}*siJL%qY'
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+"2Vp8Uq6iJz,s$\c<a]/}X^jw;:H!WyT>Ne?'5MDvrCI-d4#n`[.3R o@hbA%lK|=g)BOZ&loc:{
+    "lat": 32.513726,
+    "lng": 35.013053
+}WcZufRFSkx[PXtT'05w~6I-a8]j&#sJYVNO_4MvnBr$U!KLz2,+:`i
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+a\k5/Q.NIps(Yo2#[`@6ulP>h+<|':}z93r{A1^~Le7BC cm"8v-T$0dj*i
+K)]	J&qHVbZE=OwU!G?%XxR;M_D,loc:{
+    "lat": 32.513683,
+    "lng": 35.012981
+}{5UD}FJsBYj` x[>A6)z\;h	u7PqXI#QyNC-tSf+1o<Mvm/HcpOV$a&_@L4Wr~|"T,9=3n(K
+dummy text #0
+dummy text #1
+r[UTPQZ :hAF6Ob{_(/>~Bk1s]9l"ioptE3IG-^%Y.aW	8'*&4Hnx,=loc:{
+    "lat": 32.513666,
+    "lng": 35.012958
+}|(MxPn:w{`-3D67O?&!V'9qR
+u;)</vzk]"J+%8I~ZCoU2X4=E5AdS@^s#	HQymeh_gt
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+4&qN5
+vz|#(iS3!w/{}.s)P=b~`,^B?REXVLDgT0:Olo'Zn_+f	dA*h9loc:{
+    "lat": 32.513614,
+    "lng": 35.012891
+}Z_}j8wc^/A-qNMSuYW$'=1 @"
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+`:H?O@5CTxloc:{
+    "lat": 32.513598,
+    "lng": 35.012869
+}Ux%
+c Wk\aP6ln4^Y?Bd
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+2#BqQ$Y%LO+f18U@*dGv;~(6blhH	PJ[F"zN5{/3.9k&Aa=Veloc:{
+    "lat": 32.513558,
+    "lng": 35.012791
+}	vqiKtHl%dZ;\XE8@1 (+c$wb,Ds9>3{'YTzo50R~B<
+dummy text #0
+dummy text #1
+<y9gv>C*]`46-?mwTd$f(^/z'BQW"F8EL{OkxaS#;)_@+Io5XMsbjKq30nJ%rUu	=:G!~[i,YR|N\V&l2.Z1p
+7tcloc:{
+    "lat": 32.513546,
+    "lng": 35.012765
+}j%*ifEGC2VoB{
+P' tpq01)a~F"L/^|;b?H=&>Z:z-6cIAX](+eDO8
+dummy text #0
+dummy text #1
+dummy text #2
+>Y$}+6{XBy.n'g)M`KI;*0[%_S,W#GhmF/LNp"CctEloc:{
+    "lat": 32.513513,
+    "lng": 35.012687
+}iV5ZUJc^g:vSG us!9Y"Hw*47.lyQT)Pe~\#$IM;-{|d3t6hOR+<F/q[Nzkna2=,%jL
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+%n+-I Y?ZtVC(kvKGde[^SB:U=Ol&_c\zaJloc:{
+    "lat": 32.513502,
+    "lng": 35.01266
+}yuZJ	Yi7dvw*^C9f
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+7zX3-Hv)\Y]#~ijP o*:'loc:{
+    "lat": 32.513469,
+    "lng": 35.012578
+}i0Sc/n%*m9DYBPT
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+1=puE5-:Tf "M\,}x`a>2beIS7F&QH?X@Wjn6G8(vg+#k
+A	)tr;NdZ'90cJ3{.loc:{
+    "lat": 32.51346,
+    "lng": 35.01255
+}"E};?IA/ag
+4wX.{CP=vlG6u	:3Q9+pUkm-RFt@M7
+dummy text #0
+	4v\!t.K,SO_<dQJ6#2TIqsu`pA;jiYcny9hwx(+}:m0^V{&rWBzfMX/k
+*[el>U |'EZ)]L%GN3ga8-DCR?$FP"5bloc:{
+    "lat": 32.513433,
+    "lng": 35.012471
+}?R#EkVo]<	7G2P[Ja45S}NuQ.$=\)K!f-%{e(HOF;z^x@* "qcTnICU`A'y/t|9+l3mihYj&X~wM1g:6>s
+dummy text #0
+dummy text #1
+dummy text #2
+M=K;mo& AGk[bqfje),!cF"loc:{
+    "lat": 32.513426,
+    "lng": 35.012445
+}k*@7pDq
+8zZCxWu;dyg3_U9<5+$L~{E!O|l]&,\PF=IYmVa>si)-R.b4rTANG0h
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+)93*| 	8D4wy
+"(WS;?mA6h#.j1o=Z`R-~d^Un!}MGr%7]@>vT\O$ze[kBHl_QJV+/iIaNxg0LqC2:<tloc:{
+    "lat": 32.513402,
+    "lng": 35.012367
+}+Z,P
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+I1|*/	#QAJ3]_y%?" rV{,
+}R'lqHW`LDc@T<neO^+6)5loc:{
+    "lat": 32.513394,
+    "lng": 35.012338
+}k=0KHB|%&Z]
+4sED"8WaV
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+wS<	T%|j3i"GZP'gE:Fr
+@Ky?upI$&^tx1Oloc:{
+    "lat": 32.513355,
+    "lng": 35.01226
+}zeJa.r"&\[K|	34h`?,u'Ux
+dummy text #0
+dummy text #1
+dummy text #2
+{5NFB|+}d< GbY/Kj.)
+n\ztyXkAQsu-J=vS(Rmx>0^L@Oq]#%Ii;$E!C,:823coPp9r"H6fV~7&hl?4_UZ`D'wMaW1eloc:{
+    "lat": 32.51334,
+    "lng": 35.012236
+}`( 6BMk-2xAd4szCYbO70,Qg{uJfE=v@U:SqpD~"Go|<\&n9c'H?I;Z^tr%.]}*1/Pa#X[
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+1|&j?dRh kzY.3K82Mc'e[#\ia6XB_57qQ`/l4g~UO,+JL(nxG]w@EVvb;
+sWPDH)loc:{
+    "lat": 32.513301,
+    "lng": 35.012159
+}Aa}Ql=>)`ZFn'tC60c1djr4B!38X#b\]Pz-hWVw
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+GX* ;mqh[M3VDH6E&yb#{@`<e?2AL+RCYn_Kzp)-g~,>1J8UwkdOf=u0WBx\%tloc:{
+    "lat": 32.513288,
+    "lng": 35.012135
+}cMk;-Ya8#$AW
+7lV)H]miK\P >gj`[b&3*:!v(?	"eqDFo^y1r9RzQ0<s5p4_d@Ot}/GB+2w6,=xfNLThZXEI|%
+dummy text #0
+dummy text #1
+dummy text #2
+c^mC
+$Ni>[D:/E)`p~fqO(,u\Zxl; *h?5{TI'LdSgUB	M46}0Azj_-evQw3skPt21YKyr.+FR&HGa7@8<9loc:{
+    "lat": 32.513249,
+    "lng": 35.012063
+}"n,:LjS0rD
+
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+W]p#+TiFtgv&m5K\h1,EHe|A!D?<z~}`)S-'nxZ%k>.BVbO"YRMaI9c^C_ djf8*P0@
+(UG	7/lr;qLw:6Qu[JX3N$loc:{
+    "lat": 32.513237,
+    "lng": 35.012037
+}8Q<m]za*5P(=?LSwy\Z`FtXjgnc1
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+JD@6&ZFrWY1.G>bCR!lE~0}8vX3a:ktf{zh^LN[e/+-Q5 |u9;p7%)MS=`<y
+w(o,s2?i]gT\K#mloc:{
+    "lat": 32.513199,
+    "lng": 35.011961
+}oe;DVO'CNiM~pFK@+b]/XJkdQB%#`0).
+EAl\Z5P-[
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+WLm0z)~<+loc:{
+    "lat": 32.513184,
+    "lng": 35.011937
+}E[*:BF?ly`	!XTSN2zjgL8-c1iRr4U)Wqh/&ICn"
+dummy text #0
+dummy text #1
+dummy text #2
+&(+eqdgnNk1[:z^-tx/jrDo f`F0OG#yV<QP
+4]u3EH5@!loc:{
+    "lat": 32.51314,
+    "lng": 35.011868
+}[6CsR,]Zg`BeMc|4E&K{}m7T:.YL!Wqn#H5?*$N	=x(/\l8;3_'u@"o9a0 V
+PfIUz~FrhO<y+2)w%kX
+dummy text #0
+dummy text #1
+dummy text #2
+d5EtYA
+:	\ka-f1`0TN8s&]ZQPXuiloc:{
+    "lat": 32.513126,
+    "lng": 35.011844
+}N;beqgjWS
+3ox[v4YaPJ >)5-6<C^d@TULfy/Q|n=_1Rrt"O]'{k}*&F$M+:B\pHAzXlD.Z#i(E,Ks7mc!~0h2V9	w?G%8
+dummy text #0
+dummy text #1
+dummy text #2
+mx7=6+V!>}S^u<loc:{
+    "lat": 32.513097,
+    "lng": 35.011766
+}\r5yJ<:qlIF,h0?Y]6@AimMH!c.1t>kCN[v+a~E`
+)(RnBofsg;zL_3S-&OP* "j=$Q2Du}'4/b%p|exT^Zd
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+0J?:KPfIzRnp. $|4M\DCLulV)[tvc-esTab5!HNwg=]/Eqloc:{
+    "lat": 32.513088,
+    "lng": 35.011741
+}j3iN"%X,OPSt5zn+d(y^Jb|BfQ7:K
+H`qhMV\{YR8-&p=L~	aTI}WoF<)s 0?u;$E]x
+dummy text #0
+eNc_VMpI?iUWvy9X*Rh8t"dw (aq`,b[nrlf65P|41oY<k~%2s}>E-Jm#Z&{!3ALu.:KO+;D@$zB	=']0TC/x)FSgloc:{
+    "lat": 32.513055,
+    "lng": 35.011644
+}b+*!Y{=q
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+
+|TU9Zi?AE.3WLntV6h]*q8v	lNx@b-OuJ<S o;zPGwc$(>jMloc:{
+    "lat": 32.513048,
+    "lng": 35.011618
+}T=68~(:Sdv*]Nu'V3K<i1`c_!#q|5Oen%-
+BUD&W^,ZQ@yg$z
+dummy text #0
+dummy text #1
+$;iW/r.SAFVbk[=N3^]mw'\7nl{
+82?05XJ 1g*RxG6,cdf<tloc:{
+    "lat": 32.513024,
+    "lng": 35.011538
+}NXi8
+x0%&F|s,oLVq>U?wMg.$~Z`/-RmE^+[_=CHfKb"!@r6<d2k(B4a#}yGW
+dummy text #0
+]0sC'87Rjl[=HA(*USNxX/dLh@B;W2%-3oPznwmKI!p+ZfM	>
+|,`q}{Vbc$loc:{
+    "lat": 32.513016,
+    "lng": 35.01151
+}+D#r5@lwxO	aot7X;Y!sg>|R84'EAkP\jMi, 6zZ*v
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+->)8Ok*M;,p<3X$gz:+=IF14YA}PH{nG_buL eQ`DTxiN0d(
+5|hU@%loc:{
+    "lat": 32.512991,
+    "lng": 35.011432
+}m{.ao6U+)Q,3 nXF9/VueO"'d-@~v&kJfbS:c]l\y	1wR|`j[
+dummy text #0
+,.BZ lUMf"Ak':px#nD;vKqS}i1u-\g8d<@X4_Os93wQ)W^	=Hzc$jI6?aYomN%*5+|h&T7Py][LVR{E/Gloc:{
+    "lat": 32.512982,
+    "lng": 35.011409
+}w&Q38TjX-qx"M]PufkLHc>\pN,'SnZiD#G	/4l!J})@O6FW[5%gUCd0KA* y|aRB1
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+aKJDpB|{NbrYL3m9P
+W[}\k+c=gIy;.lvQ#!S<A>f~6R$ n_q0he12854*-7X@%`EtO?V^i	du/xloc:{
+    "lat": 32.512965,
+    "lng": 35.01131
+}z@+rvKB
+dummy text #0
+dummy text #1
+dummy text #2
+{p0w"g2=]kW^C$MN4|[<br9(ABJouG?a,DUYSi~8#5VXcxzsF\PZ'n376@hlf Q)yOqE	1
+jHd&L:_I-m}*!.`+%e>loc:{
+    "lat": 32.512962,
+    "lng": 35.011284
+}K~o
+'%2p>]Va:	mX<QRFN1s0W;ZMn,x_A.kY+G4c9J)}Lb7r`P8qg@S&fvlD5z(Ow$dij?=e*tyI3C {#"
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+O2zD@"wTj(y.#^e?gloc:{
+    "lat": 32.512944,
+    "lng": 35.011205
+}j.P6m\
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+\$D8{St#[(W5lfuc<KoP"?)-=Yk7Hx;!/yLaOQ@sne&Bb436loc:{
+    "lat": 32.512936,
+    "lng": 35.011179
+}WkgdFDO")!,NCc_tswT%AVrH6&38#^U
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+lC4WZAHQk79=Ka-?Gd@'h.Inmloc:{
+    "lat": 32.512908,
+    "lng": 35.0111
+}
+b`)Yp1JW.GwyNRiCSo!;vUL>$mO8s5[/F'd&}+H03c tKj#\gQa:A
+dummy text #0
+dummy text #1
+}WOYiGH7en,?]24Pb039I:o$m-+fJLADatUzFgM=<~X&`kTd{!yp5r%;_'SN) 6Bh"wR/jE*u^|Cx@[Kl#>qZ	1
+loc:{
+    "lat": 32.512897,
+    "lng": 35.011073
+}kom]`!-tL8W=Q>Hu4<@w[|A7$r^;b6
+dummy text #0
+(AN>_loc:{
+    "lat": 32.512862,
+    "lng": 35.010991
+}8hv~E>'96[RB&wC0.!lJ@Fi| md<kYV:7
+]
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+w54El,`%)ZHSbVO#8/;}c7XikQ3+dKJMNuD<P0~vmgG.\@&LhfzyeBA>[Rt^$"Yloc:{
+    "lat": 32.51285,
+    "lng": 35.010963
+}d_J>3*:	hKmC/\c;ag
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+u{|N3h_#Cy&p$ZsF@.9oxim1kz6TfAI
+~H ,	+B*J/jb^ScV;}qXWUK-Rn0[\l`:gdQML!e%OPw)DEYatr<G745loc:{
+    "lat": 32.51282,
+    "lng": 35.010873
+}cXf+#Vx=[:Q!7SOw8y}KY<)]G;A-a$H,tsPhz1/qM?jRU	F
+%n39p^6b"iuZovJ{4B.~L0ETC(d@I 
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+X\WKp]U e=1M/loc:{
+    "lat": 32.51281,
+    "lng": 35.010844
+}9$DsdP7EijhF%=2)k{ MQ~C]X8InAK_Sq*6-	\e;U|L,JcBm3zu<!/
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+gtHa$s4\jNi|Ref7.YP/(B!-L`J5qKr>~M0
+1DIX@cb#G<F]="p9^O)w83_C[zV+lU* 	%{ov,h6W;}EZun2?md&S:'kloc:{
+    "lat": 32.512774,
+    "lng": 35.010765
+})}u0<R+?h5j~pYyA$b=_P\Jlc.{VH'n8zDt[fs,CUXw*x!ELaTZo7FGWiQB
+#|
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+N_!'4Ka(5=z
+JlQv3%*bwfR Ej#xZh2q}TL8G~6X^$FgmO]loc:{
+    "lat": 32.512762,
+    "lng": 35.010739
+}e5[Bm_2+p=oH} W%v>fhMyuCX1;]\~Fi"aP9	r-AKtw|J)D:I7<Q
+V@(EUGb'Y*&OLZ`^
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+N_,){CF8s^y$M[1ko|>9RL-@.2:h#~7
+]lDloc:{
+    "lat": 32.512726,
+    "lng": 35.010661
+};n0.Rw]g@!J3,o8\A"-LEm
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+]uPNgo^lfzbOqxr6(YV3M%KmtX1=$i*F)CU-?{@"4!&+HI\5W~R[|	.'8:,Ee` Zdw>DLj
+7Q/hloc:{
+    "lat": 32.512714,
+    "lng": 35.010636
+}\~rhH^_=c;{MnCWmw*gRqFd:|5`O+
+ysLv]k3,X JZ/.oAx(YD)KGpViEze>$!%@fljbPt#'4I0&S"<	-B[619N
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+7XU("<0dGn`#F6W
+ /kQTK-l5tzc3V9@og$%rpN:P|+?8OJ=hH{>;_Su.bMloc:{
+    "lat": 32.512676,
+    "lng": 35.010562
+}:<tM	/@RwcP(HWfh>)-ro!5QEO41Js%`7_^u=
+gLIx'V ki.l][89}Y3+yFXZ$d?,~*eT;Sz&2D|{N#
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+jtR".9v}@-^3ySa:4Q[c{Px\p<ozloc:{
+    "lat": 32.512664,
+    "lng": 35.010537
+}XLoUC80",Q;] fg'R<i\4dJ-peW
+q^9ETHI`ky#P{lAVjM3x
+dummy text #0
+dummy text #1
+5r"x;(\dUe0z'g&9WwH./:f)Jvh-XL|DAt%m[ ^]NK36>EC=jloc:{
+    "lat": 32.512645,
+    "lng": 35.010455
+}34Cl}6x[@"0)zNg7=a.%#;VP]	Fn_K AvdIjeX\ihEq2rR1L/!s:*
+8&9OUc$Z<kyS{b+f~W|u,'t^JYM`>
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+V6m"9+sf!C/v*Qn-:IbeBdjGq1pZi{zFH)Y(x^#gSytu<la5L`J,']N$=kK	w?TR\2[loc:{
+    "lat": 32.512642,
+    "lng": 35.010426
+}BnW4~m/w.Ok(vQ1[K@-q]GVx':+0jCL9z|EsT	,o$fu\Y%
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+qje]_=;})/usK`.C#loc:{
+    "lat": 32.512637,
+    "lng": 35.01034
+}QIv~ M1+hd_;@A8mq-7%,4W/f}	ciX\(Jw&5#jpOn>eB!Fgu2.K)ZP[G=9?b0o{sCT6"V^$3EUzH'DlY:t<
+`N
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+[3}5ArV	n~+$6Hm_7XIU%ezqg=&2Ci*E,:9'tvQ;R
+|hZuJ)o?\^bYp(.]`/-dPG!f0<loc:{
+    "lat": 32.512636,
+    "lng": 35.010313
+}eb#\0u}U6?ao
+)gKxsi9-WJwZ+fRyn$d"<L3z/
+dummy text #0
+dummy text #1
+'!C=~,/1gZ&phN$6F	l>{Oi tL^"RG`VJK-wd8#32(vW[rz;DbXS9s|YBP5%<A?Iloc:{
+    "lat": 32.512629,
+    "lng": 35.010212
+}6)~*2JUX?|,1p+NHL8MIdwA'nO`@ leEY%(Sg3;cih>9q#[a=D7Vt!FjoKm/_y\5	"GR$]uxT-Qs.W0k
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+vx]j=BaMQr"5^EI|g<#w(9!u`$>eh_q,A-Gf0*.X2T:'loc:{
+    "lat": 32.512625,
+    "lng": 35.010189
+}Eg-\O?Qh&Mr!UF3%^m"
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+< X{fs9FD1@V[(R
+$GAU_m}a2|"n0;6	loc:{
+    "lat": 32.512594,
+    "lng": 35.010093
+}8qsR)|&F;+2'KV}C[#<_Yp7O,=QP:4{@>!fBLJ
+r3Ax~%v G]	mTMZ6c95j?0zudoD"nbN`1(X$whS-ItelaHg/k
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+v[(kBpASM$Z	3*;CNT6og<^7,PKFe&u/#R rhi_LcxH|>Q!YsXG.EbOj?2zf:{9@nWyJU"
+Va}45Im)=loc:{
+    "lat": 32.512584,
+    "lng": 35.010068
+}{p@`f9"]gMN'X8)#m
+^FoTR&V
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+1qk$L-9:VR?;	7cA"m6I,STb@r({a8Nh*n=iH
+zXJ<]t>eY~|g^d!loc:{
+    "lat": 32.512551,
+    "lng": 35.009988
+}K~RBZJ8r[w=4@y)qi!XonC"Qf|lDO+#m7'T*%Ld>j}xPHFtVhMIzu5Eb0vp
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+vzB}'/u
+?,V\O9(4%Jbn7@6#oA>0gr2DEFc:H{NCKm~]5M.^x*iG;kdf81qR)s3|<"X l_$Uj!aywY+-=SZepPLQ[T`&IWhtloc:{
+    "lat": 32.512539,
+    "lng": 35.009961
+}<v0{L	;UR"jF3&C> ^/P$r_xfytk=~NWa'8mA2I]O
+|+Z!%\}EKQsc-*:D9TM4VYi,gBGno1(7b`HJ@5u?)S6#zXph.qe[ld
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+L2!.fW*7(c}>9	[a'YCOE8wq {p"Fhjr|`:dvie=UlRT
+D@M%Qz4Zk<g_?G,n3+/6HBVKloc:{
+    "lat": 32.512505,
+    "lng": 35.009883
+}of&>'O2!c9 +yY{")kwt(/;Hj1,_MeC8Up
+$lE}Gbv\P.-R^KaVgZ04FxqWmDX:3sSi
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+zk$YJC'(vnAGQ{/@&l?^<jESr	q;1_.K
+}df +L"B#>U|u4:a[]68loc:{
+    "lat": 32.512493,
+    "lng": 35.009857
+}0%p]\GQsS|e`,C^zIu}O$t)-[&>
+?~=<g/a.j_LNrH4nhkx2AfY1c'6
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+o?V}gxrDQWbeAn1!:&)\SmL
+0{jM~+Xql>*%$aUNloc:{
+    "lat": 32.512456,
+    "lng": 35.009785
+}cl,yX=:uJ>V1QUzZ3ij']a/nA)2;@6GDkqeL+sR0B$5ExtC_{*ph9w|NYvMb#gW%H<^!
+Sd}
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+?%*_6]>r&VN (FP!/"qgloc:{
+    "lat": 32.512445,
+    "lng": 35.009762
+}o bl-xT9SH2Aa](hk/8\`eG}".p3;^qDP',!0IvXdE*Cm_c
+dummy text #0
+dummy text #1
+dummy text #2
+>q_(c%.KjZfl-Qd/5,#AF
+69GEOwI1S0h:	W2`uloc:{
+    "lat": 32.512408,
+    "lng": 35.009692
+}:+u=x,r<dsjE"S2AYiO&.~!6n1%}[4Mh\z]#wBZtp-
+^)UQR `G{WP8T7J*b'(0qKk/3DaIo?L$v|@5	fFl_9mVXC
+dummy text #0
+dummy text #1
+)as2OM!
+d'%z=.-^}3t0{qPmwF[e;KuYZ/(HX<nC$cfGx]pj*|&bE@,D#RNIVUB4LhW_ loc:{
+    "lat": 32.512395,
+    "lng": 35.009668
+}37d*V,8k.H^"c!~29)on@LDMe
+JI+(WR>SBb/=ltYE65
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+4]%VnZ[GY0CF:S^jq*ft,kOp	by>-Ud'loc:{
+    "lat": 32.512362,
+    "lng": 35.009595
+}h2b:A=FIW073{irO.>PBE +zv,p
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+'%	+gx.IKiZ=F[C)a^QkD#90$:m~M2U`6Wtd*YpRb-@XO3
+PBr(VzcNG>l,;1fqvwloc:{
+    "lat": 32.512347,
+    "lng": 35.009574
+}CD]
+5X(
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+V#k/W:Mu=tQ"eR^A|@c'XJ4HU(PCh~]j wLo&zN-!nd}3O?\+IpFmB>i_S{Zf8lvb9
+E<loc:{
+    "lat": 32.512291,
+    "lng": 35.009517
+}Xl.n-tagF
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+R/*V"}t7U@3_oLh9= ]OB%eyi(Wk
+EG<Tn	x~FS{?YH`qDC)Pa+wrNIQloc:{
+    "lat": 32.512267,
+    "lng": 35.009495
+}+$ #OoASix6:8MaDF0&3tB`wd>ZWhqTpJ@e.9L<-I7)Y%R~^v!1(QbP2H=k"Kf/|m4
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+Up84*9l"rZbI'jydk$LB2.5a%{mPxC# ?!V<\Xg@Y
+(R>fwHG&vn/[EFW:1_}T)A	~Ocloc:{
+    "lat": 32.512213,
+    "lng": 35.00943
+};{6SpQ !VR'=|o	l^u}`x1f#E.zAOwMs\D,(kYIB7brF2
+9[PKGC$y
+dummy text #0
+dummy text #1
+dummy text #2
+}	doC1Hx$fARTqk].ztE@#){*<&QX ,9M
+g4Wm!S\bc(rFY5N>[^a+v`_BPype3O%;U07loc:{
+    "lat": 32.512199,
+    "lng": 35.00941
+}Ja?7t2e6\W9kPG@dK&h5-<0DIv_"XpzF*.CY#m|f[TrEc34^~w}8(nU	q
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+TYXqOUF7DJx^8Cn2WB+%*?fR$g wsLlhj9#@b[e3>m/GHEupSy4Qi
+A=.;Mc'-KP(\!{<z&1"V0ok	),av]_`5IdZ~|Nt}:loc:{
+    "lat": 32.512144,
+    "lng": 35.009361
+}#[!n}-|R aYs*5x_vC0~F"kzdJ\t;^O7h@H{?6Q3$bE</icqg=>uro.PwMl]8,
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+:NuXGC@ jk9=S	MYt|'l;H7iBg<h?WD}8$3`Qqn^xF)PsmwI>0U\VLf#yAR(rEb5*!zo1~,4"T%Z
+[+p-loc:{
+    "lat": 32.511551,
+    "lng": 35.009294
+}uKC^[1olU/6XiSh%.8ZQ" ms@q9
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+H!)F>4.i7f@xs }*]8h{RS(WB_PU[Gd~Ok6y&Z^e\p3EcMI-	|K0:lb/$C<gjr,%'nvL5=oVTJ"a;2N?qloc:{
+    "lat": 32.511533,
+    "lng": 35.009386
+}x2<3V>h/[IW	TG]R#JrK0-p!7$4^AC;`\
+
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+l[Y<_jXV!>GpzwA8N tD-(\CxW1)loc:{
+    "lat": 32.511524,
+    "lng": 35.009408
+}U'jv0f#M!a{%eJ_|
+dummy text #0
+dummy text #1
+dummy text #2
+e0{|=<T;\E%42(D7&Vs$I"^WG8N:rM~*U,ZaxR>?c!H'tA[_)Q
+/S.YXh+`}pOw	yiKLP 31j5#vndbCg]loc:{
+    "lat": 32.511467,
+    "lng": 35.009485
+}
+6@a	s`{QNbL<IU)ymt7i(
+dummy text #0
+dummy text #1
+dummy text #2
+{k@Mw.1bz5;2)=/+E#7G!W~A[-cC&}]	v<$fQloc:{
+    "lat": 32.51145,
+    "lng": 35.0095
+}
+cNU<p>g5P(F}#f*Xi$D+vG@`8lsQymE0z	4/YTwVIRa^o=hAJr7:~KC)]'Mt!_6bSOnd
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+9ie(|^<qP?ut:oxMJG_{a-+!7l@Z&3E Og8.5WRbL;61S	sInkUm,loc:{
+    "lat": 32.511379,
+    "lng": 35.009559
+}+'Nt]Eo7eP
+0nXGk-lmjY\c[U(J}".H?hxfzF *`W~bMrIDO&89S!gAy_K$4
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+G[~(EvS@M1F;Cdp8kq|V<Kiw_-A.%?X4QLI=na0t6Jy^j{2!`U>Nf
+Orloc:{
+    "lat": 32.511362,
+    "lng": 35.009573
+}dei*R< gySJ{=Anj$:G	0!LZ_EO',"kU|cW9[fx)Ql%v8azT@`-Xb>V
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+0t dNk%l4OUI:na.{*q\u#SeB9DiRgP[VX
+@ZT3cz=p	7$&owAMxloc:{
+    "lat": 32.511303,
+    "lng": 35.009636
+}&q/8#[{P@K2S
+964md)D(%3fxbl!G`VsRp?Mgk7w	XN'W<OIC$oZA,jQErB1"F iTL+>
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+T97N"8wr,|^X/&Jjf0<c
+3+U5a	GVmYW>.:vtpx)~2#oZQ?F z{E`y-qgP*uk;lbd\OeS$RCKIBH'!sn(@hL}4[loc:{
+    "lat": 32.511293,
+    "lng": 35.009653
+}NI;8A=d*j3RZnY|JHgUx),KD:#wve`%-.O>b&Es+k_"6o/m2B}@(PTaG MC4fQ$X^uWr0V5	9?<
+7['pzqtF
+dummy text #0
+dummy text #1
+6dJ	ei|%Bwg;2 Q5{7o&a!zs?C<-9`r>Et(yIF'Aj4~hW$cRZbTS\0L/N1U*[uYV.]x@lk_"O8D}K=n+qfXloc:{
+    "lat": 32.511252,
+    "lng": 35.009745
+}zXm	O6c9
+dummy text #0
+dummy text #1
+dummy text #2
+;b>%Q	Dx\A^E`fF} &6]ts$_1Yr:2nG
+ewhZ+./V|p{L(THOKladzC,4UvNgq0"@*IMk~?So#RycJ<9XWj=B7!35m)Ploc:{
+    "lat": 32.511245,
+    "lng": 35.009764
+}rxOM!E
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+o[<(O%_LG+{fl/YH4g'=9Sw)6IE7s?uP`FAV;,teaJ^-K.loc:{
+    "lat": 32.511216,
+    "lng": 35.009855
+}2'o=#c5~L;CmJ!bidB?_Rr)fk7K"\NqE+-s 4WzVyge/1nUFZ90aP`wh^,|M}A<6IG@uX
+:x
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+[W(A1`td=xf
+7%~TGV^+q0nF3SkNc6vD,;XLM'&@5$Rg}JZyBK 8r!<#usU_	Ema2{lb">*opzP.\9Qjloc:{
+    "lat": 32.511212,
+    "lng": 35.009875
+}#64f/'
+E|b]$j\nt{kKiOwlY2m0TcMG)CuQJ` W39_,Upoeza@;y"B=	>g~*5L:^v!-N?S(RrF<7Z%}8IAdH[Ps1hDVxq
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+JzEu6])^
+sK?/_T}xi5q	tZ;!mv(hrR3L[pc.HXNy*8= lIM{A:$kDVwj'Sa"|2>OePCd1\#9fWloc:{
+    "lat": 32.511215,
+    "lng": 35.009977
+}26!P
+HRK|oZz3AY-#Ix&l*qM.bi ~<c[%Q5a'nkX`\+0JrT",yvm(t:fG=DEB$WUe	_V>?{gp
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+0|#Hz]sloc:{
+    "lat": 32.511218,
+    "lng": 35.009998
+}P!HI'&-"t~?Ue|>nlkFi_*N<%R#Tc9,2}Vw({0Cz;6@o3.5E$B+JusOK8M4dphQg1`LGXj[/Dry fASva=q^\Y	7Z]x
+Wbm:)
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+R*sv`MU,k19q~Cat]wZ-Az&)QxoE{0Li mpGWloc:{
+    "lat": 32.511226,
+    "lng": 35.010102
+}BV}1cAY;:Glsy5nh./Sg Lwo9[*OXqKNM,kzH)FR4%i2_~aDW=3Z]{(+p	E|I0mU?PC<eJu'
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+XLh{ZvQHqRm\P6- "=p^S`+&gBN]1($CO7dx}?f!u,0A%|y[Ylloc:{
+    "lat": 32.511225,
+    "lng": 35.010123
+}*w|Uf\j1,b42)$=keDc_OIq{m[/i#]}: "WS;.vMP5uJnzQtp&T~N6@!CYZR'y>?E(+3	L
+AolF<%h`aVrHK8gxGB
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+Fx[Ams9)g"H;y!KJwSrM /|OW~51Rf2bo64:B>n8\U+L@.0PeQloc:{
+    "lat": 32.511209,
+    "lng": 35.010227
+}Ps
+n6pu5\mR	IvH0fk'W4OMe3Xl:iBq!~G8(Nbx79Q D<d*#E
+dummy text #0
+dummy text #1
+{NvpB'T0)M$t1s5`hF[kLr;>Izloc:{
+    "lat": 32.511202,
+    "lng": 35.010248
+}jP'FN!xqe@J8u.?DpZX`
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+>[
+|,;kg.qxTploc:{
+    "lat": 32.511172,
+    "lng": 35.010329
+}1%mh~RUsCe5'GwOgQ;x-H^
+*0/:[+rt)XJAYW6,9M_v"Z!L# i3bN]nVEIF}4(p2k@	y|>8<c&d7$.zSTBKP
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+~NbOx,I
++M*i/rvs! |qo#2J0hfu}$[HWtQ:cjkT3znloc:{
+    "lat": 32.511162,
+    "lng": 35.010348
+}S3,R8-Kh29Z#	Dj4(XVl{cznYUB/._eP5;HuG@W a\CIq=bfA|0!+v7kx:}sL`&%FN
+^w>
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+.KI*Abn2->R,_1(QtGloc:{
+    "lat": 32.511117,
+    "lng": 35.010419
+},Z04bzPCoWn#VeJ^26qpKtXU\
+Bf&lM>[j:.D7FgOh-Ei`@	'_Yu{;vAcT}m3N9"
+dummy text #0
+2|+>mn_o:4&FP,sYploc:{
+    "lat": 32.510997,
+    "lng": 35.010643
+}G']4~Bd\Cu{nVqD85KL1Ssy b@0IWh_
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+Ql{b3^s}t1YX!N*Fcqw.]z/gL|8v`JMKloc:{
+    "lat": 32.510988,
+    "lng": 35.010748
+}ep-kgyXrb< ua=[V
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+3g}]=rloc:{
+    "lat": 32.510981,
+    "lng": 35.010764
+}|\(1	PLx*8DV/A7@Wz,ZC;GB&}Eqn^0
+Il:#"3O5<]vF!$M%p'rtUoRas?4K[SXjdY)mki`y6 
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+P/ze"v	|,45p1aV23$;*cIxd!T %SM
+-uC:?GE{6Y'^@fR[8.~KOlUn0g>wBW]+jJqH<X#Z9Qs_}=D(Nm&i)Ayhob7F\loc:{
+    "lat": 32.510925,
+    "lng": 35.010825
+}rvohkMAOLNZntY1_'}x60+ QuEX
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+f*{k}I;\9>g	zScM0!$HnQ/(VDJA_C6 E8RdqNuB+#j[loc:{
+    "lat": 32.510912,
+    "lng": 35.010837
+};yfa
+]rCJ63"-1oX'b)kLS,Hv\uF/&MO%B p:>d0=I^wT}?cG@[qnK$z(~ei|*
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+o1~q'`7 D_f*C{0M)VO[hP8$#g-p/>6,KSQXvnT}?z|9ZB4=GHwEr!x;I
+:JLA\(5Ncet<ym.Uik3au]Wd+loc:{
+    "lat": 32.510838,
+    "lng": 35.010887
+}Hl:3C{?(;iTo1Me~sgr'd!^Uj\2|P9.OE/n w7q_uFx4}N=-+$[8vLJAKVz<)YcR60&DZ5m,%Qk
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+x*pgmt,:R|c-Av9Y6[FU=%M?O2LJz+5jTeB8I}~owyb!EK'4Gf{r1loc:{
+    "lat": 32.510821,
+    "lng": 35.010891
+}o-/Eb*,id2LUR}WT<~k`j
+_y4\	S:{P+QJDfYK&3.9h(q1ml8G"p]Mxsa0I)=zuX N65[t';?7#cn!CwF^rZH>$A@Oe|gB
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+C}a4gT3Dxv
+$If<_#.Hht6/^us'mej>-pYK|5lU(c],+NXVn2`\rBP0Ozq~"?J8)Fy=!@7;A	:k &dE{WGbo[Mloc:{
+    "lat": 32.510745,
+    "lng": 35.010903
+}Wafio}l6F;. @_w>x/z'v	QDy"h&U{q0)pgZ<Y
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+w)IQY_!s>NMg:"n'\2oloc:{
+    "lat": 32.510729,
+    "lng": 35.01091
+}VwK5	M})_a/&DFmTdu^PvJY%oiU8lI4. 6~>\g,n9S$r17sbZG@=:cxfBk+eyX-3|RA"*htOp?L#CQ{
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+c6}f_G+kno2"eR 8<=10L!jvyNC{DhM%(.JmQuPHKF\Oloc:{
+    "lat": 32.510651,
+    "lng": 35.010939
+}|w=W1Df	I4aXr)_iu`(Q~/j
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+&]lsOEBZ{ XT5v%Pzuj~'C_H9QF;gkfbw	iM4G|x+qh2\*Y8IArJVRS<apn^KdW`#c=$6?/"[D@0N
+7>,.:}oU3)(-tLmye1!loc:{
+    "lat": 32.510637,
+    "lng": 35.010948
+}D8]ji	u`Zh$g&Jv^+}F5R%o"(~C 0lw1@qT2Xzp?Q4|B=.!EU;mHAY'Ld9bGPc
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+@EMW`yUCSPk.g("$'n36NBa4|dls%
+A^loc:{
+    "lat": 32.510557,
+    "lng": 35.010988
+}D126l%<YmVWS@vBb4|c>g){n(iM
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+d {KBsZw\2q(YO|J-NP>v0loc:{
+    "lat": 32.510539,
+    "lng": 35.010993
+}Fh(W-{,Q8?y#JA
+@M~Vzs94c3[EHu<5>R.)xIDPU%e|i/*nX
+dummy text #0
+]6CN^v0\a B*iJre	o#Xyb(k{cloc:{
+    "lat": 32.510462,
+    "lng": 35.011028
+}2 	c/>{?Auz,K*fNpU4
+ae5F6PmH$sihq-vE|:8
+dummy text #0
+yqBUS`3p62R$'e	 Y[I|f:TOuz1Gt&rP*7ME+4g=c{)]9bm>WxC\kD-Q
+08jl_V@o,hloc:{
+    "lat": 32.510448,
+    "lng": 35.011037
+}P_":'E6[-9/fei|UgX,nFSGzB5]QxaYkR
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+0%4fSYCMloc:{
+    "lat": 32.510369,
+    "lng": 35.011071
+}pYHIstFMwEa')Z4h-ComA`S*?^]_qKD~i :#6z<BJ,03/O!x$jLlU8f1WQ&GX{V@R
+dummy text #0
+6"RD]!)Hd-J{[(k|by$N81UhLZ_GF`MvXf~gpaPnz@,.4m=A& ;\T2ecQBSEuq/}<>s^l
+x5WKloc:{
+    "lat": 32.510353,
+    "lng": 35.011076
+}&,TjWmdOx!@GLZ3pf6a5RY
+)y14b(oFs%<t-'{rBC+:ciuve>/g]S}M8nN\I.=wh0HKqk_#^zVPQA	 *?9|2"`JlU
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+Gn}/
+',t hF_wjL=#U6p@.){	q5!Ned(;|3cgb~<u9]MQ"axPis+KW04o2?&[fS^Jv\%rCT1*$H>IOA:ZVloc:{
+    "lat": 32.510278,
+    "lng": 35.011083
+}21oT3#}vB^Ns [hM"`uecrAG@WxyFd>b]j,E\w+
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+@~tfX	<9$L)w`l;U}N>loc:{
+    "lat": 32.510262,
+    "lng": 35.011083
+}}p*gK![5$2Hn3iq8`eO@{r"jfbEo\h&.tWzP%d]SlG7	+IwMT0L(1-6YQyck#VR4|mX):,x> s;aCA^/9_ND'
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+
+T_FA}BO #G*6?mocv={HYM."'S2|]ZrsbPlKaz0Jpg-n@Vjt\loc:{
+    "lat": 32.510184,
+    "lng": 35.011083
+}IsR.Zu316"JK%;
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+/O*WL#&uj$q[8moag!}]P0NEY
+9nCc)H>i1"h- ~	\7byB542+@pV{ZKMAxt:DFX;<6?d_,zloc:{
+    "lat": 32.510168,
+    "lng": 35.011081
+}&l+$BwS4 1JDFg2koL-rNU)!mAE~j.0
+@cn5_=9{*>tix[7OI3Yu}\,:	K%QpPdbMWy'q6|X`"Cz(h<Hv#;]eVsf
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+a$=`tzf~C"}YuGhms12:H8^#PAINKplV@Fd	,MSUO)L[y]4n%W'
+Xx\*q/<i|J?BE+!eQTDloc:{
+    "lat": 32.510085,
+    "lng": 35.011108
+}Kq#G=LS2m1;csy~v
+6XU0TV8.ztFeI/!5i4N&Whn%`wPdAZJoM-Y>b\E<_fj:}R
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+8wRWNcAyZr}3	MQ~B)L>&kY$tVX"9mi4]5[Pu
+zp'/gEF?j\e6-qHd0<!xbGU^hC@J:1`v ,*|+fKD(loc:{
+    "lat": 32.510071,
+    "lng": 35.011108
+}0G-w.]12* xI>
+?NVAL|ork(%U@=;&F}nh5HZes\M:DCJaOt~7/i
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+^6}P%v
+NZl/G[.x?'~@We(pgX5)&#84C\w!A1VR "jkcJnBhu|E*-$	to+HaiOq7F0:m3=T_,zSrd><{D2]QLsU;Ybloc:{
+    "lat": 32.509998,
+    "lng": 35.011101
+}?{NB0`Duf}|qKyYUF e2:"4^
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+O_'.[U"0#12X\~6k!loc:{
+    "lat": 32.50998,
+    "lng": 35.011102
+}`&,X[thjAsq=lD|vcGMU+N.y \3Bm@Q4;r_-xap?iS8^JV
+~Z<wk71'$:e
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+@p,Q'"\v)YVj=gl6
+a%?CuA(eJE<Sr#;Lq*zw:Z35>X.IR`&x1 7O|{bcMG	sn9DKW]Ht4kmo_loc:{
+    "lat": 32.509892,
+    "lng": 35.011123
+}}r7UJptPTbhMDy9k?B#;<|6+8@),zWKl'!{A5QSuYHIVs\$&Xg OL1`Z4ocNvC%03	[n>E
+G.=mfej]i2"dq-*w:
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+bFZ#X
+0mcng!lfTd7LDW/)ais4~tU%23`K<;	(J.H=kq5loc:{
+    "lat": 32.509875,
+    "lng": 35.011126
+}@,Oi<uaFT"m
+I$9Y[Z5sdnxc>o+&^Q{3egjt*XfPHA%z4SRJDk\=bp	)2L?}y!#0G]VK76M /w`'v:l
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+PL2!y\S4c:(&v7s@w
+_M$IrpW, E+~3{eXTjQn.%K6gYC0V`O^R]F)U9q*J#[uDf	5-oGkmtA}h|?'aloc:{
+    "lat": 32.509797,
+    "lng": 35.011142
+}4pd%9veq\6PCH]Xg._	FB!jh-l`t1a7Rzw*Kbs&f+y(D:A28}#Yk[>SZi
+M<5@EL;{x|r ,QT
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+P	A*mBg_1H,85{+Qq6or<F!3]aw(U|DSC
+cloc:{
+    "lat": 32.509782,
+    "lng": 35.011142
+}V-5]sxD*);MAyaue{z:/=9|8%7@'I4^YRt>Z+k[H\KUwoW&<iN!0f~P$_jQF,L `
+dummy text #0
+dummy text #1
+dummy text #2
+,'[=%M-qkTl\6He3{>Cigmo	VuAQLG;c+0)S4*JU/2W
+FZ.@j!loc:{
+    "lat": 32.509693,
+    "lng": 35.011128
+}-u#hUW+_j}qe
+l1V.^?`&bE<CJB N{%QyKAR;aZrp]*\|/Gk',x5f@D[c2gS)zXt(o7m
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+z-wu%d@Teb(Un/86K~aq$hQj5`vL9#?]o4A|.p_I}{PMf!HC	7&Zr,Ex>s=G2;loc:{
+    "lat": 32.509679,
+    "lng": 35.01113
+}a}Y69sfZ,|:GBglxTFp@.)#y&;'2n-!D[7h51MO/LI?A+utcjdK{m~4k`zVRHwq*(v^WE
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+ gWK5AfGODRkC
+)~1N/y}b<j;]TF'*$!le_>`"=d.6c{Qzn&\8	3uloc:{
+    "lat": 32.509592,
+    "lng": 35.011152
+}}7+aigZ	hC!c4{|.EF*v%0&n
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+Jv')Ae,4Kr\mG@LDPI;NMBw
+n.]loc:{
+    "lat": 32.509576,
+    "lng": 35.011153
+}15sp>?2<IV70U\
+B-:x/PwRA(M8Eyqj!;9&SG	" *Z4%)or'|Xh3YeW^}cbmk[fdLNl{Hg.Fz,#@K
+dummy text #0
+dummy text #1
+$pY87k[+)/0gI Wloc:{
+    "lat": 32.509491,
+    "lng": 35.011162
+}s`UmM2@&Wpa$Riv
+X >xJDlG[9+(ZK4{L_hu<	Q5/Fft~;7H.g)=jSO'1036oqycr-"%?C|bNn!:BT}]w^
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+Ah@.>	]loc:{
+    "lat": 32.509474,
+    "lng": 35.011171
+}TCfiUehN&gubnkH'~}W|%RBrYm8v+Jzc=>Q5$9S-I?j_
+d,<.o
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+kH@KW}A;	cfPueUC{5>s`N?a_lBi
+ZDd<1g(:3.JGT#py+xqjR=/4&)^[FEhISM~omV]9$r\YX-2z%L8v*nQ|O'w0!"loc:{
+    "lat": 32.50941,
+    "lng": 35.011228
+}D;q,&U
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+d5R)
+k!loc:{
+    "lat": 32.509395,
+    "lng": 35.011246
+}K4bZ'MT6y_o
+dummy text #0
+Zog ;B]+[Dxb	loc:{
+    "lat": 32.509335,
+    "lng": 35.011324
+}oXe~EG!%b<k[#vum3UhBF]`S_l8&f'D+62OI)nzMAW$c{|YVs
+^J-g/
+dummy text #0
+dummy text #1
+dummy text #2
+\=BUSF/loc:{
+    "lat": 32.509325,
+    "lng": 35.011348
+}aq31oZ_z=29Mtj"]~#XK&-D<7A	>*\$I%isN|)eL`mb4
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+|r%#lghUT*+(]oW1?@tP^Zu:IsHSC}N5DF&cq\d)83e_fL{K2	kaYn$>6jbz=,[;4px!"yvM-wA~0J<Qloc:{
+    "lat": 32.50931,
+    "lng": 35.011425
+}|m'U[Jt}9g:K7H{<IF26)w]=&cO1Lz/
+dummy text #0
+he\Etbl.&5RA
+`7s"[2loc:{
+    "lat": 32.509363,
+    "lng": 35.011497
+}Ng#M
+dummy text #0
+dummy text #1
+dummy text #2
+RZ\N0KQUr'Ds*](%67~MHx;&"d!`>1uIov[#Ay$C@w,4^ST?+/l)JP{m2XVpLloc:{
+    "lat": 32.509427,
+    "lng": 35.011568
+}f_RQb>T"#1m=ur7Cp`o%80&xtJqGM2;!Iwe	]~'vN\Z+
+z@dUVlO-EL
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+L(AiM';>y98.jYXG\$2S)&nZ0p]qT-@
+=*NKF ,~UdV^?E}loc:{
+    "lat": 32.509434,
+    "lng": 35.01158
+}/)5iD8	Svl
+ -F7'Gqz[WH_yVN`xtP
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+o@582a
+7i`zN&=6~MvR]+jq,t(loc:{
+    "lat": 32.509408,
+    "lng": 35.01168
+}97bp?}#Cdj%XIJ@-AN n'+z*ogBw$y3m(GxZO4),\a5:_<!Pvu>&V]R|f6EF{2Y.q^Q0	U=Hk`~"KeS1i8rLl
+t;DTWs/[
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+/t
+ax#s|"5`eHk'yz:);!BM2$[G]AXfpUbn=0P loc:{
+    "lat": 32.509398,
+    "lng": 35.011698
+}k^">xa/LE1Un()fe}g%?qiI.t 39PmZ7GwNSKldr4MopbyJ#h8c;{:`&=<OvzX2['Qu]ACTWsV|*-D~+!\0FH6Bj5
+R
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+741b?9e3D>y=$8If,FSPhwlqp2z_Uo%+ rv;M]kOu<d@T#QZ[-{\5^c}GHA~.BY`X'Ki
+j0VJs6LWnloc:{
+    "lat": 32.509339,
+    "lng": 35.011764
+}S!`',#mJ5";_H}tK/dr<\+4(0Gz?WXfuUa6Ag	w= {YM7B-.9ovp3N)x*s^RT1
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+=,|n2<pq7S	}GN:(*^HiO;{'5At 9!hxwDWrLUy~a%I/Vmo_]@XTeuCk.K$&?>
+4f6Jld8103\F)`Egcj#sZR+Y[BQ-Mloc:{
+    "lat": 32.509328,
+    "lng": 35.011776
+}TD{6,LSb4@3	Kr;U'
+dummy text #0
+dummy text #1
+&.zs>8-;,2[Jm(
+*%_SR7\TPBx~'v/KQ5<|h 6b)!lAOloc:{
+    "lat": 32.509276,
+    "lng": 35.011845
+}c}=aHt|.ZGmUYfO Ak!xB^(nL,~D5Ezg+@h4IPQvw"#7iy2'X]SNR*6JW-	u9C?1$/38d[
+dummy text #0
+dummy text #1
+dummy text #2
+v3T42;]")6k <%LXZ[FuW
+|w	V\f,jbURBmDOs{/Eh+YA_!5i?y1tdP8xloc:{
+    "lat": 32.509261,
+    "lng": 35.011857
+})^S-sl,Fvf7A;D8.HIgrL=jM*{Jex6tT5<nh(`OG~@XaqY&R}K]p%V#Cm_+9
+[!
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+zTnLFB%{5Ar)e]J`D&$b}Ph*.Ec9!
+'"7loc:{
+    "lat": 32.509182,
+    "lng": 35.011906
+})I"=,O6MZ}Nh_Avs4.rk]5H9pSz'+<|`1*D# yUBEW>8wYb{t%cTn(:jX-KG&C[@QoL2ud
+$;RiPe!fVF3/^?lx
+dummy text #0
+dummy text #1
+dummy text #2
+z:SPM!W"U1\d8loc:{
+    "lat": 32.509167,
+    "lng": 35.011919
+}!Uu~] Ga$^#3>ho9W{s/_&R:	0IrZT8
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+>y_!\6<h[Oe~(*Xi=#H"bM5kJloc:{
+    "lat": 32.509097,
+    "lng": 35.011982
+} MNEHLP95DY
+J@hB(r$?	Tj27`kfA6#"|O^+C,o<=ti.nqIsU{y_)b8gQZSFK;/v*uzX
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+'yi4L9`A-5FY]J?KfNcjI;WrUQ%!{geh=6>Ov#X:w@BGqMtaSRmC_87^3loc:{
+    "lat": 32.509082,
+    "lng": 35.011995
+}[ba:
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+4aOHeB%)Z,I*}YP]zGR	urdn
+(cAloc:{
+    "lat": 32.509023,
+    "lng": 35.012046
+}=,NAC~yjl+h5
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+{!wJ/E)}q:#Z49U2+$V1i.^?8o[KFc%mBxh\PI|l<OT;Rv,Hloc:{
+    "lat": 32.509008,
+    "lng": 35.01206
+}zG}sr+{nud~7wxl;j>
+* PkXWK\2t=4h)MJ(0g8$
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+d*zVBR)Ujloc:{
+    "lat": 32.508949,
+    "lng": 35.012118
+}u!M=&?}K)_bf.a(LmZ	zV:U2^Y1DJgtAH]0 ;-I$TBo8G"C<W`qFn|'hNy
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+'KHSQ[#dPiF)L@Z%Tq-k`cWRE 4gjpA?*_|N(8/{}$r6B5]b="I<z&th;V>X1mloc:{
+    "lat": 32.508936,
+    "lng": 35.012133
+}>(GpER)Q53n:cV.\Wx"D$7
+bo&O|];,^8fTiH[
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+N*ly
+dm)'loc:{
+    "lat": 32.508888,
+    "lng": 35.012198
+}R:"	/QNMP<d0B_%TF9 }ScZ-({,[;$j^8kC`t|H>JO6Xq2G3snf*+4@U
+1K?WIhbw]\
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+Yc?aBfrV`o!.[<loc:{
+    "lat": 32.508875,
+    "lng": 35.012215
+}{Fv-$RO\Uy<]`G75Q&=[BPAc
+dummy text #0
+!HuN5yY1[BhbW?f^oS:>\D*UdjF}MIqe<lma.Lw|&8(G7Zc~' ng$vsVJ@/0%`Op;A2txloc:{
+    "lat": 32.508815,
+    "lng": 35.012275
+}g>cQ_=/Hpw-x:\moSD1WI`f5&UYO$h{"TJy 	N]^tkZRsb3rB.u(neKqP*l0L9C<%)?4AV|j,
+@M8EXv!ia+dz6'~[
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+ypRV *~U.\=mI$f31l]a%8!<tE_9oArQ4,(h5'c^6T)/xYFZiBs[>}2JbWn&d:z+gk|Ke
+G0-;Xu?`7SC@M"	w#vHOloc:{
+    "lat": 32.508801,
+    "lng": 35.012291
+}^@ay1ix43\k7!_]c.$Cs;N
+dummy text #0
+r.yg?SLU6*A!R	[uv7IlVB`dFKzfZloc:{
+    "lat": 32.508754,
+    "lng": 35.012367
+},D|Z[&ejO;E0$X>?x78<`ut_a]Gc^T1l=n'FpJqd}QN(A!y\VfB+b9@HI32Ph.g
+dummy text #0
+dummy text #1
+tDvR{X'";8y:u@LcH+mnk-d1]&GEgx.wVW^U([#sI*7F	JO4!6%h =Ai$|je`PlC/Nq52_o9b~Y}TQf0r\pa
+SM?ZKBz3,)<loc:{
+    "lat": 32.508745,
+    "lng": 35.01239
+}2w=nAT+&aWi%hE
+t(/HYeK3G-r]U9_8b
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+Q%'3pH0t9}_?!osJ5Tl2$Y aSk(`d^u
+,x*Bm>8wbR&P/6~U{-e7	COMloc:{
+    "lat": 32.508719,
+    "lng": 35.012489
+} ]WM:;'%LI[~ue*A{.x=8Skb59Q\&!fm6>1Ftq#ji4NCl)VgO2`nT}
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+oWLv=(lV^X/?8
+rQ`"+#cys4~hH0A 5GxR}g9C\Y{itloc:{
+    "lat": 32.508714,
+    "lng": 35.012511
+}5G<=b0T$7rRioDY6Q.
+-PW>jm C':*	8{xe%kXEJHl2Ms_avc}Vq(~|)hw,IF`"!NgnfBO]UL#Z3KA^d1;u9?t\y[
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+qIG0 uAPrOL'EYh\<bloc:{
+    "lat": 32.508683,
+    "lng": 35.012593
+}~ewUq}x7:	4d]uar> 0,T*)1%ZIRG/;kD#fnCz!hpN9&'
+P(\QElgsLt=-VOim<_?Jc{8"3|@2Bjb`M+WoYySAXK[vF$5
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+>J$nK:].0le&Ew`ry_Tjf*sloc:{
+    "lat": 32.50867,
+    "lng": 35.012613
+}2%*Yi[OS,#j39Fh!8&uKft:MoB1J\	$.^ ;d>a5Z?0slrb'VQ_/"
+v~zeAR|y=7{U64L)`}NIg
+dummy text #0
+dummy text #1
+dummy text #2
+)=^|WpqZ1bhxs2RH4V'Td e-0`lnj.}:]~JCYz*ANri6uE,!G8If7U5%y{FS$[tw<c@DK;v3
+_B9k#(?P&/loc:{
+    "lat": 32.508632,
+    "lng": 35.012693
+}uIGDv($f04yi2~h6TB'+^KEd .P%9Q/o<nc`r;|3jF_X#}m	=N)Y:t!p,*{M1x?kV[>5J-s\lL&UA
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+S,NLrgwloc:{
+    "lat": 32.508626,
+    "lng": 35.012715
+}&XhBMn6@"(ed?,RHlk9/O_]w3Lv'srq>8yT^I-Pc
+|mCiU[*#4W`t{.;gpZ01	~Na+
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+,| vc3\
+W1)Tp~lS6adfUm9#x_^A}HDKOtuwV(F2loc:{
+    "lat": 32.508605,
+    "lng": 35.012807
+}hj%*x5~mv7en[s
+YD\'d@f]Jk<iG&=aZo}_z?u1-$>.{UNqE)6MW3I^c8t|(VQO!g`K42 Sp9H	FrBC:Lb+l0RP;XAwT
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+qL*|+<srxI2vR_JEZkQuC4=98[(#NSntm.'MH\phD-UeA`&F3%57^w!@fTYG1c"oloc:{
+    "lat": 32.508601,
+    "lng": 35.012831
+},1:iIPVE
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+F{hB,yi}cNM3A\4T6?Y+(2d-u<rD:5	%@)!Q~kmK#*z8axp 0U
+bqo/";Ol&9s=.Pwv>LjR'eGtVEX`]Z^CnSgJ$1_Iloc:{
+    "lat": 32.508585,
+    "lng": 35.012924
+}q_>7ux}+mrSsYI#`*Mc){y0\Po5D 
+gOzp4CW=8!~^leZ'Q<:iU[d?	"%3A/wH,LK]@|RfGjVJ
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+(d"B6px07f^Wu[1N,loc:{
+    "lat": 32.508577,
+    "lng": 35.012946
+}$z+'5:C<PD89n/6q~,RtY
+FdJ?vyKr14OI)" a^[\*]gxo}wlckef|
+dummy text #0
+dummy text #1
+dummy text #2
+U~	VtPfe,.@ c0qxLykloc:{
+    "lat": 32.508545,
+    "lng": 35.013015
+}$K{<3+Z*
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+rS]#XoWcloc:{
+    "lat": 32.508537,
+    "lng": 35.013042
+}dHt\FNC;qI_y"8?TXw0*=ao$(%6)1}B'Z>[&pA!mleG+]	,YfDO^
+dummy text #0
+&JL>)bUCloc:{
+    "lat": 32.508514,
+    "lng": 35.013143
+}cARg&QFM%<G2xE5'w7sO0
+`p[_!U=]1+qi~I$?\|NT4:V.3rD a8bmWKCZ
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+{C_h1)Y$A,lK7:R4GQ5"D<n~Z6xXVBiz^.NvW*r9w&T'tyf	MkH8dg@O;IS0 UpsoEu2q#!Fj/e(%`}b[|=
+-+aJL>]\loc:{
+    "lat": 32.508506,
+    "lng": 35.013164
+}W@#l< ph1$P-9wmOj>bu(|[2,;F_"TC5B~7X/tre`6avNfy8)KEsD
+oIc+zA	&JgS4\QHRx}k=U^ZL]nG
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+5%/ZV@hT;I-?.Uqloc:{
+    "lat": 32.508474,
+    "lng": 35.01325
+}h7"H$b=pt4W!XM<arcm+FN&3|;Y5s_{6O)gQS>]`	o?\RuK-lDGU8yqvL:0CJ*
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+g
+\H<r?71 6v}`/E[+qs.>loc:{
+    "lat": 32.508467,
+    "lng": 35.013272
+}nXU$AS
+yrv+MaxlNL@JGQ7OpPei)g[6V:I =RZk{Bc|0W;H3b1"T5z'<`_]%(d,/Y.\F4oEwC9j8K^t?m!s2&uD>#
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+$bPn'1BRhS#"{
+y:TOlgpiLCrU+}zA	*( GMc);mH4x@0\7%`!<loc:{
+    "lat": 32.508432,
+    "lng": 35.013361
+}t p18(0&mVC537dgv"6
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+I()XEbG{<loc:{
+    "lat": 32.508421,
+    "lng": 35.013383
+}E;7&g.M!BC2z9(NwkD$|pt[=3cmlAZ
+dummy text #0
+dummy text #1
+z+-ilCH4EKkrnR~.:G{ADLsNX*(wh=>|JY9O526TQZfB	`;/Up]$loc:{
+    "lat": 32.508376,
+    "lng": 35.013474
+}WPULF.z\%_$A
+:f]{w`q1DtRgyO89T
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+eJ:Pu7c%oy!V{q)	p0SA(@Mx1UT_<GnB"X=E}O+kZIChj~v/s,&>wd2Lbt|6-8r;iN3gF.]fH?
+ml4R#\*9loc:{
+    "lat": 32.508364,
+    "lng": 35.013495
+}gtb	@we]vaY&4X'6 ,O$VC
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+58oct?'Je{DzF:ZBO;CPla6T
+%loc:{
+    "lat": 32.508313,
+    "lng": 35.013573
+}]4D3_y"UK!e(g5%@ ^`E	0VRzY&s>l/+HFb2vZ
+ujqdT?Mc
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+l]2r6k83pyow;EKx?!$I<+sbd[Jf#@`^a\loc:{
+    "lat": 32.5083,
+    "lng": 35.013586
+}<~B6hj|U:WcgR I0
+}Lrz
+dummy text #0
+dummy text #1
+yt*ws!Junlq(9v8No-]T{	EbMX2I>)z7B34$5GHS1:~PjYD <L_=a6F%epx
+/.c|m,'Q`h}^[loc:{
+    "lat": 32.508228,
+    "lng": 35.013635
+}Op]_1SV.W&`-v4<"K5t
+9F'%hU	oxLqy)T@u?6zc$jZBbrNH^IXY3:,M\nm;8+=G>!e0Ja
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+>ZQBS`s?(+1ta5z|FKp".@)C&*439%]lkHU'x,-Df:OnWmN XAMloc:{
+    "lat": 32.508212,
+    "lng": 35.013642
+}C3
+]eyW+=,`>#OSa|)cQzxK&/i f	w;ELno{^0rbs1HGD?R[U*XIAY-qk4h8~TN@.P}l6
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+C:?IFg>ybjv.T]#[0A5,PDXES"N^Ws /Vqf38}-;Mn6l!~{Z_&wKpoloc:{
+    "lat": 32.508138,
+    "lng": 35.013675
+}Nc	+nUA5q9 p)a3&Cs
+dummy text #0
+dummy text #1
+JB!=p\9f
+xs/%Ac#V(;~FK?'1T:+hloc:{
+    "lat": 32.508119,
+    "lng": 35.013685
+}#CKHQ.nPqp,VW(B$/d gRku~t'
+i6Oh^[>"*crAa:XJxyw<j\}E|	%lbFLT;83S`!)MI1_GvYoNZ7m&52f]+4Us-={z9
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+!W(lhN^=rSXC.wjYD
+%m"ivP-Z</d|s6>g{\]R$K:@zc_Iloc:{
+    "lat": 32.508092,
+    "lng": 35.013769
+};45Xo|t^0FP`%:Ie$RLfc!njKW?&NA+*
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+y3b"F(>dpw:!sE-[t{}^`91BN=DP;+Lh~xH5?_r@gloc:{
+    "lat": 32.508098,
+    "lng": 35.0138
+}`kc3{ idHZ;*n?}=m<rR
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+qN2J#\OdIC%Qh^Fgv*W[TU!n$Zpbl']<G&4Dloc:{
+    "lat": 32.508128,
+    "lng": 35.013877
+}dkoRx4n2(_Me:iV1vq -}.p;h%#\'8L]mS5r,7wB+G@a`cD&/fZ6l{O
+~Wy	JX>gTE)UstP|z$3"b[Q<
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+-+v"Cs}YBwloc:{
+    "lat": 32.508136,
+    "lng": 35.013901
+}|7"5x.ja!'Y<BR3)_D[N1M{9AfWzqt;H2chdZFO@p~T*
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+-M5.4Df,N`#@8O_ *~jC$;e<LK>J!i/
+vI%W+tw(1oUdHz\G6h'0loc:{
+    "lat": 32.508157,
+    "lng": 35.014002
+}43oSP|!6^a>OZpqw+\/YFbj*h]yXR=1@5u;l.7txL8Cgm&[:Q,N
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+O/m{vr`kEn!_4a2HN[U7]"fb+F3zJDVdyMZ8GQhuL,C}~
+YeS&'x)q;?R	Iw.T%loc:{
+    "lat": 32.508158,
+    "lng": 35.014028
+}c" 13EWUJa^Vq=_|ChuB7GI{(!.$tF#Z4i-Qo%Hvw>,Tx[pe:ldj;b'?S/fM)+`~R	yO@P]5k*r<}LsA
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+EMpiN(qs*e>2kWP4g,"-oVYS_v<&LU\)8zl9'.R~]:J?F7
+t3loc:{
+    "lat": 32.508152,
+    "lng": 35.014134
+}x@)_	5Eydm}G&fv30?rChBO1PR<%i7uajKZ
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+2}$	NGu)7!;83q=y-%Li*&?j(r,w[|.1H4
+FhbfB\5<mngZW`sEO/k#loc:{
+    "lat": 32.508154,
+    "lng": 35.014166
+}"L}&w\9!ofkrydT1IgzD-s
+N b><P@YpB%^3tO	CV{.8~/5Z:*q+4i?2`h]HGS[Q|_,j6JX='$e0Wcl(aREnMAUFK
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+#[X
+F~98_v+ji :"o(4aPV>kmRT\`;	C!WhcM^yb1]?z&,neQqtU<%LSYB*O0d|JIs${-D./Zl=g@u)K}rf52loc:{
+    "lat": 32.508153,
+    "lng": 35.014262
+}dj/zN`f LZ6A3H'<=1uow-;Jm
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+=k?y54/}-)~,o^+dFqT#6S>;Ee(c_\.OK0Zxzbt"mJLu	f|
+H*XrPipjIQ$[7w:<NR8WUloc:{
+    "lat": 32.508154,
+    "lng": 35.014292
+}	j4`AWP5Lr6>NK&#F%u$ l}H(Dsh02:Tn=c^Xdye'1p7k9Z_3R-@+
+dummy text #0
+dummy text #1
+@x]JepkZHL>loc:{
+    "lat": 32.508161,
+    "lng": 35.014381
+}L=S[J5]#WlP1hNO9fG)I!|6 (>k
+TQt+._0CKm27	ozB^$EM/p,d}vg3sARn-?U`\
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+06gQ
+`>G{39vdK@xm_L]a#~V:)28i; p1q*EIwOloc:{
+    "lat": 32.508159,
+    "lng": 35.014411
+}
+C!uL*EA5G)7[?{=|$2F%-(M3HVJU1z,~}XrNtDocvS#qwyBj mh@8gW.9QsTd&I	\';/Yf0^`>plkKex:P<"O4
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+x+Em~-rpG,oJ8_L@OK=yVHBQ.gz{%YFu[:M9lb3"/	 <f$XZ64A\|
+W*]w;I2Sk0sa}vDNCjnc5loc:{
+    "lat": 32.508163,
+    "lng": 35.014501
+}UTS05!L2 H\/pf>RKFOig)[l{vh&Gj#;x(sY+?P.1V6ZQbu'*]aX
+dummy text #0
+dummy text #1
+dummy text #2
+!IeTAFi|	76ROa*5M'up;zN"Z},+_Kgv^@m#=4`\oV0t$/ykH8sY[Gd9r?EclXL &>{
+:qb<w3-DSfh]CBj1)U%.2W~nQloc:{
+    "lat": 32.508176,
+    "lng": 35.014527
+}i4d8k%0:
+NsxZn7|KzUHPXhc~q&1M$}2#FvG?<`Lo+Tt\]'wr
+dummy text #0
+dummy text #1
+wGH9>5EP'L@~bfApz$+{3NtTs}&m6#<7F*n2v.Kloc:{
+    "lat": 32.508198,
+    "lng": 35.014609
+}j_%?4T)NBVJk:Py;Gz|M-^`Io0E#hqw[&>6ns{,f~m\tr3 "29iO+]</uWl=vHc1Z
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+kxapc0$9t*BNPDGROd'%.l^/E\Z|Vj	}_>wT3~:6)yu`=i&@,(omY"IeLQHM!2J#Avloc:{
+    "lat": 32.508205,
+    "lng": 35.014635
+}:d){3
+F(t\/|sbV~HW$h	LX&}%g"'wTiCDM]mR^o2`BSx?[-6+9,z7K
+dummy text #0
+dummy text #1
+dummy text #2
+|$xA,F%/(webTm>Hs&pWV:7q' @ndRjvtfQ#LS1O	]=zX{ug6h}i0GNE"M^`Z<CBK9P?U*\J[)-_+.Ikc5l
+Da38;2loc:{
+    "lat": 32.508223,
+    "lng": 35.01473
+}L*KU8:j@iN0+bVBM42_r'|7?s}[1)a$=qIH(tk;&!>dAXCQ5m	xT.O,3o]S`p~u9z 
+-\gvJR"DefEPyWnFwG/<Zl
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+7rMGm+~/,Jb^68Za9T$c4Ig?NRD%Ov.]{ky'hzF(eloc:{
+    "lat": 32.508227,
+    "lng": 35.014754
+}K21>#zn.iyQt!N(6BPGoarZxmqf^&8TW?<w_~-g=%I
+dummy text #0
+dummy text #1
+dummy text #2
+bgGIl
+2i6-,B>4%oy3Pqr"/Ou$~Ef)eloc:{
+    "lat": 32.508247,
+    "lng": 35.014854
+}X Cs7+$[W=J2(tFD."Z80g)j4MIPO9,o\i
+dummy text #0
+dummy text #1
+q2E-$;<V8^l+d1BnoX\%bmzFIg	@90O(wuvR5xY=
+:>rMpNJ|W&[]HG)?76f/tZ"'kS*Uj`{4DKloc:{
+    "lat": 32.508254,
+    "lng": 35.01488
+}$)
+C^:#K<0hpP|\T!6BIj?rg;=q.GW'aum97U[]"
+dummy text #0
+dummy text #1
+	"-ZCWVA* IdQjcloc:{
+    "lat": 32.508274,
+    "lng": 35.014959
+}4@#%	YhKe}wb/Q(NO"U`RsG=>~r$qD1i5].f_Fkx:9\IALH&JC pz'VgE2mZX![yoTj8cd*0;7?-S+^<W{6)PMBv,ut
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+`@>
+x]4'9%Ch-!Zw{.z;,iFSOgr6PX=eMk27H}o\:lt/puI|md_8jQvcJTUB+?<L$	^)loc:{
+    "lat": 32.508278,
+    "lng": 35.014985
+}s}Z,c;u0#Mm=NX
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+b*c#X+AJ16oG%VrN`	q
+?YR}Ew.nx7PkhD9ITt(;]loc:{
+    "lat": 32.508291,
+    "lng": 35.015084
+}nJkFx6$CQLZ(c>8._IG<^@\dj`H=eb)yf% ~Vgqoh	sR&}iOU[
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+%Qr>jsCo@h<7UPa2ty`(0Fm}{/6	G3n\)B"loc:{
+    "lat": 32.508294,
+    "lng": 35.015108
+}QX&'+unWw?,)pJZ`R5[GhxU*9KYLmc$FP.\t-_
+dummy text #0
+dummy text #1
+3bk)Rn!OAV@8W/=lc&.q	~ XE1[(#M\loc:{
+    "lat": 32.508315,
+    "lng": 35.015203
+}F,	;0vIyr@Ri8lJax2KH[{E+`7h=z/~m4P%}tk\gVj:Un!6'Df|Nb(w9QouZ_1"-*>B
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+UulnTkbIG{WAt2LJdgC(&je},5S!0i~86OY;\a.Px^B*Nzr =%@o#	Eq>)"4Z_$yf`mVKQ[]RF
+s/-7w+1vHXM3:?<p9h|Dc'loc:{
+    "lat": 32.508318,
+    "lng": 35.015227
+}Ke!H65([rhV0.jcz};E ~vRnow]ZyQOu"N\%,{Db	Us<3)GqIM7
+iJ8/a1FC$+lW^A@x'm|Pp?X&
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+im1Ib{tK,h	sy.]4}2H%$*PqDYSX([&loc:{
+    "lat": 32.508329,
+    "lng": 35.015329
+}K#5*i
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+M0X<OSG-~t+bTEn>)#@C[Q2LrFUhBqi?v$YDJpu"eKVo(%d'8R;5xzPm.^Z!&3`a6/4]I1| f,l_s*jk9	7=Hyc}:loc:{
+    "lat": 32.508329,
+    "lng": 35.015354
+}QYrdma9\S6iqVFK)"Pnf(.=R_w{4;CZ?GO*0 N	j>xXT&hs`M/2|
+dummy text #0
+dummy text #1
+dummy text #2
+D1:]sE`@nV-z4._gt$hL("=)%wK[P*airJeW0m5~k!QGCB^;IHZ'8cMyl<,N+R{|S#TOU	>96d7FxjYAfloc:{
+    "lat": 32.508337,
+    "lng": 35.015452
+}~
+;sSJ%u>@+bt}mGoF	.0WMk
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+s4M [\<8'3iY_UDxv1zFceZ`WwB5^Vk>%2gul]}SLo#?ajfN7pJ=rE),I9{;	PGtR!-AT+qm
+/|C6Qy~n("$bd@0.HXK:Oh*loc:{
+    "lat": 32.50834,
+    "lng": 35.015477
+}w@T$?O	0ip5_[.WaPXEy6u-g(Uj=GKJ*<'}3dQ
+e`o2nxRSV:MN!D,q]"9zh;m4Y)#c7Bv&%^>HlbI1fkA/CZtr8~{L\|+ F
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+{+`N86.]zIKx*r<,c[|Q7Y#D"&)~XThd15P}'>miloc:{
+    "lat": 32.50836,
+    "lng": 35.015572
+}cO+L5^zU<7G&q92\ S8C@bZ?=EwIhH,J$AWl*.rpo":`MX3_1s{	(4m}Dk|'YP
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+d^!*RbkU\Oi7rh3n-X;$@	AjQ0q`u[p)KwB%vx6(]fyS<&~c.Y?2oG{Fa,g}WI loc:{
+    "lat": 32.50837,
+    "lng": 35.015594
+}Z2p>3:N;^R<4
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+{%,&lOqW)A]Cn#6fP;c!"3vbGg8@x
+hD}Vr s`t+5Fd4Kz[('uXloc:{
+    "lat": 32.508393,
+    "lng": 35.015688
+}p|[*5"CX;1BMOP6A2ky_.<It,u`~ \KJG{#lF&TE0}Lq(9e4Y]j7
+dummy text #0
+dummy text #1
+~_M+yYk(W7 OdU
+?<=#6Fp@lqhe	TL]KiDxjA0,%1aEQloc:{
+    "lat": 32.508398,
+    "lng": 35.015712
+}[wS|}'0?q)	OT
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+DS7f;*>#v2Q:_EUe8xA=yjs6(<C q5}Y43oK@"iH!kOIalL/[Ploc:{
+    "lat": 32.508414,
+    "lng": 35.015804
+}Z "~l`@DV(-h<K
+dummy text #0
+dummy text #1
+dummy text #2
+=3B;
+-`Rvxm1dK['|Ict^7)SoU@#DiWQe2p~&+Z%4\H{8F] !y<b/AJsMTNf,(ClLYhnV0G.*z5j_rOak:q"Eloc:{
+    "lat": 32.508417,
+    "lng": 35.015827
+}8{`U,eK_@
+Z!Wclwr#5[vR6dTJ/^
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+[|W>h6sQX\r-_IYNHP!&3Lbovloc:{
+    "lat": 32.508435,
+    "lng": 35.015917
+}M|:+luJ94rRi%>dDSP0#BL}A\^-tUej?c6kEwa{)
+*<O!m,	8n7VFhyQ;Z`5YGo"sTfgzp['q
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+gySD[j?u$\7t.*v]KN}q,)C/ loc:{
+    "lat": 32.508441,
+    "lng": 35.015939
+}c/deS\Vk`G"E2>lz<Mqiwm]h)Ojy}(|Q+Ku5BvPgL
+Yt	
+dummy text #0
+dummy text #1
+->+!0I){:".N4P*X8(Ccue@[=Ybit|Dd^v}%#,z2foK5`ZgVR?Qm$ O
+]W9j31_6~EUxlJ/rL	7ABwa<;Hysloc:{
+    "lat": 32.508457,
+    "lng": 35.016031
+}20#VJ/PD3}S
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+e[]{`Faq|O #o&"T^VC)*x,ZM
+N~/5w	ySd-HpkKmLRs7%loc:{
+    "lat": 32.50846,
+    "lng": 35.016053
+}xvkM?~rOy0
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+@;%"Gx5|'z_~pAN*\t)w^gWTj[1:$,kuQv/l63Zdloc:{
+    "lat": 32.508471,
+    "lng": 35.016144
+}`"2rlVt*Rz(SWOdbJh>o8YkmEPvcj'iK<=- 4a6
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+QdL4&[2q@~0+z1ZJ?v*j,9VNc/mK$p3aP_DweU^!EGAx-ushyf8\}%F.'k=;M <r)XS#]>I5oloc:{
+    "lat": 32.508474,
+    "lng": 35.016168
+}R5!Au<PC[&L%{]zBq1b/46Jkr}a'S>W09l@p;E)n_N
+dummy text #0
+dummy text #1
+JzG (80,Z9q	[4-7_$.}k"T'
+gS2h3maH)!tx=F+~bA|UY`j\BwlKrE#yV@ud&eM?<^{;5pnIi%:QcsLR>1XD6o/N*PC]fvWloc:{
+    "lat": 32.508485,
+    "lng": 35.016264
+}d`"GyY~CRkZM^7
+xVp
+dummy text #0
+gvC9.Ko3*m#:dtF^R]-}N,>z0Mrq8_[)L4OEVu5 =H'QyjSUYcW`AIloc:{
+    "lat": 32.508485,
+    "lng": 35.016287
+}_h1[E3U'k@\GY|L{~ 7pZA]<*JR+)$Meq.l
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+aSYq1*{Hu)Pky>fz&NL}U":RM,JtA';Z].wdChs$T<4+O8En~5xb\[i XQme(oD^#W%pr02v!3	_loc:{
+    "lat": 32.508482,
+    "lng": 35.016389
+}do3&U}FEiPn`COMf*(['e_~Z"4T9l,;\r)<vIb={Y$czW|1-NX^L]+:G8q./
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+=t`IO 9jQ
+M@^pb[7<'x!A(V2HeNEdP51"B4oUX}*J	]k_.;$TgZ|\8#aloc:{
+    "lat": 32.508484,
+    "lng": 35.016415
+}|?\@o,w};#5') AqY&J!7
++Sr]t./m	_lc>GPLjb30g%XF8hdI=O<aRveHWkVufC`$pZ^1*zxKQD:NTsM"26{4([i
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+Evc9RF{xL}e0yw.qtTAho/B;O$X<4loc:{
+    "lat": 32.508498,
+    "lng": 35.016495
+}NyWXAs6)x0;2}TPnkg\7l/+
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+iChDM6"	}BUN?E
+z,G=y8X]QS*nb)ul.9;'+HqL5vZ>$0/#w2!-(% tYfW<kloc:{
+    "lat": 32.508502,
+    "lng": 35.016521
+}A4U5@|7; !{Dzt_J8BK2}sQp/jg,q%xOXrH	Fv+dnPeCZ9]h#k'`1<?wE$&.L>a
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+Xr\C`2+Hw,NKht=Q'^vcFf)PI	_W$YE{<!}TS&dzai3|n*/BoM4[@Zx ?~U9loc:{
+    "lat": 32.508519,
+    "lng": 35.016616
+}5nL'rOEj
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+i^rN2d*
+}MDA5z'|#7]_=Ko-O&nRw6(<8sSjB+L`F Q4h	Tauv$;[x"JG\9q~t!?V@3mPHg,eYWkZ%p)X1:yEcloc:{
+    "lat": 32.508519,
+    "lng": 35.01664
+}	\2? '&dq1"Y$t+hy|8(SlpQkK,e]=Nf{:F/Aj*bTRiz3LvnV`;_uUo.cB4g9OxD@ZrEGXm>s0aM%
+dummy text #0
+dummy text #1
+k(4./i:PY?TwDq1oz$y_a@Bv\l<#!2dCh	& A["ZI8m}3H9'fubsG6{L]Ktp>);+n`%-*g5Jloc:{
+    "lat": 32.508524,
+    "lng": 35.016736
+}-4(M0
+5jwDiY".&%dz^au2=1*W[	g`8ov!E RZ>hr,#|F9@c+J$]<'
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+>
+N:|;zR"K0~P2/[+jasED]loc:{
+    "lat": 32.508526,
+    "lng": 35.01676
+}m%ErtISfzx8Fl,; a=sGRq/Q#0J~'yH(_LNXkZ2b	K^p4\?i|`3}u:
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+Yr[@I967QpO}:)=+Lloc:{
+    "lat": 32.50854,
+    "lng": 35.016862
+}eB`0CkE /D9&j
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+<yEgP^(zrOD85.!
+Y-K@ i\$Gc[%kH{:#Xq0onw1)dB=24&MJt"]R?ZUbQ;A7VLp,hsloc:{
+    "lat": 32.508545,
+    "lng": 35.016889
+}af>+'yNeCUl
+_<Bn)\P9%z,T|#S
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+ijYw<; Q`&)k_-I*9\loc:{
+    "lat": 32.50856,
+    "lng": 35.016969
+}A/9)#m35PKcOJn"V8.'qQ1L>6l
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+`Z	N_|}YDt*2cRFO,ET%/<?^ {1hHprLaj;8bnk].V:SvPU=ywl3X(-qQM6xoJ[@&m5BK>A7C4~'+loc:{
+    "lat": 32.508565,
+    "lng": 35.016995
+}bT;XEP6R8IGWq(1f{vo'U#&^BV
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+x'y\z=n|DR8_4A
+h/Z23W	M).lBE";fd{rS,jw(IU]7g1 PeN#t^pLV:vok~TCcJX+a`qH%*&[u$Yloc:{
+    "lat": 32.508588,
+    "lng": 35.017093
+}x<"X a,[.O$QI	hT)NJH!65bZMj:-]'Pm%+rveB&@o~{\td2K9w|>*pWC^E
+dummy text #0
+dummy text #1
+dummy text #2
+?p)CDfdW4t=hmO\6$rb*'QPBFx3loc:{
+    "lat": 32.508594,
+    "lng": 35.017118
+}KYu
+m"7;s2:%9H{R@[]`F~_g	J05jX.,VLeD^G
+dummy text #0
+dummy text #1
+dummy text #2
+p]gjM9;o*|Qloc:{
+    "lat": 32.508622,
+    "lng": 35.017211
+}3l:`xF?qO(%Z"*[w9JDeRSY_bgPK#}'k52zs6+W@
+u7
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+e!PQ	s,.N7H8qL@pR3aV[y:
+T~^0rn;z\>_=g&1lK`ISUJF#"<$9A)bZw'Mm}{i6CD-cd /X|5v(khYo+Gt4ExBf*O2ju%?Wloc:{
+    "lat": 32.508629,
+    "lng": 35.017233
+}\~lcr?B>jP#	$n`DhiWGYzmbEXItJkVwSU{C/*%@1&gF^KNH-uQsO! 
+['+|.);7ARLdxy<(qa"o0_:v4M8
+dummy text #0
+ <+oyl^?F"2c\uS$49mbd}CMVgUG#j5P)*rZ&,L.e[(	>6qETXti;zQ3loc:{
+    "lat": 32.50865,
+    "lng": 35.017327
+}t1%TYi:ef[g+IG8-PnODkSpWZLb$z}(xs@"N7w45
+XFHa.`U~?cdM3&h/r2|J<)!j\	AK]*B^9;0uV6R{ymC,=o>l
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+^fEc~V>B+HbgA@O)0QF:d"-1|,tC
+]P';TvN<MWUsI&*G!loc:{
+    "lat": 32.508654,
+    "lng": 35.017352
+}vL8puiUP1oX@s5d!/bc7{~ m
+Z3"$yKf=hzDrWg%TCI^k
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+>hbU`7J6njtF<}:%X#KNMW[R9@r$i|,qexSP_~C
+fm&\'38{dc0^.z!Q5"usAa(o1BVOZ2vloc:{
+    "lat": 32.508676,
+    "lng": 35.017453
+}1Ya	|'4~rg-3#uA]>9!0X27IP8*`SRiE;%sTq{(,[G.b\n<"k}Jzf
+dummy text #0
+dummy text #1
+n ROUb{|g5%1<\E	("2IZ-v}uh+r_6,ox*;tX4QWi>d'HS.k!yB~Np`/w$s#VT^m&CA7M[Yeafqzc)]JLG:P0
+DlKFloc:{
+    "lat": 32.508681,
+    "lng": 35.017477
+},S`Qi0_
+#6*UNCqAv;sGMOb$){8:?VJx}Y/hIm9!~EtP=Kk"^Xlf>@Rg	4+B<Zw%1[jHc(e|n&2p-r. '
+dummy text #0
+dummy text #1
+dummy text #2
+?	V/-UGmF@uovIejbloc:{
+    "lat": 32.508707,
+    "lng": 35.017574
+}/#8"dUD(&y-O0mHg%`$
+dummy text #0
+LVAx's1BWFX9a`w2mb+Q5ZRJ]cl#~U[!pj?7Sloc:{
+    "lat": 32.508715,
+    "lng": 35.017599
+}R@O_J;
+:!uQ1aq4M0#X&j2T7"lBCD	f5r=oiL%cdhNw+k^)(YAnFsI]8m UW{6~b[ZyV$*EeKv,|3->t?x\`HP}gz<9
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+wK+H'[!MaFbedm|Zht(q2Dp
+\UBr;glY-	,]^6S`k4QxV{C9#5iGo)<nWzOvsIloc:{
+    "lat": 32.508727,
+    "lng": 35.017679
+}:K;CtW@R9)vX~7J/ j8_pLuMIa2H}cd&g={|
+>QZr	$NlT3#+[P0%Yi?^6,"kmz5U-fB1b'hxOA<n\`qSE*VsFD]!
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+^l%!O.)?4$71	KF9[q6sJ8_,x
+N-ip0hEvBgL&T~`kRYef+]'zr3UItAu5aQ:D@yGX{ oZCloc:{
+    "lat": 32.508727,
+    "lng": 35.017706
+}gr-1+p[tO@G_Af=s3!*Vue#yk	cFZHD^8wd7&
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+#"1Vwu]a[yc)78~:O\jSNL!{eP,%A^<Fp|GqRtKfh93QsYJ-2mZd@loc:{
+    "lat": 32.508727,
+    "lng": 35.017811
+}\[~kGo";{w%#hzS+1MWU!cCgRlO4QE8Fbn|x905PDvKJ_ X/H)at-@	B<3>}*$].m7dji&26=se:`
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+/*]n1W"02J)Yv#9EL5	q`%~<S?Puwxo@hRdAr[3&Gl\.'B+
+g>7DK{C:jIMcfFUi_$ |-,8astHke(46XZ^;ybloc:{
+    "lat": 32.508732,
+    "lng": 35.017839
+}4!d)Sz1'~[W*Go+pMaubK#;Os"e><8k2.X3x\E:90g_	/Qc-5fyR{AVPCi$&Zjvl|7
+h,mI(U}@?Dt`
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+Fu:C2;8p)4vSUVA\]md`_j#Pw=s{<By	[KN1?+i.~gERML@-hT,ne9QzkHX $3O^/f7YoZW
+'0Jblxqloc:{
+    "lat": 32.508745,
+    "lng": 35.017921
+}^G9gtW3rwRd%7=i`M]o!|cn>TV~bm:P?sHQx\
+dummy text #0
+dummy text #1
+Q'q`h#}yF7Bd>Np:X0"\,^+VKDk|SWLb!/@jrloc:{
+    "lat": 32.508745,
+    "lng": 35.01795
+}jq5w$EYf}
+dummy text #0
+m?M j	0B<"6q.'I{8TfuZ}k:Yt)xhea-(d3F;rlC,!Oi`&n~z=loc:{
+    "lat": 32.508764,
+    "lng": 35.018032
+}^32ZL'StEIOM4kq`p@NcJx=U!R
+P,]"QynAo(V*budC	lK?\&H#:-j.z
+dummy text #0
+e*zFB>6kU%~CXu<NH{_)8(rqsS?TJw:lhmt&^1Y\[,
+"b$Ep.AdvK+/nOofD;W@i j73gGVIR0x`#	yP]='|LQ2!9M4Zc5-}loc:{
+    "lat": 32.508771,
+    "lng": 35.01806
+}@
+R*{?\#6GDWqVdE|,k	PNn.y[7"ZYx:<$c+4uv30MSX`' HpO=&_U(~iB]}^ghs1>-FlKJj5
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+';{:ynrh	2kD]
+c0oNQ FK7=!*,3jH`Wp?Y1@>Uxw#P%6$Iloc:{
+    "lat": 32.508779,
+    "lng": 35.018146
+}j7R mHbAcD'Oqx;PGel!NK25Way=ti_C]1
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+{&C~Eloc:{
+    "lat": 32.508782,
+    "lng": 35.018173
+}`Wy0l.c9G ^7QR?+*,Sb@\B"5-{Okq$te	1ZLDPHF)
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+mLKQ=Hh_rCORfa;le
+w5IM6FE/g*{]D#^2"Z)Y}BzqTSWX-yPGj.x[!?>`,uV~t<Jo|p%nN:U b(+d7c	s41\$0A9&ki@8'loc:{
+    "lat": 32.508792,
+    "lng": 35.018274
+}!c"vlC; z#RdjJHYT.f[)EtuF7LXswhZxy0?q3
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+UpyT<F_)=S]q%JaMEl;KC|X8fP#Om9Yk$ZVzHBr
+3Nn&sRu!`L?hwD*0,v6@/^gloc:{
+    "lat": 32.508795,
+    "lng": 35.018298
+}fw%eayN`'^B8}*lW g]~ML|&2{#XQinq/>Z_!
+h[+(Jz"dprRxA0IDH.
+dummy text #0
+dummy text #1
+BFD!i}u`_9LVXf* jc,YW%5	pt|=+\aR{"Sg6JC#0@Usn3e^7[.ME/':)y(z1mPvkZdOhl&$bloc:{
+    "lat": 32.508801,
+    "lng": 35.018397
+}+;#WN=FCx/BQ O5z9PMa[S8u20:)iA!lD-bHe{]*~Kt4Zd>R.h,
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+_(Qg)Spe~dZ<+co%.-YbqTCK=u2tFV>[{XL`!GPJ}k]h9@yE$?
+iWrna&5Bs'AOvlUR3x:M#z\*/4;76fw	081I^Njloc:{
+    "lat": 32.508802,
+    "lng": 35.018421
+}WrYvq$7kV*
+c^}s ElyLG/f(i"<nb`T:K~0@=I4Bj;ZPU9]?6)8H>.aD-FO+,g_mNe{X!t\5uRwA|[3zo&hp%CQ'
+dummy text #0
+^lr/#`9 N5,Ot|X!VG8]Dqo<x:k	%loc:{
+    "lat": 32.508796,
+    "lng": 35.018515
+}w1ASE8`}kFUOH$6Q~c?ay:9.D	5"fx_Wq,PB]7|pv@h*0+
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+V[sA
+Nn.qpBl-Jxm+@ 3ow,Y<cf4%#O8ICSy6EQ:	hvjW2b|loc:{
+    "lat": 32.508792,
+    "lng": 35.018539
+}):2-5"
+@cH*TZf73m uPi	>ep+[bD`?kNsoOyr=!L/Wq$6nlVaF{<}M^A8htwQj&4xR
+dummy text #0
+dummy text #1
+dummy text #2
+G;"s#uXjklf9/td=P6zYBIv,L&M3$]+(
+)J0 Kc%i>Fm`7hZ.1w}4H-~|^r*qn!NyR:p2o'E<AUQ8[{\5bCVg@D_eTSW?	loc:{
+    "lat": 32.508787,
+    "lng": 35.018637
+}9(m}.Zej;t!x=Ch'	F|LWy\M2<cl~RfPI5Y*o
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+^k<#d`
+loc:{
+    "lat": 32.508784,
+    "lng": 35.01866
+}	p=nK]w7'@c}txz&H
+$D+MCN2*!EbWIO3F`k,1uyX{G_S>eJ.~i4fo6d|
+dummy text #0
+	"mKF9frt@5&26oloc:{
+    "lat": 32.508772,
+    "lng": 35.018762
+}@N8Uo1'/#&?Yy)L{PW6cwZ !k7H*"BS[`FizuJEQxCd4g+hp-=R2X%saT\:e~]n}.j^OD>9|(MIGA	v_rbf,l0m
+3V5$<tKq
+dummy text #0
+dummy text #1
+dummy text #2
+#y5H|a<[%x`jD.:V+0TAewtlM7v9	GEh1co,O}(uIR>-F]sdWp=P@U8/mzX34;Y K&~J$")\fq*CS
+2r6_Q{Z?bBing!L'kloc:{
+    "lat": 32.508772,
+    "lng": 35.018789
+}d$x>N	t}%4QK3{TzF[m.C5!1W_8(YSLPH*Ra\2rqvucM7yb&eVs+=U'l
+n| E@;"kI0joJ,Ow<gAXZ)9hi~B?#Df
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+OJx: EP2,+ZbiK&noaWH$3"7~wU}peX9	v`#drF;\L/Dsu@h5T^IGYB!
+t=*]64ymf_'RAV|gNc)lq%[j8kSCQ<?01-loc:{
+    "lat": 32.508772,
+    "lng": 35.018874
+}Mcb'R\z+YwF^Z*:KAEI<f,>|@%N1qn7V&mDH.{iGs#!B
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+*'N}RX!SU>#
+ZJg`irs0	1hCA8uj^-loc:{
+    "lat": 32.508774,
+    "lng": 35.018902
+}D!<QI]nw#}*O\,h2BuW7SV4&iU01c%mP
+s+MYz|Ak[9J'=X?C@>jTKa):p"~N/t;o_(q-6rHfZv`R
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+pyh$t{0}L]dP&xJa+(K2 /*[i.u_!fs>VC=9UzHQ'Tvr\SD)#oM|3I
+75	~gG-mE`:e^?cBFZ6@X;loc:{
+    "lat": 32.50878,
+    "lng": 35.018988
+}[}%&tKy?'W:EYeR=*zSn>^ $Lw3Baj
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+.3}7?4DY&OlMcaGRy{@6"ZAr<mtseiK1|5z_HX%Q
+#Cu) N+0-oj(/>WbfS]T:h=w'xV2	E^loc:{
+    "lat": 32.508783,
+    "lng": 35.019016
+}D-J	Ky!wsI.GF
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
++sYGfQT?Hql`KhI"jwEVao
+'U2JFv#{)Z$^Sloc:{
+    "lat": 32.508795,
+    "lng": 35.019104
+}G-FCZvqakl&.sw_!3
+"n}tyfP6$I
+dummy text #0
+dummy text #1
+dummy text #2
+6Ict(v\[1QmEwLOCX0?$eGf2rHYnF;9:AJaKx>* .Nz_@4#!qi+MgWloc:{
+    "lat": 32.508798,
+    "lng": 35.019135
+}V$`hWad
+X&8w_6[vI<7?ciEC
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+[;r\+`q*b2
+>QSRA,o^	J1$w&0a3_ut{I}n!B-m"FjV(X/Ue6Ov47Y.T5pzgD=H|]loc:{
+    "lat": 32.508818,
+    "lng": 35.01922
+}#DAak`chrYbT 6[x1Mq_{()	P.0-f*gjuV}!~z&L
+G<:IJ;=El^pF%n>/+2o'
+dummy text #0
+dummy text #1
+dummy text #2
+ [3G$hR*"o+]fs_Nw=rQI@;lZqK(vaj<4xCn!uWk%VLc'Y	>Sdloc:{
+    "lat": 32.508826,
+    "lng": 35.019248
+}w5'H}z`.^JB(\-u~aT
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+iCag`*XTU	x&e;rW#<|%1VD@oh85Z~b2>OPMd?s".!qpK\Fy/{Y0:loc:{
+    "lat": 32.508859,
+    "lng": 35.019327
+}Vt^9JUiTl$p]Q0R-_(e3,r7yGb8v\#Y=N/:&.DzH*Z<La5@|? F+c6{%uX
+K"CmE'dqW;wMgnAfs	O`1x2
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+.mcb38hEYf;>*7yo~}6I!eXzlM
+[^-$@iUSCFjgTA P1H=s\Z{G<]9)Ddloc:{
+    "lat": 32.508868,
+    "lng": 35.019355
+}[ t3@ihz"?%
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+^[k,a/;h`?sL#g$0NfeYGxVtz
+C}4]-_	(9{72@8yZjuTi%>HM:P6<lUQ !&FXloc:{
+    "lat": 32.508895,
+    "lng": 35.019439
+}L/>x#6d
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+3xne(T9fps/}@M{"P~*aK%Z)Y]>w:1jd^+8z	<-m5g0=7CD2_loc:{
+    "lat": 32.508902,
+    "lng": 35.019465
+}\[5nT;xS_J+F<b
+dummy text #0
+dummy text #1
+dummy text #2
+n^q_s=dJUY-kz9D"+cH #<y)gQEF4i.R%`P!O8MZlu	;KT,/o1ep$:x{tG'*Nv[>Bb7|wmV?032]}loc:{
+    "lat": 32.508922,
+    "lng": 35.019544
+}RLTs<'{!cJFf
+dummy text #0
+txlPm`au{_CeQr95B)FYMp#&\	$on*yA+6j;DE^loc:{
+    "lat": 32.50893,
+    "lng": 35.019568
+}wZ/6&7$c^Pf).DhQO#,kFb_~ 10r453
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+`t4Q(.RU!o;jDEi{-	0G&]8mp%k?Pv#g3C6Z=[2Hr
+J'Fq51"T@Y7OML \VhwWz/^en~slaXx_<$B+c*NS,u}:yAdf9|b>Kloc:{
+    "lat": 32.50896,
+    "lng": 35.019661
+}th5$_k%
+.I-4}Em>Uz*Qfp{<)]3W8TSr GX:e/	j60a'n7!yFKJiV|9&\"@lDY+Z=gs;w?N2b`odLM~uO,[HAxCRcqv^(#1B
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+6FTiw[cvbK	gGY5
+@Ak'IX>E|$~:VO+oxR41#2rW(n]8sN9<\^m{ pCfHM&B`P)aloc:{
+    "lat": 32.508969,
+    "lng": 35.019684
+}(ojKrvTILd^p|UP9z7
+BW \Z"HO~3)Jc[
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+xLQ3EJIs8}R#9{'(loc:{
+    "lat": 32.509004,
+    "lng": 35.019779
+}Vm-OYj2 ^$94
+<\%hMWTUH;z~]&	'"BX6Qf)7ag.|dk:@0sK+,?ZbvC5NpuScGt{`xw3RLFo#qI1}*
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+RSGO2J3qcM[d7loc:{
+    "lat": 32.509014,
+    "lng": 35.019804
+}gl}_6/:Q~+@zj{T3mv.nIHA,tGS hfbaK0$R%89&\O)s-=
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+5A9G@?<P"24'qQvT&/ s
+ozMLW+lm`d6}JZ>tOu.=f^\{XFVjRDYe*%:7$p3h)U_C-;rwloc:{
+    "lat": 32.509039,
+    "lng": 35.01988
+}_Nn^3zx2j8pmF4u K9U]kr-RvIT|E<sC~1d0)Y?O}=Qcf7iDqoL"G>lV!'wJ/@.\g
+BSyZ*P
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+|KXGr? V;)0*$Ub4_uc=&.<S9(hwyTaCJ:!Q6kLR`e5"1p%8F7#]A+d	}i-ztlloc:{
+    "lat": 32.509046,
+    "lng": 35.019905
+}+0iN@Z2rj`cIKV\9Jp&X{ b'G;*O?(M|_%Hg]-u	)ovn,E$UL[yFW:m/A^.8Sd!
+dummy text #0
+dummy text #1
+0xG[v's@P(X2w+Y9Rn71=hO"oA>tqji?Wr#`{Um;S]lDgp6^yek!bH<F/C%~cQua\N&M-V.)TK5	$
+ZzEfL8B*4,_loc:{
+    "lat": 32.509086,
+    "lng": 35.019981
+}K$JFA>@3"q&)2R7<%W1jHTl8dX![| Y]0Qc:N`aPuhe^'CGBIVtEM}
+ZD~onS/L,;4O-*	w_5sx6=pmkyviU{+#(.fg9b\?
+dummy text #0
+SLKD%E5Rl=nk!TQ1/+Nz`A\e:Jt_IWY]*Bgs3F{#pC@b4m	&avX92i|oU.u-wyHdGcf7x>0Z^loc:{
+    "lat": 32.509093,
+    "lng": 35.019999
+}|&y"WA>!gTVZX?U%n/[jz8#b)oLQ$OpI9a7@k5KGHf<^`SldE+BYD
+cNqMs6xv:P-i'u_;\tRF~	34}1e2r.,m{](w=h*
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+K:Pd}2l;1Ss8^j@yv$o	AxR5]
+)H7|?OtL,=YMiDET>e_%~rg'n[umWG*z{X.aU\Cp<(wloc:{
+    "lat": 32.509119,
+    "lng": 35.020097
+}yAWMF
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+[d:M{+h!]SjvLbVPZ?3%
+\YfK=U`).5 $zT|Ney&2JHGWx-Ocig#loc:{
+    "lat": 32.509125,
+    "lng": 35.020119
+}ZzqYTnu)QSw:gO
+ .'+,Vdt6aC?ml#%(BI$x{!HDsc2`G/*&re_iX4	L^yj;71P"89><kp@o\3=[bK~-W0hf|N5}
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+~"Y@z	2qo{*]AfC[ZaycDOV7hG;it|>}NQ04wnrHx
+eUBWIdE_(,k$9s8<vb\#p`3g+P 'S:L%KuT)-6Floc:{
+    "lat": 32.509153,
+    "lng": 35.020204
+}~\!<[ina ]-c92x>";@KtA0X:o5_&mq'`HgR*wLFT6uJWf3({M}V8h1O,|
+Dr$Ys%y=4zG/ZeQEPpU7^v#k).S
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+vi?Nxa#4'mbyO`Bgr@>H
+LpY\JqWKG30T^XC1Re+ct	2QPfMo*w"%{loc:{
+    "lat": 32.509157,
+    "lng": 35.020226
+}@v"|	c
+'FHQOJ1jwr3;-Vd$mlzRCA\IEX~D7o8K%9)+n]U6`>p<M.g=_hs{N(/}xt!#f[,Yq2TbLGByk4?* ui0P&
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+8kC^cgB=vHI	lF }6qQ?K2t)Yja<e.uO9:o|z-r~d,(h4{Z1ywEU+LXi%0TVPm3_D5GJx/>!loc:{
+    "lat": 32.509181,
+    "lng": 35.020326
+}U<5:|.Y\apb?WQ4[KOezgkt"_CZ	hq,s&BS*]$G8~+XfcoImR;r n@M}iTv^A#%NH!x`wD'>60
+PFJ2d=/{y9V)3u1-E
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+E{}K[3loc:{
+    "lat": 32.509186,
+    "lng": 35.020345
+}hY +>0zLtOaRIuBP:2v][5@%s#\N?=(o84|SV<cKX1'37M`C.
+!^Jg
+dummy text #0
+dummy text #1
+^XynO;*WC%' ]!k=Z|b`FUd
+9)j~BJ:t#Rz2S-$6v_a/,Qu	iL.G"rND{1hPcxMT}?f<loc:{
+    "lat": 32.509207,
+    "lng": 35.020426
+}g7<"r?#)	.}v_Yn ~cE(xKQ34&]:uVksmfiRO/w
+dummy text #0
+dummy text #1
+dummy text #2
+B1WgNLXUA*{;-&2oiI6=RVx9^H/djFl.zQkmw>"8 Mv%)\_E}!`P],a0Tynq(loc:{
+    "lat": 32.509211,
+    "lng": 35.020448
+}~&UuIA\=tx!0W
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+r>9alpi5j}Qhk/:!7eb0Nn^,'+O\PBloc:{
+    "lat": 32.509228,
+    "lng": 35.020537
+}=wD~*&R
+:CT$Kei;z3YnPlMG/9[]?4O}sm6<.+advQVBh-#HxWL2 r{jkp8u@q\_c%`,b!EZS>75o"tI1^|f
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+Qsk8E}H5Yoy6R2Tgh9f"m%xc:,N(C/*`d\{MS~v;.+ploc:{
+    "lat": 32.509234,
+    "lng": 35.020559
+}:T_-{3s2v'UBAH%I/57+~uiP1Q"hO=M!?gJYtcox&
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+%J.a
+bNx&	YUc\6l,0Gmg~R-tS>_i+?s(@1yL WTEQ"juw`qC:47|nF5X3^Z;loc:{
+    "lat": 32.50925,
+    "lng": 35.02065
+} _y;6N7`f!qL?XnEdMGs{zg#<uJ~USQ
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+q*W^#<F.+|w6x,o-J nCe1pM	kf3bG{Thv9XR":rloc:{
+    "lat": 32.509254,
+    "lng": 35.020673
+}]Zfew9(zg>8,i!PJ	oBqDGy*)EvSTV'[xU5.HIWa`nl?N/uMdhcs+\<{3K- 61mLj_Ck^rQ
+dummy text #0
+dummy text #1
+dummy text #2
+^F
+V%T)0-sAbfDJN.r?3&dKIz[O(|vie9U*!,haloc:{
+    "lat": 32.509278,
+    "lng": 35.020759
+}?q#~UEPj6*w+l&D5FLbyVHM
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+!h}=	2c6rm:k4<3At7q%D0_MLfTK1{(sjVSloc:{
+    "lat": 32.509284,
+    "lng": 35.020781
+}MFzST.CVO}qnB:ILm[&1-=d9Y?@h\ JA	%(QcR{g]y,_ND2+;ik'Eat)pK#/"WwGX<$Plv^7~r6o!8s
+`jf5u3
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+Fs{>'k	 t~}T:S&XVCM)"A[PD8xoB/Ql5yO_N73(I!whH,loc:{
+    "lat": 32.509304,
+    "lng": 35.020867
+}h#^	tGIP8{ Fnm5bE!U
+;ugL.,*:fza|>)CK<X&-S/}3pA$Wl(Nv7
+dummy text #0
+dummy text #1
+UPTjk\&MW+GAg!^D2V8`"s3QN_K;}Fxloc:{
+    "lat": 32.509309,
+    "lng": 35.020888
+}si.&I>0oh{Z+dMj[~3;L-kmQXR!G5%,Cz'}UOb7:	"YS^ acnrVg/NHFT\t$
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+%BbYG~Th_y"&EK4>]
+6\;vt2o7$^+ 3XwiPVW1cz(Mfa=RC	<:Zu@!0'NnQ`dmF}ls|Ap/[loc:{
+    "lat": 32.509322,
+    "lng": 35.020976
+}5_bUN}ufLzoK<>tv	FTylcgi(Z2HVQ!*43j"DXJCe7I=/&~@10mG+`
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+q|u&;0x/=H
+@k\	E(y_Q$SO3Cv]{Kd9Zl~rp}X[azV4ABG+PIg!,DYb8mR-wes.f#loc:{
+    "lat": 32.509325,
+    "lng": 35.020997
+}.iF0'Cp~^X#7,:w`W&	t$M[+@HyQqZnz!Ts3)R\
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+8hNb\L-loc:{
+    "lat": 32.509351,
+    "lng": 35.021097
+}wj4hF	IH" U3]*k8=yd5<\V/b9_!JQ[>OLz~0vt|G;,XB(#PMN2+cR&q7`rKAu:Cma1$Wls^nT}6pg{%@f'.ZS-Ei
+D)oxeY?
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+}bzsrq!2Ttnv,4^&/_a*#@7J$<NX|='Ywloc:{
+    "lat": 32.509356,
+    "lng": 35.021117
+}b8tD>jWp2NsGC&aP"lE)z9<R[+7X'%TJuoL@IMB\|h]^Q:_=i* m	xnq3VwKYF`};Ov4!r,e#
+dummy text #0
+O>H&@yWr Fwjn%ep=5s7GM},TlUk	ic6X;($m\1?`-PdB)[L0V~bx8{hq+#|:'QE^2loc:{
+    "lat": 32.509381,
+    "lng": 35.021218
+}*@W<D5U	vKel_:g?M%dr&
+!HsRtS
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+:EYk|mqD]gu_CNIVf2{-UM!+<KjO71l>9Pd%Bc}W'~S0tloc:{
+    "lat": 32.509384,
+    "lng": 35.021238
+}=!T}ge_MA*`4r)Id&p7k	u~B6o'ZfvjV]s.|[5Uy<W
+zRblS#%GC@qD(x8Kt:+>;w"amF2c-/3h\,NQXJ
+dummy text #0
+dummy text #1
+dummy text #2
+02?}93SV%QNDb>a;[`n"4|
+~(R/*{YtZ^X_dw':OjhczBH5-J8$ qW<l1+KpkIFUx\rmgGsE@#M]uy!T.	ACP&voi7)6,=floc:{
+    "lat": 32.509403,
+    "lng": 35.021322
+}w	G*6AT5(z+%ZI4_r~
+8^-FP>X1D#o/gtK3SuW'M`NO:29?Usd!0= mbC$h\}|iR[&@,{ELHfq
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+ck	H &b6xzsq7_UMQ]pldNJK(t4fgh*8!CO%RAi|>+E5P<~L$v=FwI"01D9:loc:{
+    "lat": 32.509405,
+    "lng": 35.021342
+}|r}qoS/_)9+b"{a;> sZi@2cLBA?.jyM!\W0	8eXTG#`F1~,uQ6I%$
+vz(hg^]px[
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+kmYuD\JF-wg<5SG%xhb'X}|Ul!AL6;]/pP{I, &`t4e38[nN	:Rc+#aZC9f2Vi".=BOsEv?(qKjoz
+*_710loc:{
+    "lat": 32.509433,
+    "lng": 35.021441
+}(`:m%oST	s*aZHA/9r;#WJK-MLpiy&tIDv],4 ^"3gjbYcX$U
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+u2/A`)1f}d-czo	:=Z{ ?b~m*;Jn"p7R^hx!ve](q
+C#YLKBMagIjO>VUXSr8lN_[%<kP$itHW\D9E0,6Q|.w'4Gloc:{
+    "lat": 32.509438,
+    "lng": 35.021462
+}dfse]7n
+$UHE|"@+0FxQRu}KW1(S8B<2='V4*cl6:Oh~%5viIZ&`y.X\G{k-apL r>ot
+dummy text #0
+dummy text #1
+dummy text #2
+6XKu[Fcm%?g]<C,Lkb!S:I0\'`dyV1A+TOH(~8h-tne3>$*_
+loc:{
+    "lat": 32.509445,
+    "lng": 35.021548
+}\C<!>-@=zO
+1/	upc_AU}3
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+ZK'aLOhi|}pvC5zu`%=!gHWIU9tTjc4{
+-Ryq1fXD/8e&Vm0~_:<"Ysb\E)?6SrB^wnP7G	#]xM kl>QNd[*3F;J($.2,loc:{
+    "lat": 32.509445,
+    "lng": 35.021571
+}@CrVWY4Na5(e\^v'`gDw+*&ylA]kTP<RQ=Gh}Zo",U_Snz[i>J0
+dummy text #0
+dummy text #1
+vO4frNa,Z-.B5eT|^yjnloc:{
+    "lat": 32.509489,
+    "lng": 35.021641
+}CzJ#:vWHTXM.o5$(;3rS>2UeV&sZyK}d1	BY0%F!=]Ec?D"h6-~7q+[bIatfOGN*<R{)
+'ijwlxg\,4/_Q
+dummy text #0
+dummy text #1
++!3bfjm86iZXoI7YJLs$`~HG^:z-	[_"tloc:{
+    "lat": 32.509511,
+    "lng": 35.021648
+}qQB1KbI,Jp8jC/-W*FDc2soa@$P< _]fULkvtS:w47!&zO#9M
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+{^9Jx)aV"6|@	lEzItFG'+17$N<w-C :qY]vR.4hLAbDOpX[dn!\=/2&loc:{
+    "lat": 32.509599,
+    "lng": 35.02164
+}Nm2fowx!Su4K,p}OX^<e$178&HU_@0V.L*b%#knD
+FrQYzhZc;"9l>3g {C|6-[s'iBy	)E`vIRW\t:(Jd5?~
+dummy text #0
+1E052%T&Lecloc:{
+    "lat": 32.509619,
+    "lng": 35.021636
+}$Jb=cDTWp"Yrj8PO@h5x#-:1?dB3]/w
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+)[kXi}`JCV?.tD$:L	^pNaoTKloc:{
+    "lat": 32.509691,
+    "lng": 35.021609
+}w*V; N!0v`RGiMat|k54
+F<19Wlf@/JSX-sA:C	>d]\$+bB~}^nHKqp?%g&TrZ8
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+G@Fd 0A}>(e3UcO<C:y%gRmX*pZN
+M/82zla;h-9W,.	Kfloc:{
+    "lat": 32.509711,
+    "lng": 35.021606
+}T'lMiKGV~rpqn
+h1LEyQ/S	:=<RYx]oFvb5m2U8w#cJ[t$!^e"O.B{(0;D >aP@I47%fCNW3-
+dummy text #0
+dummy text #1
+]C6{/U58 rMh&-4aR@|_=?K>"'+u2^QL)qo,zT$BbvlFNk(nHjPY}03#X
+\	;my<g`*9Jw%tcV[loc:{
+    "lat": 32.509787,
+    "lng": 35.021593
+}zNEax+'i>R]/hv!k1 m<X7A^y[wp$`}DLGJ.d(j98eT0Pl3oVB:&)
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+K	'$
+OLc0FvA8a~rnU:1HW!)Qy9|,dJ Y2jZ7"&wI#D{E6/o>T3G(5*sf-@CVh^?kB_imXS+tqbM\Nl=e4Ploc:{
+    "lat": 32.509805,
+    "lng": 35.021589
+}Ud?<8on>{0u"f!HYJlrpN(Qb]v.AOj6;4a)*@:K/[M
+t_3xegIBSCwhEXWLs'+1^c}z,=RZ-
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+lIQPM4j'pe8\TVG6qu Lnhm@;Sx0W#_,"o?k+va2Brt*>~7NOb|UA^K&J$RH[3%XE`/g1.loc:{
+    "lat": 32.509887,
+    "lng": 35.021561
+}Q*u2L0"}XkBcjx@n#'%p\)$wdO85b/trJ&h6ey^?9f,E F
+~!3;.
+dummy text #0
+Pd]Y&ScF@O<M3^B.Gw1HK'p2Arh~loc:{
+    "lat": 32.509901,
+    "lng": 35.021551
+}_QuBcvY|kq}^Fs?jD6G
+K
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+mDH
+o*]Y_8,60.3O!"qTE1Q^|}k$s2IBj(iM9Ftyr5dAC#[{cx'va\=@V7>?GfpUX~l w	&g4`loc:{
+    "lat": 32.509982,
+    "lng": 35.021518
+}`q1*LwJDf}5H+nN,l<ER"&8V^?4vms'd\S	
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+Pb	u38c'EQ~/?LSA|w<n40
+;qN#y$\h[Oi7VxlJ^j+dk@ "!Brloc:{
+    "lat": 32.509996,
+    "lng": 35.021516
+}Wg,)XD:<RC^\/L`$=BolaS2+7un&eJG18w(UrON'|p0[IM~Zb@A
+d.?yzm9%#Y!v} 	Fh-x"HP
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+*JU
+zAMCsuZcb=79Ii:Efq	^! #[]v_+(0P)-/4whWR<rV,@m81{&pXF>"T%.oy}~'`Kt|Yn63GgDSkd2loc:{
+    "lat": 32.510072,
+    "lng": 35.021502
+}gJ<crO1L\6M+nR_~vSmpPZKu4ex
+Aw*'jCN%=#q]G-EX?.$@}(s9htHo8db3/>iVQF7W05
+dummy text #0
+	E|>2bWMZ9mKJ=8-XCT7v1
+Io/lyOBcxuz:`$+%'@"UG&5,rgsnS<Ra tYj*4.H^0Vfw?6(}loc:{
+    "lat": 32.510086,
+    "lng": 35.021494
+} ~:DGRh0'Y1Cwo8sF3j+TM;EX$Pz_b/(Blv?.p@Kq&SHNyVn}]`^|,
+uZIc%6
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+K[3jG(nUeMoV~6_E	9 ,\QHT<loc:{
+    "lat": 32.510153,
+    "lng": 35.021456
+}W_vJ};9>p^iz,?lSu)\+bnYQa2<VM
+@/4dKZH~5
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+_YQl<ET8'	R"r=z2F`;n
+dHPGoN~wLScsB,K{tb$)}g*i3>\-&@^?JD!|uh](5If[64W/X+qy U9a:ej%7xloc:{
+    "lat": 32.510169,
+    "lng": 35.021447
+};Cpf^
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+lj\@|D7wloc:{
+    "lat": 32.51024,
+    "lng": 35.021412
+}2XP6"baiBY@LW*sqz/RvEA3dheNJCg tQ`]wn#D_|+{Z~xOT(0%S5
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+}qiXS\?lJmZ7."oL~/0WUQyrj$(DBe4v{;@G-'dw!V)8loc:{
+    "lat": 32.510255,
+    "lng": 35.021404
+}bKi!@sH/FT)M |
+dummy text #0
+dummy text #1
+dummy text #2
+Zb}yO+FPw60kE&;QNUr{(q~1	nRT'!/o3V<loc:{
+    "lat": 32.510334,
+    "lng": 35.021376
+}A4xHSsU
+K:f	c&uGl}!_PyQO]~I7z/?)-8X%'(0Mt6Y;n[jWC.@J5rETVR>gDkvF oep1q|b3<h=B*d`N"+ai{L\#
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+|{_o/!e,ElrWSx]:)jz c.-43OI	gGmn@$Asy#}ap7bH5J~9Mvloc:{
+    "lat": 32.51035,
+    "lng": 35.021375
+}X"oc~@kDe|\0M9i]3
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+C,qw-tG^
+FDy9+=Nm~$p*"{ )u\Wbeg`4nMX'3E#;i&:sT1vLP2JS[O|a>6(Zh_BIcdz}UK	<Vf/@R].x%loc:{
+    "lat": 32.510434,
+    "lng": 35.021379
+}ih$jb\=p9@Q;0Lk1)w72CX-HV<
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+*h]'RH<YIy8wQMalX;t$cB|r^eV}m?1L_
+niJ~=W@o\{/vUA` #)Nud7s+O3x".CPKFbZEj9fq&60T5,(:DS>k!	[4-loc:{
+    "lat": 32.510449,
+    "lng": 35.021382
+}cH}O9Q|:ha0D2(>5[<i_7\pSFeI
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+A
+0!mpW.RHUjBr_yxT8%@sGiMV}#7gJ]I2Q	:wLZ9^+O;1)z&fX'bdc5l\YqoK |ha"E>C,ev3F-loc:{
+    "lat": 32.51053,
+    "lng": 35.021413
+}S21$V
++f]zlC'<jm#WtTbh;-NP{5\.vQx!3G(	F:s?
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+@F<~4#B8=6|lvzVRrC+h2w\P^*HLU.sS,0Z-fQ_t`g>! Yp%loc:{
+    "lat": 32.510546,
+    "lng": 35.021419
+}R,gWP76Z^/M9?N*<$UEY|i1'KT\e)!Ckd[f>-%`48+;{#vplmx
+w
+dummy text #0
+y`w;=[Z$oJk-)gBa1Ym]N{sDq+(?&cApb#U
+0F,fXL4H9^:V5_~nMTvltPG%O'IzES>xr/u|d6 \i	R*<Q.loc:{
+    "lat": 32.510605,
+    "lng": 35.021491
+}v6#7sR0XSi	qkW]
+^aO.8G$Q,ml2zC )=h%&K/5~jY`3ctLN:B;reD<oVZnI{Ax>\-|M
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+3N$]FYsloc:{
+    "lat": 32.510614,
+    "lng": 35.021508
+}]d:_KTiM[>Q%#~HoP.r*)W,et'8;B0Av&I`1(\7$^{@chYF}l|ysp	5"39Nw/2=nGR
+VEj!
+dummy text #0
+dummy text #1
+Oa/@5^	duwY1[kgVW9J3K7Xb $Qi!I<Fo6\T}&;NGzRD{AmE+:crxtL~loc:{
+    "lat": 32.510657,
+    "lng": 35.021598
+}{nwKNJ=Y]C!BWc#;.[4g<u>-O\(^"
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+3`-du^)\0[y2.*z]mjMeQ9@#!$SIV1}?%H,(PLctUx='WD_bvgEC/TkF&7qh
+Zl	 Ai"NXY|6:nrG8loc:{
+    "lat": 32.510665,
+    "lng": 35.021618
+}i&DAcq,1x@z!l:7Eyd"_'Iuj~tL4ROC9=V;nf-e
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+@j)_rZ2{ 0haiU7$K+5MT1Nloc:{
+    "lat": 32.510702,
+    "lng": 35.021694
+}p*`^fAD:T@oEk3H-Z_P.>?86U#zn15}%;I\FxjaQ9X~2bu4m
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+[HI~l&6bAloc:{
+    "lat": 32.510714,
+    "lng": 35.021709
+}kJ|c	V0~2r8dNxE?tmI$
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+j2r'@heR,Oup/d`CzX78k5;b&\w~KT
+DLsB*Y?PoW0^xM	N[nQloc:{
+    "lat": 32.510775,
+    "lng": 35.021785
+}@neiTwW.0>KHC-m'<AS%5va\XzY#8Dy+Eu	GJO,Nt]7M
+dummy text #0
+dummy text #1
+3QzS=xRe~qy0#c1:LbW
+[J\|$)&K@Vnrj}Go+h.BFE_(6w umA5Y?Z{M2,8g!l-XNsdUIpC4loc:{
+    "lat": 32.510788,
+    "lng": 35.021799
+}20+fV<(	vLZ/#hp'D*{Ye@tI|8 ]Ki$FdrP&ORW^5-yGacHn=}w34u9JX6C
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+hZ:0Y?r;w4O1]\ ln3%<mK5U>J2}	&qdtDoM.C7Fe/X`bA
+!'[QBPa+s"(Gf8Rloc:{
+    "lat": 32.510838,
+    "lng": 35.021858
+}kl] }Oi`j5m8Ss	V3Q>C6[0$
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+Ouonp;F)s$]0J	}yXmLVGa+B!ZSC,K6^~&P`gE(loc:{
+    "lat": 32.510849,
+    "lng": 35.021877
+}^k`KdBD4A'P-|txl~W	>oVXu+G",}i.\a&=U:SH2{rCZ@s3bJ;1#Y(qz_8v/?<
+) IOLMy6[$7gwNEnhm5f
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+N<j;cloc:{
+    "lat": 32.51089,
+    "lng": 35.02196
+}Ryu	J~}H'-t+
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+w3Z%`kcQL)h=uCX$R2loc:{
+    "lat": 32.510899,
+    "lng": 35.02198
+}o+sb@>1yl
+zfr'W~\;N-JShukE]C:")Dc.45V
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+1sJj0Lg5'Pf%`oar}-tvBmzq9	E<FZloc:{
+    "lat": 32.510933,
+    "lng": 35.022068
+}Ukz7DEiT|4Jtc@>8K[^*Rbs	FvSCaQ_NlBo"O9
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+K1hT"4Rm!-s,vI:U^5$W]yBu;*0/86(wj2|dDOaX+#gYtHf}7n9p.cloc:{
+    "lat": 32.51094,
+    "lng": 35.022091
+}f!:&I5gR?w)02{ZbdhG-@m]p~v/^97\x4tS}(3a	u.i;Nzq1n>MA+ rU'BF8Psl"e$yHVW,OjXoLTK`
+J_c=<QEY6[kC*
+dummy text #0
+dummy text #1
+dummy text #2
+:`mo2]?P8F5fE6^}c&xY/GZi -)e+0C>7HQD!9@=	loc:{
+    "lat": 32.510969,
+    "lng": 35.022182
+}tIEzC4m:qf!31$)TQs=2'}7[iyNWU^bP&j,<eVvXYxZdJ?/`%\-6A
+S#5F;hr_Lnu>RDH"+OK8oGw	{]gBa*p0c~ 
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+L*<6>'XbkM%F	z(8fWE_oV!QNlj~Gv 1r.|p[c3/loc:{
+    "lat": 32.510979,
+    "lng": 35.022202
+}@9o05g;B\v JAZ_p	.K$cNLz)kIU]3wF8%XDMna*/yle<frq}{!C17WVh-is+EmR"
+P'Yj
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+vxce:z?t.6@|3$_!}q)RbI-Z7BQy*Y"	^>A,G9asNp&mWVOwP1f/H<
+uCdDUjl#'[2FgS`;{]0KTLJnk(8% ~rEXhiM=loc:{
+    "lat": 32.511022,
+    "lng": 35.022282
+}ncC\&[6r%f
+"Yzt`Uv!/1~X0RpDQ$:M+-hl*>3iZEG^W_(@V,ey|]?;K}
+dummy text #0
+`OdVR"}jfK1(D zX	.r%lUyY
+:P^IF|~/s>ML{J;w7ibm+t*k_$&@8ncNZloc:{
+    "lat": 32.511032,
+    "lng": 35.0223
+}W]@_0, |5w-^JSDfxCRk
+yK`*IHp	&/>OVeX.G1r!
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+tNFca$=UO	/Z|il(+2qR_fS>]"Jpg@V.Bny}xH:,d96hm*\4[7Y1LP%3W^-!#ejkszw{<ArGv'oC8?&DT
+~K`5loc:{
+    "lat": 32.511085,
+    "lng": 35.022376
+}Oo#DAc2t7	F6|ZM -]bHv;s)ah(m?/WuPS8<4@
+g+XlUdY%3r5z"B'`G.*0Tj!$}=^,L:~p{\ni[QJkCfNyV_1qx9&e
+dummy text #0
+dummy text #1
+XzTRd{kU"2Ni%jZ80pHSbIqu]D(loc:{
+    "lat": 32.511094,
+    "lng": 35.022391
+}vScRE4IAp^n%]wGF;Y
+dummy text #0
+dummy text #1
+!DM]?A%37OR6arI[K&Sf'Wz\oT2QU*Floc:{
+    "lat": 32.511146,
+    "lng": 35.022471
+}|<@F$3arw>JCNT8VMk
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+y.D9f[:0)od?zb|Bm4%&u"SvMr;
+(`-x]C'Hn6Kloc:{
+    "lat": 32.511155,
+    "lng": 35.022488
+}R5Q;puPSn,iF	k-@\
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+x}d Mb.cvBS%pPF65nJ>Wz^{9loc:{
+    "lat": 32.511197,
+    "lng": 35.022577
+}.SC6x1X=@}#%t4qdYPa$^wc IZ7;mn!NsEGO3RD/K"i[&u{>+'FlQ)_\jk|8gHV<:oJz`
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+[-xskloc:{
+    "lat": 32.511205,
+    "lng": 35.022595
+}ED},-hOkg278/jNC?o<:X ^_feq=*d$&.;Mb['r0]A49|syiQBn`(HFI6w+Suc
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+4T_ %{0	DqPhC^G?:i#v]`sy|Ao@~6&)XM<"Y3,F1pbEZfm8}W$'Nk/.uI9tloc:{
+    "lat": 32.511237,
+    "lng": 35.022677
+}cWM45gG:n
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+:E8%rC7hksMK~6AXYBQxm^
+fZFo|i_wbH=(D.0IV+ORpy1'$ `/\{<Tq->a3[loc:{
+    "lat": 32.511247,
+    "lng": 35.02269
+}]u-QlVHtD>TCsm~Zhk@*`Mio{"LS$&	rO0[j/;AebpBdE81,y2w^
+7n}x:a)9_(\gFRPUJ+W.v4I 
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+g_q(t\)^p.i+"W{K2=nzIkC[~1<:*$>8AL'loc:{
+    "lat": 32.511298,
+    "lng": 35.022761
+}F'5)Y7*z	Hx|w}dfiK!X,D?0 /$MlW@`~4g{mPn#uktB%8os"h(.C1&:9T^
+_]+VGON;=IAbJL
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+'`a"Mu|d>1Y+gre	W-ncz;[R#b<VHS.
+oK,BL_54Ut(^2v)E}Q8yxl?!loc:{
+    "lat": 32.511309,
+    "lng": 35.022774
+}C\F:Smzjs4@HLW.X({$x= Tb#r3K}a/'9qgk|1I)-^NyG_u!c0M6pP8]
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+97Aw$H_zQX*=mi4B~d@!KZ]&\Gt8`;'PrLqO%>#"k}?FYxlpE^bh:v {
++ec|j.)	WRuNag6<M1DJIloc:{
+    "lat": 32.51139,
+    "lng": 35.022733
+}=w{<:fY]DLx+_T@9"k`l ;?*a>s0h-W!bX.uvp5\H	87iVA#y2$rP
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+o#D(qj>h'BkLy~7Iloc:{
+    "lat": 32.511398,
+    "lng": 35.022713
+}}#LZb~h|vN;lKoX[w/$RV!{:C>
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+c^'}Dn["@T	$&Up60aQF]s?MAYxSloc:{
+    "lat": 32.511421,
+    "lng": 35.022627
+} G!A]}+%
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+2tBpMbfvU{A5
+8kh=\0+).7y# RcW}&z	N<i$I/KS3@1X_wT|Zam%Fen6"l^J4Eloc:{
+    "lat": 32.511418,
+    "lng": 35.0226
+}o,TLpeQ]@=\u^aW3:~6Hq_Yc5)NP0*D	
+i!mKlCI%yv&9[gnwUxOr$XJ.-f1
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+df-hF
+r\(x>URloc:{
+    "lat": 32.511412,
+    "lng": 35.022497
+}eYS4EC>nW&})b+0phD]s_
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+4|m$r6&HyVLe	27`ZX?qKAD;"o/0hFEv1]*f'dxQw U3btRs[Y:
+CT!)j>B._{iJN#}%uInc=WS-a(g,l<z5O+9^@Pploc:{
+    "lat": 32.511417,
+    "lng": 35.022477
+}D}+w<~V3
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+9Y0f1{pde6b3#/Cyz\8uA?vxR}VcHX[%LP-M;]j^.nQ=I!Jio5g'4Oloc:{
+    "lat": 32.511476,
+    "lng": 35.022398
+}nWNX1@zlS9(yp
+q.TOgL{PY!uCI+e/b]<2GwskmHxQJ4BEh,dc8
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+YC9jO}E]IZM$l1VH-*hQu%tgK,	&78WDo#
+frcX:^UT_!L~;xG/Jw\.6s aiF[('dvy={S>B0Apqb@3R`?<nPNzkloc:{
+    "lat": 32.511487,
+    "lng": 35.022382
+}#s<dQ5Ji1]U\& 	nWvYcV9@L:ZT(=[DSjK~aB3I*{Gzxr)qOl2"Ao.eR0>Ff!HC$%_bt4k
+y+p}u6^gX`wm8'
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+LC\b4lV=*u[0/d>?svpYRSXr3A)8q
+t}U-_G!'c<ZzJM1Q&oImk	; "`~|j2O6ewy@x]D(hloc:{
+    "lat": 32.511493,
+    "lng": 35.022287
+}!mBF0#
+dummy text #0
+dummy text #1
+dummy text #2
+4w&PR3>-paj|T0?7$;b!u('FLo%\:2r+*fVm	9`1G56JlK^BSeEi}UOy)@W.XgzDM#]t,Ch8n
+d[{Nk =~cIqHsQ"<ZA/xloc:{
+    "lat": 32.511486,
+    "lng": 35.022269
+}<:rBU(YgQu
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+oWa=OjZt~C6q+zB.nD&`H(,PsG]7 @4f?T5'NiX2Eb3kvgMu*ScJl|<}d9IVloc:{
+    "lat": 32.511446,
+    "lng": 35.022192
+}2_wum>DiU8yN}7-&p!k@q`VH"X/
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+tk$7gV-m;,3Ui#=C0Wq1\Doloc:{
+    "lat": 32.511434,
+    "lng": 35.022173
+}qhgCSr%QEyl2u1/{Mi7.:#P}tTUF+c<3@4pjO|[
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+!8xG3v_0g2b1Cm#<}6$>7^q, KytI+;loc:{
+    "lat": 32.511387,
+    "lng": 35.022099
+}oy9&J<6V02{a3?	Hc\eSC4"
+sh$W1f+p@8
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+K%<!mGe&Op;2v"y.,0'nPJl/f]\Zk|(wSz	jg:~ Foua3RDCN[9*)x$loc:{
+    "lat": 32.511378,
+    "lng": 35.022078
+}()~O6lv8ai%}	*7Vj4=bnw>5$+g{rP_2dXh:-NH&scmtzDTFZ
+dummy text #0
+dummy text #1
+dummy text #2
+,+tQyv#{$joSC-MV9eBp4;!2P]G70"WUx/r}3Dmi`_	 loc:{
+    "lat": 32.511372,
+    "lng": 35.02199
+}GQJ"F!@	Wl6o&
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+\#@n/&dlu]t$8 r6NL>^*gKU[~HS!5eO<	IW=,:Vof(PC?cv|%aXm)+Tbs9F-hloc:{
+    "lat": 32.511375,
+    "lng": 35.021969
+}WqFc?R_H#jT=2`zEfMSB5r3AdQbyZli^	vLGe&*hU.\[>1%<:0~P' aV"YK4oN7
+dummy text #0
+dummy text #1
+dummy text #2
+jC	~/K*AQNhloc:{
+    "lat": 32.511364,
+    "lng": 35.021865
+}&^u2)Mf
+G7
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+Kx(el;W:vnpH+i~8VSC1cr)j$#oU	Gloc:{
+    "lat": 32.511358,
+    "lng": 35.021844
+}bu!Oi[=Fx%y'
+
+dummy text #0
+dummy text #1
+^(l\fz~`loc:{
+    "lat": 32.511348,
+    "lng": 35.021755
+}>S{K5\DG1xY$ORj9WAp~?|=<hq`H;6PJs7BZ]-2:+	/fc3eLl 0%VF,igT^&tzdo"mUM8E#yXku4Qn!
+dummy text #0
+Ts=!AQD5>C+[NMIrgmLSB/~{F^&dHx6aVf*0%wu4?kpZ@hj](z'vP1$|,3Y"J8c}E\):#X b	q;oGO9y<K.7tW2nleiUloc:{
+    "lat": 32.511341,
+    "lng": 35.021733
+}?\wm+&;Uj[szLyP`aqE$6Id<5TKpn48xvl!FVu:Qc|%( 
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+~7x^\!}/nEr|(zOm%vB[Z
+w]0Isa=kX$8)D+9yANh&5loc:{
+    "lat": 32.511297,
+    "lng": 35.021653
+}@c&F$I1~a8/yAPsk
+dummy text #0
+dummy text #1
+9L"1	
+'<(),kXo&cmA}E t6U4|$30?WS8/qd7!loc:{
+    "lat": 32.511285,
+    "lng": 35.021634
+}vFiVaG~h<qCSU Qn9$)3!EApBWr&f5ct].:X	Yg>\2_Z{m-@K;L=`"H|ko8b
+l67JMz0(dxeN,*Os'#TD
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+b|Mh</\0G+W_l(!i4^k>`9qT$7'},P8nzcX) vLQ
+{JBONEygK"t@w[21Us-&AVS]#~3DuxrfCje;m.HYI	d?%6aloc:{
+    "lat": 32.511249,
+    "lng": 35.021544
+}=eD
+R]kQ %`V<Zhb4G(iSzdKxOW0FC}	UEX\6I"cy!~v7?ltAY)[HL$|'>1fgBw:j*_so5ua,P
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+q>Ma
+SW3b(7=xHYoj-O,69[gdIRfw4sy:DFznG1UQc^rC#NA|	V?EtL2<.loc:{
+    "lat": 32.511242,
+    "lng": 35.021523
+}X4V 9T<:Ge%HjNz/{67E![5}^Y"=`PLW	3n;Ix|uJ+rDB
+C'(>th?k8Ay\)wv]lSg,2~O_$K.Qms@1
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+Gw6Nc&lpP5C:3r8Oi)<m'(I1Ld9ks7x0@>$nUq `.B+Q~h{v_]T[,bR!yF-A/HtjMloc:{
+    "lat": 32.511193,
+    "lng": 35.021447
+}Xm$v 6PKru;1gyf">:b@RA9k~H0'8}
+pj\aG5th_[YcF4&n7)L,CM!J={#No<x`+wD/]*VBZ^s-%elz(q.?d3WUES
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+ e/0bl,{=?OWs|RNV
+-1A<"&>oMv4X~qHU`z'P3;6)wnE@*%aTg	Qc9fkZ8G!F[i2\rY.t7pJB+S]}ud(#5:yKL$jhCxImD^_loc:{
+    "lat": 32.511181,
+    "lng": 35.02143
+}.GU0J 2v5[,9H?t|~(_cF*m%Y^iD1q
+&}-
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+[HIE|VDUhwK-7{y(T2O1jS$)An!C~s9F@RYPm*Ji,GQ=0loc:{
+    "lat": 32.511127,
+    "lng": 35.021367
+}
+l]^52o?MPp@[{.gwCE8f;H&r(s3ayRhKD}I	%N6"/j'AX4mu$c|ZWLU`n<+qV>-Q:vF,9b0)eY*t=x
+dummy text #0
+XI"DB?.o`dGS*L('x^s el35HqJ2,)4U	n$/m!rp
+~=P7}%FfziK60-kR1E>_&vyMhT8|Wuaw9NO[ZY{loc:{
+    "lat": 32.511111,
+    "lng": 35.021355
+}XD.
+VmSv|y,KW8A~`F3t&kpP<U
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+8>w(|n=bF'sCoi+-6El1j Ia05_.;Zd^$eJG,	{:]QH3\hloc:{
+    "lat": 32.511036,
+    "lng": 35.021326
+}W{JF?rTo=Kmpq."Q5f3}9N:vyBkP,S0b
+dummy text #0
+r}x_^DfE%b.>Q*`loc:{
+    "lat": 32.511016,
+    "lng": 35.021322
+}_Cs}j'<Xuzow-|.&a~1M,H
+#fZqVL:")m+rGN3Qy=\W678td;l`$FOcR[A%0kTDbgP(IxSB^2E5UpJK9/i4	
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+4x=;}gm	^z
+vnq+I0Cjd3Gf_A:Jloc:{
+    "lat": 32.510939,
+    "lng": 35.021304
+}U+1;YP5E{dmp#fgOZQ)NXyx
+s	rCTFI/~Gv@RW\zaH6('KSM.A`B2hV7L%<o$>-}]tq^&j
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+a)C-}HLsv6]|e&X<y YE_/!iGKbg0{	'J@~.%[7phF
+OofD5Qc$+x:zk(RB2#mlN"r3T9Sn,WMjtAVqUId4\P;^=?>81uw*Zloc:{
+    "lat": 32.51092,
+    "lng": 35.021295
+}*2]Qt"alv!|~ke/yFi>DM}T^rY-j.{q4XhHfd
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+De;Xzu-YH(=&'.yaOQo
+k70>c6j%wdN<gloc:{
+    "lat": 32.510854,
+    "lng": 35.021241
+}FZ^E&QD3y?
+/UvI>NiX58!1|*M)a,edW-; 4R[H'zY"uOT<l_%AS~mbo76j:#Pc`.=V$}r2kGpC]nKLg({	\wx9hf+s
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+Ht*-FSN@poPJQCT]}G`7f(d;DZU[ghb>8O	
+${,l.#5rs9RBi|3?=x&:v)Mum2wV~knzW 6X/Y^%E"\'0c<Iq4+_aloc:{
+    "lat": 32.51084,
+    "lng": 35.021223
+}^S05B	7{e)i|Z TclI~o=VLq&h#1}_3E-`G(\pHa,PR6<d!C@f;vAgkz"*uyFU[Ksb4:?nN.O]
+2%9JY'$Mx+W
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+hJsk
+BK)G:}-e=F\+0>uS6loc:{
+    "lat": 32.510782,
+    "lng": 35.021152
+}lHY=nSwkJ ,uzB.]_o	OVDRE%x2sh-(7I^6qPQpe'`[)a1{<35CK4m/~crM|$8g"0:Gjy
+iWf}!U@*ZvXNbF>dLA\?;&#9tT+
+dummy text #0
+dummy text #1
+dummy text #2
+ZuzFS<dDnq?p#Gg4 _0*@$3	~A-NYB%EH9|+T/{8sMb^h&l
+rOtPj,X!loc:{
+    "lat": 32.510766,
+    "lng": 35.021134
+}4r3'QK>qz_c
+auR]C	G-$eYj}7(O`iS?TJ*thP~L@2xMgW:\I9<B1km8+AHp#l,{5FVN^Z)sEo;/.U6 0fd["=v!%|wyn&
+dummy text #0
+dummy text #1
+dummy text #2
+iM$yT2?;	<LASb*uhsEO-Y}I0.)wVNG,p~^8f&HU9
+Rx`dt5/zngWloc:{
+    "lat": 32.510714,
+    "lng": 35.021052
+}%3zP{d9rnZl$4!M(e
+bVDx8&\EomjB#,'I*fWS[J<KRqc_LC-Q
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+NPI?wu*#^d"Tn=<H,Qloc:{
+    "lat": 32.510703,
+    "lng": 35.02103
+}A_l 0g=6YUTaH[$1!RSt-`qr2s9b;vu7Z(K|*F"&o@MfLpkjG'
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+z5:m(pr;'C~!-0_QjR^cf3B%#x&)J$Od4=n[6F2G<N}qyha]D{\oK/uZH1AX+Uv
+8 *T|gt7?siMloc:{
+    "lat": 32.510683,
+    "lng": 35.020927
+}4Q"l@PcD*$b;?uq&}0S|h:=
+L+	I/AO7dR3v%FiN~(e8m# Z
+dummy text #0
+\y`U%+|;#>=_IE8gabunfZY2)~kC	@m
+S4v/wQ 9J-d!XG^cq*&NTej5otB.s:{lFLi6K](}rzD0,<pWVhPO$RM[HA7'3?1xloc:{
+    "lat": 32.510684,
+    "lng": 35.020899
+}cL(%MN$m8]w 6Gy:2xQYz1'khl[Irt0@_;j*O~,
+dummy text #0
+dummy text #1
+`6 QpNb^./,LdfIC"loc:{
+    "lat": 32.510691,
+    "lng": 35.020811
+};,op4YXb`^>S@}=G(gReHDchm-M.
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+y6!9AoIUuMzjloc:{
+    "lat": 32.510695,
+    "lng": 35.02078
+}V8aTF,
+mK{Gu'[W]vJ 3kO\gQ$!s(dwS"`LYUx0}CDj:cA;9Z-7=H*R<zq1	
+dummy text #0
+dummy text #1
+5rz Zko	X%e#2bt@c6Td-8H}`a,PJhvRLYu4^I;j&[=!s_0*ONf{1>U9q.CgFy?loc:{
+    "lat": 32.51071,
+    "lng": 35.020689
+}N-sf1'gWKHRemSt=*,&|{pbOj"yQ^5@2l3YzrLDdGP><
+dummy text #0
+dummy text #1
+dummy text #2
+OQV[
+yb`mB^Fl.W8:L(H9S/%	0rtv+ ,73!IdZN{}$Dq2\=Ts4loc:{
+    "lat": 32.510717,
+    "lng": 35.02066
+}2!?{z89xKgU
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+.k8\pn2:o)9vtTDzw]!-+_R4m@3|/$bJZ~{AIfyaS'i
+>loc:{
+    "lat": 32.51074,
+    "lng": 35.020582
+}`INm\Q@u~/ [x-c.ry2kA{7)p
+_=q?B4o*D&8KJ3zwWg]e|vdCM(i9HSL>Z^hGR"%!aP
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+B8n>s&*^'v4dk+Y[A\loc:{
+    "lat": 32.510747,
+    "lng": 35.020556
+}qRh|-DNb[/8sm2F
+dummy text #0
+dummy text #1
+dummy text #2
+2RXl0xb5ygtBMd)J"|PS&im`!~=rKo]Vj*nk-F8<@z6THL%}?>I _^D$9Q(O;E'+3Caloc:{
+    "lat": 32.510777,
+    "lng": 35.020461
+}1J?	)vI&B@UKDbaw$x
+%r~<o85:j\/6kl;SE2
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+"NDEcloc:{
+    "lat": 32.510786,
+    "lng": 35.020438
+}^iSJe9'Y#KUk3+G?.c%]|6h$2R~bDgoNypt4}w[z(:=8jL`P_&\
+v	@al,ZMT!Bf <*)Eqx07FWs"1>Xu{IC-rAHV;md5O/
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+{3&	C?QKZ/x7L+P($-j:TN
+pW1REB<c8H%dnh|MG@agi\U!#DuO2'JA9~m,Io6X>k}e=^*;Yloc:{
+    "lat": 32.510816,
+    "lng": 35.02034
+}ga%M}=sb$*JY| 
+c_Hzi	(A?Xh#P\E<Fm)~K{Ztxl'ITDNG,d6[/uO785S:]pvof3jkR19nVr->UB!C4w.`W0^&
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+d_m}khV&wn
+YJ0KNvEfg%lT,!=$B9Sz)iA;OPQ"Xc?~#:loc:{
+    "lat": 32.51082,
+    "lng": 35.020313
+}:q-wUTf
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+;MSvn"p0\XD8 
+g*Kx#hcL`u+Tq9AH_Id/y'|b.Wt-5F3VlYJ}i[loc:{
+    "lat": 32.510831,
+    "lng": 35.020222
+}ZwPbnpW^RNzB&q]gLCOK;U#sIv(x3rJ2Qj6f=5DY0:!T'-%>h M\[o	dAe?1i.
+H*aXtmG_/uc}|{`E$l8"+F9~),4@VS<7k
+dummy text #0
+dummy text #1
+dummy text #2
+nH<'"OJewWVbsYgPc+.B&X!ar-2hU|[A8dk@1)loc:{
+    "lat": 32.510836,
+    "lng": 35.020193
+}Z8>T-PxOV2f5bEJ
+"
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+h^j("uCs'$m@!GZ>vod}r&S 3y-loc:{
+    "lat": 32.510856,
+    "lng": 35.020111
+}_c-R*s^+E|zJBnb
+?K)$t~!DV'{k5vXYPSUO:3xQAarGm/,`.8"dI1L;49\y j<h2o@%i]qp7>w(MC=gT
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+6)P &fhr7|NXMCoT,-t(?WS1sy]{	J@i=wL^~FkZ:#2
+Hdp.v*9`GK[Qa>"cb8\%'xV_+qUje4;/}3ml$ROnloc:{
+    "lat": 32.510863,
+    "lng": 35.020084
+}6+N`~
+/s3(}0_iEZ!TkSKYz?["rQG<2\ qf=e>^H)71&lgWh95OtC*#caBDpR@-8'];UAynm.Ij{oLd,J4Fu%PXwxV
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+wHn	qy1G;M8:!#vWorloc:{
+    "lat": 32.510892,
+    "lng": 35.02001
+}OL$uQhdKf3*'TZp(U)?z
+l_xcF+`N= <|gV6"s/&tB%48IP^km@~01CMD7v[i.R>9#H}:be	]jSaAw\,2o{yrq
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+Z`g_V@lY\^$/7t~iA826C.vdQJ'fU&b;<y-xT5M1	F*zDK
+loc:{
+    "lat": 32.510902,
+    "lng": 35.019987
+}>p	nLw]=V
+X1/lY)IsB5t\ "D!:eQmzg'0.3?G-<94vH&%M`#AZh{~afuqcb*}kFCS2i^N(R8j7@JT
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+'f9JjY.y&dwAg K^T8loc:{
+    "lat": 32.510944,
+    "lng": 35.019899
+}Pv%
+E9T!xpq~I`,:z?Va=w3OjK"*SJmbrnMR{&$t7[<WlHGNL0F;\	ug^_>-ZQ.8A5BD24#)fh
+dummy text #0
+b9pxzq2Esl<8\#iC|`IATQ*@V	loc:{
+    "lat": 32.510955,
+    "lng": 35.019877
+}(Z?
+&{
+dummy text #0
+dummy text #1
+dummy text #2
+@*ruQ\GR-%t(>UKWXHp9b:xvA1k=c.,[#q}eD2]8`T)sB
+_Y{4^aF0m!n?"Liod	<loc:{
+    "lat": 32.510988,
+    "lng": 35.019784
+}jI^ecrdM9zf`?OvhK"-=sU NqDkP
+A3#	@'J7LwY+4R5%[T>
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+}OaK'jx[tDe+PEno/pB(ImG9wAQ8MYL;`<CJF$
+,@~4\#]Rh*!5NX>&0r3	?kivcz{=db"^suS2fyZ)V -_H.W1l%|loc:{
+    "lat": 32.510993,
+    "lng": 35.019759
+}cBS@M-L*G+)K?Z2n`#Am7f&
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+',_h3P!	x=<wC?vy;H\%4SkGd{E:TUbYl^Ro
+ira5[-u0"(D)OQz$&BZ8F2t`.eJKg>1*sfXL6|M/loc:{
+    "lat": 32.511,
+    "lng": 35.019676
+}|ZefP1zpq'g`.$}TNoh9Wk
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+{csxUYmHi>0/8r!4)_^DgI~1,-Xq]\J+M3o
+[dNweG#a?Bf%Aph.Tloc:{
+    "lat": 32.511004,
+    "lng": 35.019648
+}p?^w9D]/*bRg{`<'h
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+<z?2|jYJ36H#]kL1I5N%f."i/D )7vS0V!$WP{AFGX;puqloc:{
+    "lat": 32.511023,
+    "lng": 35.019567
+}GmY=If }~.Xo|NKj[r>8s`!dOt7]az5#A_Ccv{WlJ23
+@%V-0k;^/be$:,)SQ	u?wZ\h<q
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+u1R29Q<w@=%^",TI+W&*o`84N3 !_Bz|yk5loc:{
+    "lat": 32.511031,
+    "lng": 35.019541
+} AGzieCEqK`j%QalxD3u<4Np*8ZwS\&WVrY=';o)$+cI
+R{/dOns"fT0t:b6#Lk.>^?v}7B2m@5_|-]g
+dummy text #0
+dummy text #1
+dummy text #2
+g{fo31\$8AR/NdwWtvj?7PFDIKYr H!i0Tc~&x=Mk(";y@6+p2n
+EJ',l)|LZQ%4Cu}mz-O[UaeS].^bBXV5loc:{
+    "lat": 32.511058,
+    "lng": 35.01947
+}Q/92<0WOq)sg}:.hx	8[yb{nU
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+$EJk<1Nf0:'G-4xloc:{
+    "lat": 32.511085,
+    "lng": 35.019434
+}u608GlTMe	/`Fc{N%=^axZyQ,g?'(OwJkfsn) >]bLV!$;<z57jH_R3UICEd&+~h@9oY
+"1qv#2m:
+dummy text #0
+dummy text #1
+OEk_7Tuw2A	9R[$NJU'?f;H"Sjtby5vn6m.>x:dPF!QX%3l=<]C(8-loc:{
+    "lat": 32.511152,
+    "lng": 35.019368
+}vo%zO
+D
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+w
+3*=`xp	0/9W78G]q>:T&tePIK4NJ)v<1ay.! ^"-;zuFYloc:{
+    "lat": 32.51117,
+    "lng": 35.019353
+}?GnSth</Yz0_{49U!&Vj8M%+(JkT-)AQaENHg~cmrRXv=C.d:5q^37|}oyF'[Ob,
+@">epZPwWx]2
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+&ctnrd0)"L2fCvVU]j/Z.(9KkD`paloc:{
+    "lat": 32.511213,
+    "lng": 35.019291
+}_(^'K7[mlFnzNGV{ Dgj1O;crL}U"	pbu509>\.EdshS+=<4QCf
+dummy text #0
+dummy text #1
+beGOg{cB\EXj&wYd|CKa';StIA	2?uqU5].^9,_<i1MPFl}VyLD4(NZ7Hs
+!0x)RQz+>W~/T%6o=h#n@[*-"8$ 3:`pfmkrloc:{
+    "lat": 32.511225,
+    "lng": 35.019267
+}k,.`$/N2If8O3 Zea@Uy6S<0!x9-bw)|iFu(~	\sX+KE{GW'1_4R%>dvm
+?V&7c=o}5pnhJQAzHlD;]g[^qPjBtL#r*MC
+dummy text #0
+dummy text #1
+dummy text #2
+?}UD\g$h]	b'!sRzlP+294"TWaSQdXw MV0k58L^{3Y_C:u)JK1-qGemZ/.loc:{
+    "lat": 32.511276,
+    "lng": 35.019184
+}2}r0Cb^oIN"\ ?{,yPmHt
+Zv	jYLi<
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+B:-t+/Cr>6$Mlp.Sg(x!,IzT
+[H&*0^aG4yOvloc:{
+    "lat": 32.511286,
+    "lng": 35.019163
+}?siECIJZ};O.B:9v8hlkR]pjWuq	 ct_ro3gHVK$
++N\e=S[GTw{/f(>!A"4F~x|
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+sbzBG 6h(g-?_yW$~.*|
+']`VdN/=fCeXcFxloc:{
+    "lat": 32.511319,
+    "lng": 35.01907
+}^'xeE-u+$C)t.knF*:@
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+A]tn%Vy_wS<p/5;68-z.IrWEh+'KgZ7amU49u*R1"c^NF!ofC@\bT
+	?3>B)[`e0&(=v,:JM#dP2|{$qYLxsO }Hloc:{
+    "lat": 32.51133,
+    "lng": 35.019048
+})Mo5DG&`{2uNbelXfIZw_@m[trRJW4%
+dummy text #0
+dummy text #1
+dummy text #2
+\1]KL|^TmtO7)C-4"QBZUr%loc:{
+    "lat": 32.511367,
+    "lng": 35.018962
+}N+|8!F&9SaYb@nRwfku5BD0PVsQ^	1l/Ki?.Gg=J#M3I2(>x-t$jvm\TdzE%Ce6Ur{yZ<h;Xc:'
+")
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+i
+^PR\Te|flO0[/h6'8bU?:GY3nMusS+w~aN!J$5D}(v<t%rX92F 4"`EWq.dy-A{&]oloc:{
+    "lat": 32.511371,
+    "lng": 35.01894
+}*E<'JPmM>Hw?)8jqL`pRe]O{1C/7r;TF|2l&KohvW(Ux~c\i}z"#ft Ynd0,	bQ-N!:X_k3=
+$u5s[^+aB@ZG.4D9Ag
+dummy text #0
+dummy text #1
+-{:sP3GYIqR+'loc:{
+    "lat": 32.511413,
+    "lng": 35.01886
+}qi9Tj}+1L?m"OJZ$A]>3tyFr0B7`Kdeva4b=w%N!	_.|R)DE~/z685V2
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+Le?(l&_pi\4f<8y
+"Eloc:{
+    "lat": 32.511419,
+    "lng": 35.018845
+}0\6;f=/eih^zA<XYb}y]wZ"~C?L+B34-n2#&,	cOE[agT'ku*FJpWP71|_m>rN`MR9$D5IVoQx{@tKHj.d:vU(SGqs
+)%8l
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+NG@L;,fAYQ"~3%B]WO-b
+dyu'J0$2DKU&Ploc:{
+    "lat": 32.511452,
+    "lng": 35.018747
+} VNUT7hWs?L=ZB
+AkgM2a{n&Fe(S1O;[5G.!f'Q4+~qbY%r$`u,:mpD>@zEyCt#8l/P-<\9Hi
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+NU+V1?oAM-lc/;K#"I%Z}OSp`qeL45s7F_vk {&6.|=*2E~@id3na)PTzjloc:{
+    "lat": 32.511457,
+    "lng": 35.018728
+} OG&}L6e7U,3
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+o%0;Gj3"Kh8?r.i:L$uV5B*C~4l\Qw{dU!n&'`X =m/JH]}|[xvk(PZq<#>c-N)
+eaIWR^y7pD1t2A,Yb96sFSzfgM@	EO_T+loc:{
+    "lat": 32.511486,
+    "lng": 35.018646
+}ngdswyG'YhDi@
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+%4u }tbKG6Q-\@)loc:{
+    "lat": 32.511495,
+    "lng": 35.018627
+}yuc{[l$kzDUV"Y3Ea&C]#(qvSO72)WI?;jP*
+dummy text #0
+dummy text #1
+dummy text #2
+;8&$l1ZusY\EiSM`0qWDeyL>!%[(=PxH ,af'Gw9/tbFnloc:{
+    "lat": 32.511541,
+    "lng": 35.018559
+}i+A@dzJD-aE}g'(
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+7jBTzOGoVa*fu"dmL{[ZAS>e5qM^gIp?l_E.,30K8=iy2| sDvkJ@YR!]:1loc:{
+    "lat": 32.511551,
+    "lng": 35.018542
+}*5f'`Gv$jl=KXQEHUc(d<?;VuP4S%W&^FIr>9O~]pT0_B["{|1A.@ZLgJ+onN, mM
+qib6}C#\e
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+'+)lG5 -Y7gstC?.&KurX>/{b:Ik\TqM
+W$!fNSx1=nQ<@JH`mj~loc:{
+    "lat": 32.511598,
+    "lng": 35.01846
+}/}wu@12$rCyGFs#I:k.,_` [5Agf{"\p6qmUB]^!>n&3'<H|JvolZ4~e+SVbO%K
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+7H@&W03
+/%5.=PKaV9TfZ6	qr~\'+Q|bJ2N[ _-IwGlU,A)d#gY{Lv"Eu`SORC4^(:nMokFy1$itpXj*loc:{
+    "lat": 32.511604,
+    "lng": 35.018444
+}3LQ.f1DH[($vckWNxFt ]Jn'2w%s{g
+j5e>Um-S9|bTPRKhO/8Y`*M"@oB+;<aElquyX6p#	)
+dummy text #0
+dummy text #1
+LK3~(fD{Z1 +%\20P8]loc:{
+    "lat": 32.511663,
+    "lng": 35.018369
+}iDL9B@4Fd{^)U#ZS6r"->N\Qu%c80
+dummy text #0
+dummy text #1
+TS lz{hdZV/FP	;~:XUu)y0A8$OW3(>E6q|#ioCg<B-@kvxrY`loc:{
+    "lat": 32.511675,
+    "lng": 35.018355
+}/9W\B:@YuymO1
+kD0d2?GNi#F~M(>P!Z7c6[ g;|8sqj`w4)Q,z%+<&$otanKpve5x
+dummy text #0
+ ?sxV;6C3e	GR7
+`yHZ(a_8f!5kjz,"ogTh\O@i>:A)rtvIDB0nE9<XSc4&*}%#^uF1~wP-.bl|d'ploc:{
+    "lat": 32.511724,
+    "lng": 35.018267
+}M;oH_R@rTdkVI%P&O('{Fn^4mz`vE)B63ih./1["K]u*J2Qf?=590AxysZ}:qeX<U+WapYLD
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+xi>b_\heH 	,
+%loc:{
+    "lat": 32.511738,
+    "lng": 35.018253
+}<$/x]o{f_k;-sQNt[)WgEl7I9a8"\Hi#M5%c
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+u
+EiI'JW0=;9tk&j#oyFf%Qz~v_VPx^[O NG*Kl}>3|M2p/1\sY]-4<)Cb6(Lc.BS?hd	Z:+Te!Aqa$mwnr,H7g@DX{loc:{
+    "lat": 32.511797,
+    "lng": 35.018196
+}v1dU!zwgZGah[m.ui^8+,Yyj]5B$0D`RsPxQ7<'eF(	\_2~*;W:%)-V|
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+O&^db\GreQ5UlFuT4w-BPk68Wy*7)[gH,j~ D@Af"/acJV=%loc:{
+    "lat": 32.511806,
+    "lng": 35.018176
+}U{iR5Kz_2X[t$1FpM)j9
+^>V"w/:#*IJ+0fy=vo&cYQuZ?8H6LDxm.r3E;	AbGeNTqd7@sP%a4W(l '-g
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+^"rL`Aw	=%4QqIWD -[f8}nd$5ke;iC\6h>3uHFJz:O/m(<U*V.S7TX+_lB,g)2byER9|aNPcY'Ks1t#p@{x?Z]!loc:{
+    "lat": 32.511863,
+    "lng": 35.018103
+}~R	J1kv_q%.I9OwYpZ`;2 e7?P{S/j!#53$D'bUc\"s6nl]o
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+Z{37"89VOvF_gJWtM]	loc:{
+    "lat": 32.511876,
+    "lng": 35.018086
+}D1FR=b{P (`Co]
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+Lamf\tj6GTP/wM:2
+o8]*loc:{
+    "lat": 32.51191,
+    "lng": 35.01799
+}W4=>KdIpe{[S`UM/OhlY	QLXJ(RNwGf~'
+E8_@o
+dummy text #0
+z/= ]Z8LBCU:Aw"a	#^)!{g$r0Sj[T7x|'PdW*}<+_-n5l.GcQY?tv,H%iy
+eo(>9Jloc:{
+    "lat": 32.511919,
+    "lng": 35.017974
+}zj3{;-,}b(	Y'T!CF?wvpO
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+
+[C,J'10mloc:{
+    "lat": 32.511969,
+    "lng": 35.0179
+}n6:']}71rma[+!H^gQ0CX;oF<5$I
+&J 9kD"tKi(yGb_wcA2\%x
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+[nW735JCieu'_+ZPU
+|wch#xX;szlR,`4Fk(]$mM<O^ja	@EG6qypA-NBr.L:9?\1v&~}>*")S2{ =!VQdtgY0of%/Hloc:{
+    "lat": 32.511981,
+    "lng": 35.017886
+}(
+)X=eNK@ck bFU/>zIx}l^TJ$AHChQ1Dod<4ZG.m'Y!&*a`Btf,[9~P6%E#+y	2{"3nMi_wWq0SsuL;]7|r8j5:VO?\pgvR-
+dummy text #0
+dummy text #1
+dummy text #2
+BhUNs+Fik'%G }D)2eLgzZOK	W#R!<~=AqCaQX&@loc:{
+    "lat": 32.512028,
+    "lng": 35.017796
+}xld*8br\(N2
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+BWo>Y{s0!|?)aX5$zIdGK%\-&"kN#}l=mFE^V	e2(6Ty.qCj:*[+J 7D1O
+LZ<b98Rwtiuc`xQU@hH]p_A4v'fSloc:{
+    "lat": 32.512037,
+    "lng": 35.017785
+}jut'w
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+v~8\'Q;M71oe[3ROH|2m54Ybn*f>Zgloc:{
+    "lat": 32.5121,
+    "lng": 35.017713
+}kp.xqu<jt R)E@]N,|Lv4zH7~e8#y3ZO^
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+.8GckQ]o0KHrT|xl$-Zb1(loc:{
+    "lat": 32.512113,
+    "lng": 35.017704
+}"LV)\?y_H=6,NRlx'cBsX>(k/Q0;5PA`hpJuU4T.}29rWjKS^o
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+<LF>C}dloc:{
+    "lat": 32.512166,
+    "lng": 35.017636
+}t	v~]}^Ff6Cr;0S@5!4+I-j#bku2c9_nxB/PGW\H[qYDpwQ`.MU<'mXdyE?Og| 
+=*A:RVaihl{NeL8,J"oT%Ksz>$(&Z31)7
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+kf{lIrj+:Ked/3NE[L&.Z-vb0"B7W\y$gVtxUO2C
+JX]T(^!GAwuo@PH,qa	loc:{
+    "lat": 32.512176,
+    "lng": 35.017623
+}"T?sA!n`z~a
+c	 =-jDKSfiuLH_RI40v+[e7k5PN^U%}.
+dummy text #0
+dummy text #1
+i~]S,Vh!YJp&(2s{0"@D'r}M3q*PuGz1 T	?ck\<nOBa54#N-K:Hl=)tF/Cg`.|bXloc:{
+    "lat": 32.512235,
+    "lng": 35.017543
+}U2*oPL"($+RW|qd\/M-93a'vy:eOKSEp0@jr=c?QBHC
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+r*<Y;82=:^jiQqabP4hA]HM#!?-x~EZd"5+l\[
+Rwloc:{
+    "lat": 32.512245,
+    "lng": 35.01753
+}>6?Ze=Kni.c~2@xL|{Vo/D5q,Qm&7S	4jT
+dummy text #0
+dummy text #1
+ARH?	3wVkrdYND"KXE7.h~;
+b-f0nq,/Oz {<%x!9)CS2=Ty6g(Z|Q1*+Wp_L8$FjoeBloc:{
+    "lat": 32.512297,
+    "lng": 35.017461
+}&cH%8p]
+egGT
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+!M`GjpF[Lq6&,<3I:l17]E>A/"{z?KY0.ifWXeUO'R_2HTvV8dg%C)y|@loc:{
+    "lat": 32.512305,
+    "lng": 35.017448
+}VMC]pvJ2e1>W%`j'PY/(N;)}t4zk.	aT@KnhH\|+9*? ,Fx7IDwr{b0:$fQ8Rql
+^~oL3AGOBidX-
+dummy text #0
+dummy text #1
+@vAVS7KeF`LGN{Dc1;loc:{
+    "lat": 32.512358,
+    "lng": 35.017372
+}1	)=5PpTtl/~cA`*m6[xMG<vb$q:&%F0s(R.'S-jgeo2X@Vn"KO8f 3N
+7k!]|J_}ZudWI4ri,y+
+dummy text #0
+J\N*_`70~ur>PW(}GaST+MF9p4glxOeQ	<3#ItA5CY-8q?%]mXU{'.sonLloc:{
+    "lat": 32.512367,
+    "lng": 35.017358
+} !2?pLgC1A
+ZWdN(,]mjGnwyOc"0
+dummy text #0
+dummy text #1
+dummy text #2
+}1qZW
+~I'_RJ8]-:4H<?Lt@!%*fg=3&C.pyh\vDr7d0jQbN+P6$2w)FT9`"xo,ek#ms>z(aV;[KBMUAS^loc:{
+    "lat": 32.512411,
+    "lng": 35.017285
+}2%tKu9vFUp'e8RxC;(,
+Q1|Ek]s#53>Ic.i`Z:fmG$Lwl[J=}@W
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+$\KHFN>~!ly:6/J)kb_1gW;I
+&ueY(v8c4if'+a *[|loc:{
+    "lat": 32.512421,
+    "lng": 35.01727
+}C_5s69|Koy8%gdkDY*PM<VW7:
+S4iA!J-GfXtjn>?{}cQZ ;\ep(E0	U]Ru"Oql.`w/LF^m
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+0L]
+/iDZ=,pJ#9:`;<Iazloc:{
+    "lat": 32.51248,
+    "lng": 35.017192
+}C>[r<Kt!	7jYe%?`n0R=6*GA'~4gd5#:.MBoh3swu_Q/ViDyPE}+U@OfXJl;vcNb${z^L1) qp-,]k|H&
+FxSZ
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+-AE8L0Yc1)g\Q%9loc:{
+    "lat": 32.512492,
+    "lng": 35.017175
+}K !uE;{3,27t4Os
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+0ZD<T{?es~:=
+/V+oNd v(ijb;	^B769&@u2lUy_cGfK4loc:{
+    "lat": 32.512551,
+    "lng": 35.017096
+}A`M!N6nfIaOW
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+yu(gW)a/L_[@M	}fj*U5sl^Ri
+X].n%~qdE1=<?A87JOYm&{3khw";`+4NV|loc:{
+    "lat": 32.512563,
+    "lng": 35.017081
+}u8FM[Li!R-/xY`|<ZV"2;Opt:'3	{*+&9yd$g=hXeo,v
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+Wg6@#wMU,xZ}+Q%~FK\(-l8sN=n:y	pCO79P0?uk&jGLf)e>_V'/*loc:{
+    "lat": 32.512622,
+    "lng": 35.017014
+}I#=G:)p&RJnaEZr1i(V -FH[b7DkSB{6L;9'lNsPuzmO5`e<Q~A	*X$KM28>y+^x]o?Yh0
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+b!K\,|J8dG.Q}j#5WaB6*@N{	(=12o`F$ymhIec]9nRrwx"v<^VgU>+:?SDpZu M%[iXktq_'74loc:{
+    "lat": 32.512629,
+    "lng": 35.016998
+}H#OlZw3I>tDz?XAf7=U~o^yerECR9Qhmv	,@u+
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+5wm v*IC1_D2Y!.];i:#$L,Hq@(|9J%pAV\/Mloc:{
+    "lat": 32.512679,
+    "lng": 35.016924
+}$`u\0C>UQdh8I}l)iF!2"D*|PNn<g,bfpWMGz^5O ]
+Kv@mR1=sZL9AekE?rwY;&jT
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+F:Z|yB!U14PVvr_TA=JqR<H)@ 0OWom9-[
+jDs8SzY$ENl2unK\]5k&^;Lb.pXMgc+CGia7"tQxI?`'fw}~edh(#{loc:{
+    "lat": 32.512686,
+    "lng": 35.016908
+}uqT!
+C\^.jIVyorWl=)0$APaY'pR *1+-G{4,~KDfX5`Nm3	6n;bM28sJS7dH?c"/&#9h}>E%_
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+!Mm-t0y+3>*:/N1u(E?aGe;Yw5 WI'A$7Q[VogK}qzBHrDkd6\#SJ9	j_%ns)P2O&"~loc:{
+    "lat": 32.512727,
+    "lng": 35.016819
+}] e~S9V}wsq4E
+dummy text #0
+dummy text #1
+xo(;rEQ}satKDX0P,b/ui1`kL+V%MT<S-fJ~vR"e|'!q$_g)hW73j2nc# U	89IB*.>Gd4\^5OpzZlY={mloc:{
+    "lat": 32.512735,
+    "lng": 35.0168
+}-AmX.2!dU<c 1|;@HN^gy7qE~b
+`OjnBf0'?F	{&3YSu]/"wI8Qr_Lk,9\=[WvD%h6
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+b_}59- GhTd%cO.CZBfv<YpAqjHIs>w
+2l4FUM|,*PEX~"/1`)ty#g3xN+ekraz^@(ou&inD$V=6K	?7'JLQm!\Wloc:{
+    "lat": 32.512763,
+    "lng": 35.016714
+}SgWqf+v?j\4A'K15|L&Crp9YMI%y_^duDB<EJ]7o3x b,OckT2)(0a	
+}P@"hl#m`[i6$NX=n{-Hw!8V*Z
+dummy text #0
+dummy text #1
+%*Ci(xg{~|4"z:<NF&O
+dE[J#rf1b5.scS93kWAIeG )MY^!HhBTtRX'nZ_8loc:{
+    "lat": 32.512769,
+    "lng": 35.016691
+}Xsy%IFhu<HJW8v mEd
+D3bR&O0nYU,/#L]@w=[eqGB_*(2ac9z{\xAjClk
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+MFU=I,-^3:R% ~#xO8cyGT\il)HV}@1ZBSpkt.moN+K[4uLh(w25	j{C*nDA!>rv/0bs_
+g`WP"&<;9]az$QedJq6?|EYXf'7loc:{
+    "lat": 32.512842,
+    "lng": 35.016637
+}0jD$ks[JQnvO6
+.>|)N{^,L5(\}*mP`_&
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+,H.B[_8G'9h@7%"O
+3Ua$Q{4SZX;2\}vri<]loc:{
+    "lat": 32.512859,
+    "lng": 35.016648
+}MFL`~?%I2-gzcD<]V\f Tusedlv@>tB/i0jQ)n$qN;w9.W{A(8*kJ5yG#Z4
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+nI,=UY`rP$tVzR<s}yb(3:kDECO7>Jo'B52xwT@&mc6h{
+MuvZ"|S.Xa)fi_loc:{
+    "lat": 32.512922,
+    "lng": 35.016715
+}{jeqJGBZL}^M(:
+dummy text #0
+3V@vYzGd=Z`CEBck4m?NgnQ$)2|eUObo
+p]Dr,^MP18&F_%KyT'Sf6loc:{
+    "lat": 32.512936,
+    "lng": 35.016735
+}B"!~%AaZF^N0tS7u]2DOxY>vs}1/Enz`P?|6wUKrmj$fT'#yp,JMe5Q=&(3{4 <H.@+89kW
+R-_biVdqchX\Lg
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+\oXPEUeT.95!Axvm;%g|a1	G]6/y0DR`'2ScM(r4p->7)}+[3&V^J#u "nbHq,
+:{_L$B~Ojloc:{
+    "lat": 32.512992,
+    "lng": 35.016803
+}W"GKUF!%~9P	T(: uDb>BJAQH?Zjv);sYk5[3/O`'x,-zp2@<|#
+dummy text #0
+dummy text #1
+q.yfwDTU*@ 5jeaYzlIB]Gv-+QV<J#oHg_}4	loc:{
+    "lat": 32.513005,
+    "lng": 35.016819
+}K<hY}Q7G-=yEBLie)w>,W[jlJHVa]4(6UD.	
+dummy text #0
+dummy text #1
+dummy text #2
+Y/
+6p}fvIrd|Mloc:{
+    "lat": 32.51307,
+    "lng": 35.016871
+}S>9o{2;cD&wO[s'4a^xg)6|q:	EdY1]<pT-b?$k!}X#WhH\B`F rjQftC.UJ
+I0lA+Mz%8K5PnZm~
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+$9vA5q@/^)I:2R!.#0}"7or1(Gu-y{loc:{
+    "lat": 32.513084,
+    "lng": 35.016884
+}[HX!hS|>~eM\F tjaEg9;=o
+dummy text #0
+dummy text #1
+dummy text #2
+Tk?ifloc:{
+    "lat": 32.513151,
+    "lng": 35.016949
+}\`&dD2}eGhP5{n34p9vl0
+McA1	KgVLjq+sY.fm;7 <
+dummy text #0
+~dD$=-zS1R<x:U'h%[b)#floc:{
+    "lat": 32.513166,
+    "lng": 35.016961
+}L<y76Z4\!b8	VFieG&S/Rz32{$pB'|Q(O+,M=*>x 5n}qjNt%^~cwu)#;]IDdvPhYks
+9mT?-:rlaUg.X_fA0@
+dummy text #0
+dummy text #1
+dummy text #2
+Hq\Y on?/c({<m_0Ixzk8E2$9u}PClw17@|F	Vr4X
+MOJe6loc:{
+    "lat": 32.513221,
+    "lng": 35.01702
+}k\5[{6yqeU?;d	'E/cK9
+oNlg]4YvmtJ<IWZ P(&z-sb}Sn@jwX73+*_Bu`M!F"D)0L>VACO,~ph.ifr=$xR%GH1#|T8^2:
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+s(]!40
+iFb8d[eLy%S o5.r=1J{@O6akjYz'lA,`\;UV&9+Iu|fqTXR:h3pEt_W>cG$2#nK"^C	HNx/B}MP<~Z)v7?Dg-Q*mloc:{
+    "lat": 32.513232,
+    "lng": 35.017037
+}J^B<mg/fW$vEjI!uh`[,bXG#~U@%SsYF5>4d}ty'DpzrTP:1AiO.k	68|H+Z]M(0{-Qe"R\n
+
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+Zh=[f]Mt|>Ov+K/ loc:{
+    "lat": 32.513276,
+    "lng": 35.017107
+}eFZ4>TQUdC	D%'P3W(b|1)XSm;6x{^M"K!8GpN
+dummy text #0
+dummy text #1
+CS$U-Ic*7js<oiJ9_`nL?E8QA~e)loc:{
+    "lat": 32.513287,
+    "lng": 35.017123
+}&xh]>3GKgS\'
+dummy text #0
+dummy text #1
+&*a<	EAHSUgY0%k7[8$;ceN IOq24XZ]~9#3s`-,K5F}+t?(y)uW{1.loc:{
+    "lat": 32.51333,
+    "lng": 35.017208
+}Ud&A;B8wMX_"Rj* blOD
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+'50eiRz{O~-F="1HTMloc:{
+    "lat": 32.51334,
+    "lng": 35.017226
+}t?6^3;J],=%d:R7_sH{4VI'9`hT&1"S(	CnGB|@w[e.#>g}~r5aWfY)MbjQ!mEFDc iKup
+dummy text #0
+dummy text #1
+dummy text #2
+:;HW=	GV%+[c^w]#9r?U~!@
+2)zkpO\'vQ}XL,7nP8IgDloc:{
+    "lat": 32.513398,
+    "lng": 35.017278
+}1{L;mA(u6<T[ oFBKv>r]U!#x2O:,C=PQ/Rh|sW*j9D.ME+GY5
+JwgN-pdHySV
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+{O!mIKs~-hGu#Q*}UdFvXeaH	Elw"c[W/Lrnqb:fR2|9\k@py_]4oSBx'C6(Z<7TJ`>0P5i&,$A =j8loc:{
+    "lat": 32.513411,
+    "lng": 35.017291
+}'oZ	Xai1
+uA!8:bLvHOje;*?]wR{=3FBtV<n4)E+5N&lhr/>~[Y`%M9sQ"I#0_ygD^U}
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+R`3fEd{!?et
+n@#WG_Zp>zCx(loc:{
+    "lat": 32.513464,
+    "lng": 35.017348
+}.yO!<^SKmh=	8|
+CRgBfNn)Y/oHD6r-&likG;\{tM1_ dAauQ~0#?$F*[W'IELjv>c4
+dummy text #0
+)"%iCZXq_zyMNUPWj[/T!vx8r]Bme<6 =fH5t`loc:{
+    "lat": 32.513477,
+    "lng": 35.017364
+}aW"bcYTF!<@R;+Vitxu8'~,Eze^p(?r:
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+i*%lnLaB~t;b"`<gXmH^#xw6K'k-CU+ez][.0,r)EMT$5?
+W!:18vloc:{
+    "lat": 32.513534,
+    "lng": 35.017427
+}D_y
+hps#WAe]RH96,Xxl !Vfg4&:'Zz^inK-%/8tv?IGakBL}=m[$Q<T0|dYPC>J~bE`N@1c\q	"MrS.jo()Ou+*
+dummy text #0
+dummy text #1
+	Pfvab,&)K?05X_ o@WN<!r}=+]z#MqluA>1wnRD\k9[s4S*^IOdV
+gt|y/.'(6-B~8{HpeY:LjC`"2;QEU%7TmG3iJ$hFloc:{
+    "lat": 32.513548,
+    "lng": 35.017441
+}6xD-lQCpXj|fM)N!Gd#[ythJ1/r+Z$akK;>:oinW_^
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+m(A"U!loc:{
+    "lat": 32.513618,
+    "lng": 35.017485
+}8,1n`]0;!9e7^_PD2H6VOU YN5	k'#crQfTiG\a
+uvESM}gy[+&)CB$jw*sq>%bX:AL4~m".l3pKxz=J?Z-R/Fh(@Id<{
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+	M}tbz:WG%a/)eB{k9;yq Q1(jINLP'["0@l*V3m#$O.T`u
+wSCF&HvYRnoZEx|\K]Aploc:{
+    "lat": 32.513639,
+    "lng": 35.01749
+}RD;&h5q1	U6>3byiPa*=u/t!\,}LQ(_S-<WvC:+VIln'g7.YoHB%k[ j@EKdGTZ29N~)4?
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+~2<1IgnSu'+9VpQNzX{YT%>U0@)Wh5B&FPq]
+m Krebc?JlL*(C:_v78-Eo#^	=MOH6\ks43A;w[Di`jtloc:{
+    "lat": 32.513718,
+    "lng": 35.017455
+}.U"G|FAx:j]h9lNW*ia2c;
+E\YmPo}
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+|Cjy}r9f;
+G$xA?>4i/oloc:{
+    "lat": 32.513731,
+    "lng": 35.017436
+}Pp@Uv^N'RKrC\?sxwOug.2*<	M:Zz7`%6|&9Fny"LX$eB_J;mD3fIkQ+o/G
+dummy text #0
+dummy text #1
+dummy text #2
+J".:3Knt*vRH}rbu
+loc:{
+    "lat": 32.51377,
+    "lng": 35.017373
+}wD2(6?
+dummy text #0
+dummy text #1
+dummy text #2
+<',7HZCx.!aXiDpT(s>80?4ur`-5JN\/h:tm9Q_U{l+zAYGc@~ jFS"Mloc:{
+    "lat": 32.513784,
+    "lng": 35.017349
+}p_8igTnUaS`$h%;vF:VO<APk2	t4>Cc,+r^5)}?
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+"C-!KspO`IJS l124fP=$)uloc:{
+    "lat": 32.513828,
+    "lng": 35.017284
+}5_M3sB#1o9Ok|")6&Rt/W`}>*($depm
+dummy text #0
+dummy text #1
+dummy text #2
+",}_t3QE;^rl%h-\Pg`WaG?$!kFO=I0n|Busc@>loc:{
+    "lat": 32.513843,
+    "lng": 35.017263
+}@*#VA pJa$Y]wvQ4j5D+r1fKGmSq7'0	
+dummy text #0
+0pe'K64%t.?/oX5(ahF*,scV;7ObR@\2|L_[]P3rD-xI+{) ^N~	Yj9W8i`gq}>nSEdk!#uwM:JU$y<mHTGv&CZBQA"1z
+l=loc:{
+    "lat": 32.513887,
+    "lng": 35.017201
+}Scm[F_T|E.R:?I1KVZ!z)6jB*5v+dXH%Yw-
+7ON$ope~#8LyM'u{	Pi@/a<&k^4\Q GWqg>b0AJ=,fD]9h
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+p$hsECBd*c5z{K}Y&"yX;^>loc:{
+    "lat": 32.513897,
+    "lng": 35.017175
+}&SI_90$HF@si%:KXhq8J'U;gOGbu*/+<NdQDLV,Z3x-w`67"aRPvkTC2o !m=)e~c?f^A}4
+(\{MtYB	.5pn]lErW
+dummy text #0
+mT&u)}\=<
+YkVDLh|+AKN% r.{(o21`xyvaO*;sloc:{
+    "lat": 32.51393,
+    "lng": 35.017102
+}Zn(F+DNKtk*wzs
+|!6~o?H%d
+dummy text #0
+dummy text #1
+XDm-G~B[+lnMo;6wHd7O_9I{FZ:& Y\*VtpER?#C1.(cT%<hv!j/x'="2`Aa5K8f]0$W}loc:{
+    "lat": 32.513935,
+    "lng": 35.017077
+}r9L`AU3#:aj>wzRtcXG$g[M}Z8I,BdHubhs|	i;!ySKD P_~ol\6'V@E4Yf*&CN^np0/W".=)
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+aR;nQsP(wi4"!U}86C[b?tdoc*|WF
+-eYloc:{
+    "lat": 32.51393,
+    "lng": 35.016994
+}<?_ld{Jte&-9s^>C`('2	gFrS0#w17Zqp"*jv5f4W38YkG[V;yM6+zUm%uLnbO)oB!i
+,c@D
+dummy text #0
+=,mY@s$q/Jloc:{
+    "lat": 32.513929,
+    "lng": 35.016965
+}!wjE VnPx?6W
+*I\2u1Cgkq,UMv/3^SNY"A]}Jo#&)h=B	(c`;:eX{@DzGZ>T_Har8~<05d'OlR4y.-m$
+dummy text #0
+GB?@7vw~b Pd$-mFJ`Z&QVT<}r>;iI)\=tx[:aXhWAny|loc:{
+    "lat": 32.513936,
+    "lng": 35.016881
+}vmY8kQN=;nj$Z{4filhb\B_
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+[&PscTu\=j'UC?NIo(,/r"b 9@p8w%ES-!*	.d4qABeJ
+loc:{
+    "lat": 32.513941,
+    "lng": 35.016855
+}>H[6bZ&TP]{^W!v8Y,+?:@;0(*}sj#GUxh)OX
+%~7w4K.rlzFeu25	RcJ=`V-CpNi1d$" yL3otDISQag|Bnf
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+[&ya7|* UBHXxloc:{
+    "lat": 32.513958,
+    "lng": 35.016764
+}z;DWTX'nMObSo,1jI[*RF
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+-*_/|mo~]Qls0y48i<NzCHuqtloc:{
+    "lat": 32.513959,
+    "lng": 35.016742
+}/ *rY)M6}S{DupOsoeT=<#3wiWl_U"(JKdH1B[%>kCR5A
+2Vt!@y?-]&cX4|G~;,7NzQ'Fh^jEqmaLg$+9.:Ib08Pvf\	Zn
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+*8ub E0SViokYe(KlBH^1)yJcPz/CD9%QfnO
+[N@wjloc:{
+    "lat": 32.513989,
+    "lng": 35.01666
+}S3DyqZp2VkO[,:oHX?*TB(g/P0
+}
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+f
+{eD7K|NLxn	?[$(^yF :#OG@]HbXJB'.5vA>t"jg=loc:{
+    "lat": 32.513999,
+    "lng": 35.016639
+}:az;VE5{Tt	Ln0?"lg
+6JiMH~uO$h*Be-71=j_G`@xmAr)sFKYXbd^[] WCU+/fpZ8N93P\>Do}4<&,v%(R'2ck|Q!
+dummy text #0
+dummy text #1
+dummy text #2
+IEhGt;*'a<d#xeB-3("86}&? 29s/4O^p)Sk$v]ZC~c+Pno,bUz[Dfw.>r_gKJTHMNL5@q1lloc:{
+    "lat": 32.514054,
+    "lng": 35.016579
+}j8fbqn
+dummy text #0
+`8.ZE)3d,_%j(P${|2fSF?w[*rNbD1+JmMUz!^u4]&9C= hv:	Yng@G
+/a-7RO5Vcekloc:{
+    "lat": 32.514065,
+    "lng": 35.016562
+}<,G].FS^E$z:M -!qXj@p
+x>}tl+3CoUbP/)s[f*Z`Y;=#	_mOrNuBnc(~&ka\g0|e6THvL2KV?Jdw{ADy"'
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+rU$p)_%fqv^*AWz
+,kt"[B#TS .1w;]~\'<Kn|0aML9:`2jmXDd76YH&yg@?!Z>hGcQJ}VPI+usF{bloc:{
+    "lat": 32.514112,
+    "lng": 35.016492
+}$iFvX)W^Z@{q=!\`;Ypk*n8hHV0f"zR
+dummy text #0
+dummy text #1
+Fa*yHnNDc8Pf"RW$`-7BdvTloc:{
+    "lat": 32.514126,
+    "lng": 35.016471
+}Qf;KoF5tm^yn2u
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+U2('h=V"B|a%{4jIloc:{
+    "lat": 32.51417,
+    "lng": 35.016384
+}['~x|i7UNZBbAedMgF4KEY_)I9.H`} tzyuS];-6+*s2h>$:T!8(a5QJ&
+X=m
+dummy text #0
+&,C{EO0/]dnce;Z+i52UH:gWyIGV3M1a|loc:{
+    "lat": 32.514178,
+    "lng": 35.016362
+}xO:o\t}	z?Cqb1Zvc5{>uIpAslEn'm ];~8)S@dNk!BDj,7yUR&+JLf-(MGV#%eY92/i^a
+dummy text #0
+dummy text #1
+{%-o8}r5!"OUc\
+Q6I@Fl>34wXNusy2vSHR;GZloc:{
+    "lat": 32.51421,
+    "lng": 35.016274
+}NF%/x#
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+<p_I]:J`H.jloc:{
+    "lat": 32.514221,
+    "lng": 35.016254
+}mr$b&qe5AjtcBF\G?~79<k+n_@>IfU{gJ20:Sz
+ 
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+2P3V%g)tv*R8b+@o`0HY/kO\AX",dz(#aiG
+4L^T!q1loc:{
+    "lat": 32.514278,
+    "lng": 35.016184
+}|";-Tg0/
+[kJIclN<xWfEv_Vo,1FR(S=t`bi&Q)M7\C^yazr BL3}~?]mK$	DjX4G#
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+UQ4B\Cp,d.hTMZ2OA+F@aEV:jiNk6 {0L5;|*x[
+?R%of$loc:{
+    "lat": 32.514296,
+    "lng": 35.016171
+};]'E|_i<c"+1UvSLst}>`\M?O3$Hl!Vw G96anNkJX-Qm#Z(0ejyxoF,P=AT8u@^h/DY%2)C
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+ZOho;7#3{'.Y?G\y:L(Q$&DIPlBK~UTxW%MdCbHa6}wXE9,p j8Nqf@V-	!eloc:{
+    "lat": 32.514355,
+    "lng": 35.016146
+}jxY3yn|dQ"C:HU-%2Ks	wrilcT\$&gWX/>_4' Nu60om<~8B,.#hv(bk@Gt
+1R?
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+0/ IS<}r[,F-P"`pRBy)be#fwDv!7J^\l@2k9ix%Hloc:{
+    "lat": 32.514421,
+    "lng": 35.016143
+}O.ERz/\$qF"ec 8Yutn4>VdDG)0#J~{TCK7Z(^Xr=HU3w;6P'bMk&y	:]o`j!f9%L_lAS5,Qg
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+
+m<nT"|oE*aFeC'$fuSUK	>=;&%!c6P^\g32zx~[_tl7@YDOBLI.5 wJZ?#,pRv{QG0)V9sloc:{
+    "lat": 32.514502,
+    "lng": 35.016162
+}jr~2TZSy8OLVK#fqiJgWUPo
+.4p^3$Au	l}(\@;%>'
+dummy text #0
+dummy text #1
+%S@Uql7VN;#{	g/M8[ .Tj:4oi?s-6AKmzfhYWbRloc:{
+    "lat": 32.514522,
+    "lng": 35.016165
+}gV,Pl36$cEp`CHsW=wU]!S'aZ}v#IA_L?%T>f+"2 h:mY
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+ ('-a8ieo^MhIr%+],jB"Wd0Zzloc:{
+    "lat": 32.514598,
+    "lng": 35.016182
+}t7z:Q,J^\9[;C630fm
+!8'<eGyg
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+CxM_y/)loc:{
+    "lat": 32.514616,
+    "lng": 35.016187
+}VPmkxNf?M5["B]X	*Ow#W9-b;j6D8_ir>qot
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+80*
+Wi$=#Uh+6Z./)?ElAK~C&QIJO @`v7TRbsBu_g[F"9aL3d1mcwx]PYkjzDH(^VXp'oeloc:{
+    "lat": 32.514686,
+    "lng": 35.016171
+}1vqhy>a`/{M6^=fcCK2O5*QPx"J #-i$<uX['S)d7}%Yn,0bt8:.V?~kT|m\EG
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+uJ18:!vP07/FtN$&n
+OI|5VeGps`? w}T6r3_4W<a2	MLk+dA%*~Qb9;ix\ZhDflBYojc()S'yloc:{
+    "lat": 32.514703,
+    "lng": 35.016158
+}P:jJ &b4WVt\amO*3v5	de,6Zc[qu+.@p)Y
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+.ISskRnha+9lqfD1&Aw?
+y;$H=p3XZt@2xKrV4-loc:{
+    "lat": 32.514754,
+    "lng": 35.016085
+}DP4Fh2&=:jV7b*0Zc$^lJ(t.wnEx-,pyfv3z@`A98};G5q"oQ!)aXTg H/_N~	B+U6%|Sdr?#uK1W[
+{>CO]k
+dummy text #0
+dummy text #1
+uv4cy{"1go/
+-VbR=xS6DQY2e)%95G`&m_]PM0;?sLflkloc:{
+    "lat": 32.514765,
+    "lng": 35.01607
+}^	z/9Q={O1L%f>4TMJ]a+m3FE0wb,!*x"#Nhv-<6|ZpD`X\_CS~
+) kqgPWHj5Io8:.@?tA'7nGYld(u
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+je,NRzK	k=GEQ#vgCJ`Z}.m)$3r?{u6Y4d]5+I9Hox t/i"!B%s&@>b:;7FOD~XUVc8LyS^qa0T'h-
+(<2_fpAloc:{
+    "lat": 32.514825,
+    "lng": 35.016018
+}!erH[JA>cC,X&qTW9%Rnhov:
+1pB=/ja+iZI#m 5fDV'0YSQ]|b~`?"N})8GP_sM7L({<xy4d@^tuw
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+%ChJ[ec3QdOIT@W&gYso'lG+<\^{v"B.)1(uz#8 xND9n4A!/m}SVfj~,$M=7iEF?k`LPtU2
+p;_loc:{
+    "lat": 32.514843,
+    "lng": 35.016007
+}F7
+6g$WmS_4Ok%&9lxNhKj	fEZ=C'Te!Q-rz~U(
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+% !7w/c"SK
+[HRA4-LYO|(9x5\@0gVC)&?szuM=bni3]Pfl2kpy6t^WFloc:{
+    "lat": 32.514921,
+    "lng": 35.015984
+}.5Spb09,Nz~4ue7O{]TtZ!K+2A(G"1$'@?Wo`L3Ei8<D/kRMf:v|
+s
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+mdb!l#rxCw*]DO9E$:AiN_}tP,a[loc:{
+    "lat": 32.514942,
+    "lng": 35.015984
+}0cw9h+ MD|:F&*?t()jLN@2rY<y7-]Zn,Vu{.	_GSIiq416fP3x`Oe/^=K#dkoH"UQJ
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+*Dxg?L/t4U8:
+2!nG\_FCEV3P ;5cOy&-ilAvb(`=KTj	k.+][@r,HwMIo0QJh"W7)~f^R}>loc:{
+    "lat": 32.51503,
+    "lng": 35.01597
+}`ma1Rrz=:Y9>\6OFW{X@lcp[U!
+_;,$(+kx7"8I DToq	ngfbsjdLGhKQH^MN.AV~)'J}&2?3y
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+5!KAq^j4(:ZeiSIs-fn	loc:{
+    "lat": 32.515053,
+    "lng": 35.01597
+}c,{VYH
+dummy text #0
+dummy text #1
+D`v"u<*HWz$_t036X7JT:
+CN9~=	^8B+Y @|U5(].r4oqexAc1/OIh[&nVRipZyl)loc:{
+    "lat": 32.515114,
+    "lng": 35.015958
+}Hl\(}
+$
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+cZ]V!z_O edYjSyWQMCpPsK&'+RB-	26b[fJTloc:{
+    "lat": 32.515146,
+    "lng": 35.015951
+}JkD\X=: %`Ipn!lVS]vWebcKf$6Br,*H07NqG([jsYigx+T;oQM?	'8L)OAm
+.F/P4|Ea>R3~-_1}yz5Ut^<uw{d9C2h"@#Z&
+dummy text #0
+?6%^d"JMOlmL
+nkSg<9	]fa{ I;et7y|oQ!H/-P[D31_j)Zv8KG}YAhF$,5#W*.T@xbupi0=&~+\N:`CqEc2RrVloc:{
+    "lat": 32.515209,
+    "lng": 35.015942
+}i"*go$wC FNLU,r]|b0uW6I[
+tv=x95T@dX:as+{k?\2eqMO/1}^(%l.-KjSn>
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+'2GRrUk(`_S<JqEiy|BZx$3suY 	C:Aloc:{
+    "lat": 32.51524,
+    "lng": 35.015937
+}
+/M8#7=q
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+p( A&cS=>K\PW@rfaloc:{
+    "lat": 32.515328,
+    "lng": 35.015943
+}()a^123%QRX[c4kM5sTh9+g	ZUO~=&>.l$voq|f *]S!I"
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+bDvt K$*fi8Fp\ICz-/q0l5`H)E4^g[;J(xV3#y+@n:,sWjk.ouG"AO7MB6Q|haY<!d
+29>cU%'}]1r_XTP?m&Ze{L~N=	SRwloc:{
+    "lat": 32.515358,
+    "lng": 35.015946
+}e*f]r1jm^%cS:g|Uqwd9bh6>M/tu7_a4?FZ<NivyYQJoKG=!&HV~8X@[xLA'	
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+=[lkP+T`w2S(Op04Mgc&h-1N5>Ib|r
+DUCn?E_!R}q]HJB9;)a^tX6\oiG~V7zd#sFL ./%ymZ:ej	,"AvYloc:{
+    "lat": 32.515443,
+    "lng": 35.015964
+}[6]L,!h3/p#z9fb;AKX 8tYDxg<ed
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+-0;IuhW3F}"b# 2!8Vxloc:{
+    "lat": 32.515462,
+    "lng": 35.015973
+}6t?j]xzc"N5YD
+X=f3,_OVZ2&^aLK>/hrG|nvdU\uA 4	w`@Pg0';+BCkp.Q7is[oy~{T8H%1:)mlbR
+dummy text #0
+aw9
+?Z<Ud@,6)bGWQ|NVt=:RI7B1"H8_D^(`r0&X{~f2OJ]'\>*K%gmh4jCo+F y5SAxE[loc:{
+    "lat": 32.515544,
+    "lng": 35.01601
+}G7[e4}bQ_R.m2u"S?*Tc]HD`>
+lptZ$B ^65\C#0yogf/sAK{n-)M~j9&,U;h@|d!I
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+"v}rFSQJ.6j0[4% P2El{azMc:8oloc:{
+    "lat": 32.51556,
+    "lng": 35.016017
+}%Q1;}I"/OdV2'pW8?5)$Dg4|E^J9C+elzk_#Xsv	~
+3fo[:qn@ L>bP`H\mAt{iNj67]=.MRy(cK<rY0xTZ,!-G&BS*FauU
+dummy text #0
+IUcb?ABM2qyG9ND[TZ&0"xEYdfkp){4=^+S\,u<C:nO7ho(`.W|F mj;~8'!1LriJ]3>loc:{
+    "lat": 32.515638,
+    "lng": 35.016042
+}iwv<
+fW#6A~+V2m_'lzb`KeTYS5q>{13-%[yF.an\LPZXGJ*=0c	)r/"^ptMuhs@;?E $RkH&B(9jxO!dC,]:}QgU8|74DIN
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+OLWD;f@dHIV(b&7E?'~[!3{,8Qc}#oi|\qe_ag>TX+GmuPsh%z9$*	]loc:{
+    "lat": 32.51566,
+    "lng": 35.016051
+}=Hriq&N^ XDkJ\y<c[$gKeBzMR#(3U`-x/AI!Q%aj>'TbZ
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+R"eoAi.WN#s[8xg=r &Y/p5,0BPy}$wHcFV3<74mJI\loc:{
+    "lat": 32.515738,
+    "lng": 35.016069
+}/5;l~,>k
+dummy text #0
+dummy text #1
+kOd!,;n@*p[axTJ:{'R4q&28-HL	/P.<fjY u7t^Egvloc:{
+    "lat": 32.515757,
+    "lng": 35.016076
+}syrumO|fTNSwc ^A]H
+g4n9{M,"7
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+)4J&zt5U >?#X|cyIq0N7{p@mCxWjhD,T=g
++F$i6/G%2.sVM;e93-anlOu(^'\K1LS]`k_dloc:{
+    "lat": 32.515844,
+    "lng": 35.016087
+}Ac;egj2N_}+'
+3u>ZG= JTXHmy8{#!WE|Up5M[1i`l4Y"9CF.f:
+dummy text #0
+S6?JK.B
+1	 4&xO9~lloc:{
+    "lat": 32.51587,
+    "lng": 35.016071
+}UJj}Ew`;
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+poT/^	Q>~ifeJdqu`6%V\+?m7;cr]*_C"H&<xwBZ)$zAgv@Y:RPS1,WGIKa|t0'y-M
+8ks4bLN E(F59}O={!lX.3Ujloc:{
+    "lat": 32.515933,
+    "lng": 35.016016
+}U:@69/B<vt#Qs\hXCc|^{Kd e+N~Vq$gwfRIl`
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+	S4l_B)Qyrfz"2e!a*': PYN^.U{bDE];m~dh%jG9snCu<I@VRloc:{
+    "lat": 32.515953,
+    "lng": 35.015993
+}u2(|`x]@NFv	-lG<'C
+6M.R#{q&9o?_IkED~/eX[sgwQh^Z5cBU8"
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+FAG]S+3svk{	4^c0$t5(7@MYOUC%_HWDqbLPmXVd>6yawj}n\"r:Zo,T
+E K9~g&|B;uRJpz#i?e-Q<)*loc:{
+    "lat": 32.516001,
+    "lng": 35.015918
+}RCvdP8?~B9<zc@{SXe#paHm:r/*
+dummy text #0
+dummy text #1
+dummy text #2
+<kD+Eloc:{
+    "lat": 32.51602,
+    "lng": 35.015894
+}b!`f|g<2-P%*][vMdV"u~oZ	=_q3k0/e+ct9Wa5}Uh,
+y Q?mS(iC8>DF
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+){ouMYTW2s=`&nJr.GIVhCPi^pe]kE(*6loc:{
+    "lat": 32.516074,
+    "lng": 35.015828
+}@Y1+4{.VN	X|C9mD/HB&%E38!A~wIr_^\[-J:Keh>T
+Z)72`zR]tb$Ogu<0;SW#(?L'j=5Po"6}*M
+dummy text #0
+dummy text #1
+1q\T+XU"&N}fhB?vcCiDbprH7w~!YFLO=6MA>/(-s$Ikomaloc:{
+    "lat": 32.516091,
+    "lng": 35.015804
+}/6D4` bjcQ{f
+dummy text #0
+Q6P~.:l&?/ ;GcIWMK@X',b(_Sk=!%smJH>D*fwzvo28q})-L`Rp09ZghY7e]V#Nu"y|C<E4A\aOBU$[+^{351x
+t	ijloc:{
+    "lat": 32.516142,
+    "lng": 35.01573
+}k2?9RQ'<i$nf]z_(q"cygP8 t5bN}LjU=sYpOvlE4,uI6\/	*r`xZX^J>.&S3C1|w[~m%A
+dummy text #0
+dummy text #1
+Sy7H^v)2Ng/Px._lq@e4awK-sDd|T%fbr}Uz'Z]~upF51+$
+nBMI(#9\!Emj0 6Ccit3OWloc:{
+    "lat": 32.516157,
+    "lng": 35.015705
+}#~RGHY7IT^B2
+FgAb:`\VQ,m1s3]<JeEyP"SO N*r'zq@8kcM[$>;+ftK?Z!D&	)vow%x}ipn6/=Wh{X4_|-5laU.uCL(j
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+ePS)!C54ti8I2*morlloc:{
+    "lat": 32.516211,
+    "lng": 35.01564
+}x)<U=?>1h!$#r
+J8Kt.;9{5NPIYw_XuF|g&ea WzVLbk,GSfvD0\mT%`Hn2q3(jy'p/AiOs^	7Z6+
+dummy text #0
+hdWKL>}-C8ZG=aT[vQ_loc:{
+    "lat": 32.516225,
+    "lng": 35.015617
+}B" qe])ObTXF[?CW-2|Uk:K'Z/woA;l^5_7m	u~6SvRa3i10Q{9D
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+u@<_!zNQ?WMbf67n|*`YJ;,loc:{
+    "lat": 32.516278,
+    "lng": 35.015551
+}CI"#x7
+:J=RH{~&hS^u%[]q?;*5Zik,T0-g3tWm+_\
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+;EO2F,aT6})u	`PU@=CVh4dL~m>rAe8-XH$lfbv"wtR+*3%z?oq#s{Dloc:{
+    "lat": 32.516301,
+    "lng": 35.015533
+}tAwen2l p!+O3RTcCNZG$5
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+24h.	czpuG-yYT6Z)b$:&>(!8oIgq 0{ESDXNB~O
+wx_ialoc:{
+    "lat": 32.516361,
+    "lng": 35.015468
+}vH.R@g}7;!ol$8\^Q,4r{*<'x=9:
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+
+f?17swN^[gFP@TZvc,`lQCxbjd{'}%m	pqWH(-!U;loc:{
+    "lat": 32.51638,
+    "lng": 35.015444
+}<Ay-
+NB:
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+Vz\:{
+t7.kj~1JmY#r%[TCxS]2Qiv/)q0^O@3P6e+"n loc:{
+    "lat": 32.516442,
+    "lng": 35.015369
+}}t5$;mB6%vGsqLp!nXiyF'9eUNu\l:/
+h*d EAH<Zz+2Ta|>If	1k]`8{[QR(c4CM@S^#W?o-J&")wr3x~
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+t$1 79feuYm#loc:{
+    "lat": 32.516462,
+    "lng": 35.015343
+}c4Sl/\N^FA3bZVMwJLK?jx[f	k
+>0pyY
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+Zw[?RDjFy_kT:xi(8uPloc:{
+    "lat": 32.516517,
+    "lng": 35.015264
+}JWE/:X	6+iHYLq?s~rKS&P9ZaOjVw4to[8k)"F.{@g|DN_v},5A<hI
+]#!RfCeM`7cG
+dummy text #0
+dummy text #1
+dummy text #2
+|Wzw"kQtY(<!iJch
+`Pu6	0l*9M8pa3$mSLrGdT.N@U)>y5[XROj?A;\1f7]_H2K+sxV/loc:{
+    "lat": 32.516537,
+    "lng": 35.015238
+}re/f3h.gobv[7;!zIn?Np^(FCJO&\s=_9mKPQ>YV`<D 0+RZ2
+S4A-ytiwHWE1])|}	$l%,jT5:x
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+42ysU|jAloc:{
+    "lat": 32.516592,
+    "lng": 35.015157
+}Jucz+'Z@IRpBoFdL#:~t	Q^2Ma|yO?D,s!A jS(&N31_\}rT){0k9UnP64fwm"h8[xg=`v;<%HlXC
+YWK]>/G5*-eb
+dummy text #0
+b9+Bxt[`g'4:2,~K>
+sED63l$=(0yXkR.loc:{
+    "lat": 32.51661,
+    "lng": 35.015129
+}E~YvroAJ SwTsa
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+P~bI(}k4TtMLXma[U@?dW8+OCH<12:Ych`z-6^$5rjo>'s	BvJy/
+|lV"FS,%R&{w\ QNEu=loc:{
+    "lat": 32.516665,
+    "lng": 35.015048
+}6	cNfk"R/5-,TAW02J}&u
+[e3bV>q~G;<|*j ):+Dy9(?t7a#`
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+s%:./VYe1 |P$6J#}SD`ltFW-8nNI4_'h0
+r=QG?w	gmbUM{qo;2Cv@ykzOK(<!*x)Bp"d]LiTa&~loc:{
+    "lat": 32.516683,
+    "lng": 35.015023
+}e=tW0c|u	 f9:QDR5yqV#`iX^~MJKS1o,Pz$/wA
+dummy text #0
+dummy text #1
+[vfrenMj;<Y1_,K#UE)(.Jiaw-loc:{
+    "lat": 32.516736,
+    "lng": 35.014943
+})_]4Bc2" T1Mr,x6%>7~XSDN{:*<nf^a$Q8@0([L9OW}VmqlPi|+oY	3!`k=w;/Z#hg
+v.deHb\'zKAC
+dummy text #0
+nNXPO?&>ob4 FMdrjCkwy2s+V0h'|[ZD3~I*\;YJgaEQ{ploc:{
+    "lat": 32.516754,
+    "lng": 35.014916
+}e{3"@G?+4|>JY,MuDIEN!i7qdx&kT
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
++lx;*fARQg@ 3
+'aT60<Y8L]PcV%rZ)Gue!UWK_tsp,E{C/Nh":qn}O^-dzD#&SXB1ym`kMo(loc:{
+    "lat": 32.5168,
+    "lng": 35.014835
+}_X#b(B"/c
+~yd|9QC{Gu= -FLpwmIU;o7e4f&N	3<J^
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+Dds4}cWG|{l]XYM`0H@qyI:&K2waQ'!?ZxC+F>6[Tr 5~	OB=P8vEoehloc:{
+    "lat": 32.516818,
+    "lng": 35.01481
+}\FK, ;R@
+MP~L>T3/<]$WVCZgruxNw6)#yf&BH+ej`bk98p4qsmG!(1-E=zn2?a{DhO*_^YIt0
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+L	kW}:
+0wP"?d.pxQOs|)*{2oKti$la<C=ARmb!U97_Fq'B^N>y\,#grloc:{
+    "lat": 32.516873,
+    "lng": 35.014737
+}J<
+Wz>aH52M_oQBUZ	I -~f!,OuS"ib+?PY`})*j76cp\eC.]h^
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+PI}&l9u-LoN0y 6)%_MsTr/{a^?*Kji+wZXUAkqDxC|tVQmpbF
+=],GJ;!"`nOz54@g$	\e[v3(:cHd~Y<SE'7>h1BR#loc:{
+    "lat": 32.516889,
+    "lng": 35.014709
+}Wo1w\{`?~T!6x8-
+&ezd=}RhaPt.Nkn9D$BM2*#U[3@m:7sO	Cf_r]A<,LlvHZ%qbjQ5y);YVG I(0upX"^
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+[FJ~=o]$#H-65Np|;*yL	M"tC.R0{'zq_xm+7^!?eB2K&gs4l1aloc:{
+    "lat": 32.516933,
+    "lng": 35.014617
+}W8'<[hfRn:"GMs Ke=LuP_7CoZ(
+dummy text #0
+dummy text #1
+RlN|U"	S2ja
+E)\om18iB}dPQ~f[<3@7YW'Zx05+{9My(r4huLz_]wG%T#*Hp6,loc:{
+    "lat": 32.516945,
+    "lng": 35.014584
+}v&	A^jahi84)ed-.5o[=6n'xmS3P>N7<YI+} kK_`LF"WV\cp(|f1
+*wrlJUb,$2H9uRE
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+dummy text #8
+dummy text #9
+Y~l)$ W%etkjJgAB5+!d.^/{E7]o(auT[z?|r}OKIC3M\>loc:{
+    "lat": 32.516971,
+    "lng": 35.014518
+}%6r,2	~h
+`M>g&/(Kc$fik
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+fM%0.oA	F>=xW{@m^tu2cI[}a(h~z,| 
+9b5G$Ssd78J#k;rgZ_X&]Pw-l6v*R:D\UpVloc:{
+    "lat": 32.516984,
+    "lng": 35.014484
+}|{\5Q8v(0qA"z
+	s*CViJ3MT6SD,tga'4Pu%)NbpEH?#y/;7R>d]+~x.B2UO!_lK^<}GYL=o[ce9`
+dummy text #0
+kxJ|c V$KC,E/Orv%!WSRd0g_Y(	<"fMsPIm[ab7.BU^uAzlyG4njT-Z'9+L6Dloc:{
+    "lat": 32.51702,
+    "lng": 35.014387
+}utz62$RE;n_/J<)`9Q
+=[ A"IFVg
+dummy text #0
+dummy text #1
+a;"fzsJt1cCEbx(=_ np	%I.Z\ri$y]ATSQ9qOMl*oB5^hL+<@G8w-uU,vXY0
+R4|#:~?loc:{
+    "lat": 32.517035,
+    "lng": 35.014355
+}q
+!Bv'N"QE~_1@rZGuyfA)=0+?C	4^{9F$nhY}p3W-M;jL[PU#>/a7ImJ]%<b&s* 
+dummy text #0
+dummy text #1
+gw'"!9Nloc:{
+    "lat": 32.517087,
+    "lng": 35.014279
+}<2Q30L4@&),.1'C-uZ?dPA`YGi>^[_$s+;fRV|F!E#(bh%a}jeO	WqTc*I ~DxKz/6w
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+dummy text #5
+dummy text #6
+dummy text #7
+rH=$1dh/{Ym!%l7Z-pn^(
+?eC"u[Tt0cjMWQOwA>i~oE*q G2J}X:yVx|RI6.zbs9#FD'gP`)S]	KL3;@_58loc:{
+    "lat": 32.517098,
+    "lng": 35.014264
+}+HD5,Oq1@%;x>Z
+dummy text #0
+dummy text #1
+dummy text #2
+dummy text #3
+dummy text #4
+h~HBnm+l}c-EI"u*?y>aSG@jkA'iR/Y&stP%p;4Mv[bXW$loc:{
+    "lat": 32.517142,
+    "lng": 35.014212
+}=aZM,~;}Fo2Cgmd(_@!{|3lqKcpbG-P)4[j\TN7O	.]Ys^WAun
+xQy8?Xh9`>Lz*I#fH1Uk

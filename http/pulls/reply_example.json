@@ -1,0 +1,15 @@
+[
+  {
+    "number": 138,
+    "state": "open",
+    "title": "Add option to filter by date",
+    ...
+  },
+  {
+    "number": 297,
+    "state": "open",
+    "title": "Moving average calculation fails with missing data (nan)",
+    ...
+  },
+  ...
+]
